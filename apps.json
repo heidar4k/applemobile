@@ -4,12 +4,12 @@
     "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
     "apps": [
         {
-            "name": "AIChatSmith",
-            "bundleIdentifier": "co.vulcanlabs.moodtracker",
-            "version": "6.3.1",
+            "name": "Pasargad",
+            "bundleIdentifier": "com.dt.psgd.MB2",
+            "version": "12.0.1",
             "versionDate": "2023-11-12",
             "size": 68210762,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/AIChatSmith-6.3.1.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/pasargad-v12.0.1.ipa",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/co.vulcanlabs.moodtracker.png"
