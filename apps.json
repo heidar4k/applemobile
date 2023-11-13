@@ -1,7 +1,8 @@
 {
-    "name": "همراه بانک",
-    "identifier": "com.applemobile.ios",
-    "sourceURL": "https://raw.githubusercontent.com/heidar4k/applemobile/main/apps.json",
+  "META": {
+    "repoName": "Apple Mobile Repo",
+    "repoIcon": "https://usescarlet.com/favicon.png"
+  },
     "apps": [
         {
             "name": "Pasargad",
