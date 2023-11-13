@@ -87,16 +87,16 @@
       "appstore": "com.frontierdesign.videostar"
     }
   ],
-  "Jailbreaks": [
+  "Bank": [
     {
-      "name": "Taurine",
+      "name": "Pasargad",
       "version": "1.1.7",
-      "icon": "https://cdn.discordapp.com/attachments/752890955236901055/829728600446074930/Taurine.png",
-      "down": "https://github.com/Odyssey-Team/Taurine/releases/download/1.1.7-3/Taurine.1.1.7-3.ipa",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-15899142561296-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2023/pasargad-v12.0.1.ipa",
       "dev": "Odyssey-Team",
-      "category": "Jailbreaks",
+      "category": "Bank",
       "description": "Time to get amped.",
-      "bundleID": "com.odysseyteam.taurine",
+      "bundleID": "com.dt.psgd.MB2",
       "screenshots": [
         "https://taurine.app/assets/images/iphones.png",
         "https://taurine.app/assets/images/iphone.png"
