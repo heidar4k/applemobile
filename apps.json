@@ -1,7 +1,7 @@
 {
-    "name": "swaggyP36000 IPA Library",
-    "identifier": "xyz.hieuddo.ipalibrary",
-    "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
+    "name": "همراه بانک",
+    "identifier": "com.applemobile.ios",
+    "sourceURL": "https://raw.githubusercontent.com/heidar4k/applemobile/main/apps.json",
     "apps": [
         {
             "name": "Pasargad",
