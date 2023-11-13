@@ -5,13 +5,13 @@
   },
   "Games": [
     {
-      "name": "iPogo",
-      "version": "0.287.0",
-      "down": "https://ipogo.app/download/ipogo-3.1.7.ipa",
+      "name": "Pasarga",
+      "version": "12.0.1",
+      "down": "https://dl3.apptrackr.ir/ios/2023/pasargad-v12.0.1.ipa",
       "category": "Hacked Games",
       "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
-      "bundleID": "com.nianticlabs.pokemongo",
-      "appstore": "com.nianticlabs.pokemongo"
+      "bundleID": "com.dt.psgd.MB2",
+      "appstore": "com.dt.psgd.MB2"
  
     }
   ]
