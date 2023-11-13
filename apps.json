@@ -4,58 +4,14 @@
     "repoIcon": "https://usescarlet.com/favicon.png"
   },
     "apps": [
-        {
-            "name": "Pasargad",
-            "bundleIdentifier": "com.dt.psgd.MB2",
-            "version": "12.0.1",
-            "versionDate": "2023-11-12",
-            "size": 68210762,
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/pasargad-v12.0.1.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://cdn.appleapps.ir/2020/05/at-15899142561296-100x100.png"
-        },
-        {
-            "name": "Saderat",
-            "bundleIdentifier": "com.isc.saderatBankb",
-            "version": "8.7",
-            "versionDate": "1402-03-07",
-            "size": 267000,
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/saderat8.7i.ipa",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://cdn.appleapps.ir/2020/05/at-16086327911072-100x100.png"
-                "description": "جدید ترین نسخه رسمی همراه بانک صادرات ایران را می توانید از اپل اپس به روش ادهاک به صورت مستقیم نصب نمایید ..
-
-ویژگی های همراه بانک صادرات iOS :
-
-اطلاع از مانده حسابهای خود و انواع سپهر کارتها
-اطلاع از ١٠ تراکنش آخر حساب و کارت در صورت استفاده از بستر اینترنت (٣ تراکنش آخر بر بستر پیامک)
-دریافت اطلاعات تسهیلات (مبلغ و تاریخ سررسید قسط جاری، تعداد اقساط معوقه، مبلغ بدهی باقیمانده)
-بین حسابهای خود بدون محدودیت
-از حساب به سایر حسابها و کارتهای بانک صادرات
-کارت به کارت (شتابی و غیر شتابی)
-بین بانکی (از طریق سامانه پایا)
-با استفاده از این سرویس مشتری می تواند مجوز برداشت وجه بدون کارت را صادر نموده و شخص ذینفع بدون استفاده از کارت و با مراجعه به دستگاه خودپرداز وجه مورد نظر را دریافت نماید.
-بین بانکی با استفاده از شماره شبای حساب تسهیلات
-استعلام وضعیت چکهای صادره
-تعیین تاریخ سر رسید چکهای صادره
-پرداخت قبوض عمومی از طریق شماره حساب یا کارت با امکان استفاده از بارکدخوان
-خرید رمز شارژ
-شارژ مستقیم سیم کارتهای اعتباری
-دریافت اطلاعات سه شارژ آخر خریداری شده
-امکان یافتن اطلاعات شعب (با امکان وارد نمودن کد شعبه یا استفاده از GPS بمنظور یافتن نزدیکترین شعب)
-اعلام مفقودی سپهر کارت
-دریافت و تغییر رمز حساب
-اخذ گزارش قبوض پرداخت شده توسط همراه بانک در یک بازه زمانی خاص
-اعلام نرخ ارز
-اعلام شناسه حساب بانکی ایران (شبا) برای حساب های سپهری
-نمایش لیست حسابهای متصل به کارت
-امکان ثبت شماره های پرکاربرد
-امکان تغییر زبان برنامه (فارسی – انگلیسی)
-امکان ارتباط از طریق بستر اینترنت و پیامک
-
-این نسخه از همراه بانک صادرات برای iOS ، درواقع همان فایل نصبی می باشد که در وب سایت بانک صادرات به صورت ساین اینترپرایز قرار گرفته است که هم اکنون در اپل اپس با روش نوین و پایدار ادهاک قابل نصب می باشد",
-        },
+    {
+      "name": "PPSSPP",
+      "version": "1.15.3",
+      "icon": "https://usescarlet.com/Repo/ppsspp.png",
+      "down": "https://bucket.usescarlet.com/scarletapps/PPSSPP_v1.15.4-69-gca75e2015.ipa",
+      "category": "Emulators",
+      "description": "PPSSPP can run your PSP games on your PC or Android phone in full HD resolution or even higher. It can also upscale textures to make them sharper, and you can enable post-processing shaders to adjust color and brightness the way you like, and other effects.",
+      "enableBackup": true
+    }
     ]
 }
