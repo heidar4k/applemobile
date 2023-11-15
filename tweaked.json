@@ -2,7 +2,7 @@
     "name": "Tweaked Apps",
     "identifier": "xyz.hieuddo.ipalibrary",
     "sourceURL": "https://raw.githubusercontent.com/heidar4k/applemobile/main/tweaked.json",
-    "Jailbreaks": [
+    "Tweaked Apps": [
         {
        "name": "Instagram Rocket",
             "bundleIdentifier": "com.burbn.instagram",
@@ -10,22 +10,96 @@
             "versionDate": "2023-11-15",
             "size": 131002310,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/InstaRocketBH-309.1.1-3.8.16.ipa",
-            "category": "Jailbreaks",
+            "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
             "appstore": "com.burbn.instagram"
         },
-        {
-            "name": "BHX",
-            "bundleIdentifier": "com.atebits.Tweetie2",
-            "version": "10.16-4.0",
-            "versionDate": "2023-11-15",
-            "size": 113313148,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHX-10.16-4.0.ipa",
+         {
+            "name": "Instagarm Rocket Cracked",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "309.0.1-3.8.16",
+            "versionDate": "2023-11-14",
+            "size": 138663420,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-14-2023/InstaRocketCracked-309.0.1-3.8.16.ipa",
+            "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+            "appstore": "com.burbn.instagram"
+        },
+          {
+            "name": "ReminiPro",
+            "bundleIdentifier": "com.bigwinepot.nwdn.international",
+            "version": "2.9.93",
+            "versionDate": "2023-11-13",
+            "size": 159704507,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/ReminiPro-2.9.93.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
+        },
+        {
+            "name": "PhotoshopExpress",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "23.44.1",
+            "versionDate": "2023-11-12",
+            "size": 154639594,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/PhotoshopExpress-23.44.1.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+        },
+        {
+            "name": "YouTubeOLED",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "18.45.2",
+            "versionDate": "2023-11-15",
+            "size": 126508941,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/YouTubeOLED-18.45.2.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+        },
+        {
+            "name": "YTMusicUltimate",
+            "bundleIdentifier": "com.google.ios.youtubemusic",
+            "version": "1.5.2-6.28.0",
+            "versionDate": "2023-11-15",
+            "size": 68687989,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/YTMusicUltimate-1.5.2-6.28.0.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+        },
+         {
+            "name": "PicsartPlusPlus",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "23.6.3",
+            "versionDate": "2023-11-13",
+            "size": 90738824,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsartPlusPlus-23.6.3.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png"
+        },
+        {
+            "name": "InfusePro",
+            "bundleIdentifier": "com.firecore.infuse",
+            "version": "7.6.3",
+            "versionDate": "2023-11-15",
+            "size": 41921164,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/InfusePro-7.6.3.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
         }
         
      ]
