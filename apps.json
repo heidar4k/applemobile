@@ -422,7 +422,12 @@
       "icon": "https://app.appleapps.ir/storage/2020/05/at-16888342911176-100x100.jpeg",
       "down": "https://dl3.apptrackr.ir/ios/2023/myirancell3.0.1.ipa",
       "category": "Jailbreaks",
-      "description": "این نسخه از اپلیکیشن در واقع همان نسخه وب اپلیکیشن ایرانسل من می باشد که به شکل اپلیکیشن نصبی در آمده است و  تنها قادر به مدیریت یک حساب می باشد",
+      "description": "با نسل جدید ایرانسل من نه تنها می‌توانید حساب ایرانسلی‌تان را به ساده‌ترین شکل ممکن مدیریت کنید، بسته‌های اینترنت و مکالمه ایرانسلی را به‌راحتی بخرید، قبض سیم‌کارت دائمی‌تان را پرداخت کنید یا حساب سیم‌کارت اعتباری‌تان را شارژ کنید، بلکه به بازار بزرگی از محصولات و خدمات متنوع دیجیتال ایرانسلی و غیر ایرانسلی هم دسترسی دارید و از نصب تعداد زیادی از اپلیکیشن‌های ارائه‌دهنده محصولات و خدمات دیجیتال دیگر بی‌نیاز می‌شوید!",
+        "screenshots": [
+      "https://sandbox.sibirani.ir/statics_public/attachments/2023/10/31/Slice_1.jpg",
+      "https://sandbox.sibirani.ir/statics_public/attachments/2023/10/31/Slice_5.jpg",
+      "https://sandbox.sibirani.ir/statics_public/attachments/2023/10/31/Slice_3.jpg"
+      ],
  },
       {
       "name": "رایتل من | MyRightel",
@@ -430,7 +435,16 @@
       "icon": "https://cdn.appleapps.ir/2020/05/at-15900852021696-100x100.jpeg",
       "down": "https://dl3.apptrackr.ir/ios/2023/rightel14.3.11.ipa",
       "category": "Jailbreaks",
-      "description": "نکته مهم : این اپ صرفا به درخواست کاربران قرار گرفته و فایل نصبی نیز توسط کاربران برای اپل اپس ارسال شده و پس از تست شدن جهت خدمت به کاربران ایرانی و مشترکین رایتلی که استور اپل اپس استفاده می کنند  در اپل اپس قرار گرفته  است .",
+      "description": "با استفاده از اپلیکیشن رایتـل من می توان بسیاری از امور مربوط به سیم‌کارت مانند خرید بسته، شارژ عادی و شورانگیز، مشاهده و پرداخت صورتحساب، مدیریت سیم‌کارت‌های تحت مالکیت، مدیریت مصرف بسته ها، استفاده از فرصت های ارغوانی، بهره مندی از جوایز روزهای های رایتلی ، استفاده از بسته های ویژه اپلکیشن درخواست دریافت ریز‌ارتباطات و غیره را در کمترین زمان ممکن صورت داد.",
+        "screenshots": [
+           "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/18/افزایش%20اعتبار-%20ایفون.jpg",
+           "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/18/خرید%20بسته-%20ایفون.jpg",
+           "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/18/رمز%20یک%20بار%20مصرف-%20ایفون.jpg",
+           "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/18/روزهای%20رایتلی-%20ایفون.jpg",
+           "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/18/صفحه%20اول-%20ایفون.jpg",
+           "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/18/فرصت%E2%80%8Cهای%20اغوانی-%20ایفون.jpg",
+           "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/18/نواحی%20تحت%20پوشش-%20ایفون.jpg"
+       ],
  
     }
   ]
