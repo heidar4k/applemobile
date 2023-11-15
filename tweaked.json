@@ -1,0 +1,30 @@
+{
+    "name": "Tweaked Apps",
+    "identifier": "xyz.hieuddo.ipalibrary",
+    "sourceURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/apps.json",
+    "apps": [
+        {
+            "name": "BHTikTokPlus",
+            "bundleIdentifier": "com.zhiliaoapp.musically",
+            "version": "32.1.0-2.3",
+            "versionDate": "2023-11-15",
+            "size": 268499892,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHTikTokPlus-32.1.0-2.3.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.zhiliaoapp.musically.png"
+        },
+        {
+            "name": "BHX",
+            "bundleIdentifier": "com.atebits.Tweetie2",
+            "version": "10.16-4.0",
+            "versionDate": "2023-11-15",
+            "size": 113313148,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/BHX-10.16-4.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.atebits.Tweetie2.png"
+        }
+        
+     ]
+ }
