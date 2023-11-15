@@ -13,7 +13,8 @@
             "category": "Jailbreaks",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+            "appstore": "com.burbn.instagram"
         },
         {
             "name": "BHX",
