@@ -15,7 +15,7 @@
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
             "appstore": "com.burbn.instagram",
-            "bundleID": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram"
 
         },
          {
@@ -42,7 +42,8 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
-            "appstore": "com.bigwinepot.nwdn.international"
+            "appstore": "com.bigwinepot.nwdn.international",
+            "bundleID": "com.bigwinepot.nwdn.international"
         },
         {
             "name": "PhotoshopExpress",
