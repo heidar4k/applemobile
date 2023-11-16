@@ -14,8 +14,7 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-            "appstore": "com.burbn.instagram",
-            "bundleID": "com.burbn.instagram"
+            "appstore": "com.burbn.instagram"
 
         },
          {
@@ -26,8 +25,9 @@
             "size": 138663420,
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/InstaRocket307.0.2Mod.ipa",
             "category": "Tweaked Apps",
+            "changelog": "- برطرف شدن مشکل نصب ( اگر خراب نصب شده باید پاکش کنید مجدد نصب کنید) به روز رسانی  اینستاگرام به جدید ترین نسخه هماهنگ با اپ استور v307.0.2 - جدید ترین نسخه توییک راکت 3.8.16",
             "developerName": "",
-            "localizedDescription": "",
+            "localizedDescription": "این نسخه به صورت مجزا در کنار اینستاگرام اصلی که از اپ استور اپل نصب کردید نصب می شود . ( اسم اپ Rocket ) هست که بتونید تشخیص بدین این نسخه رو از نسخه اصلی اینستا، نحوه فعال سازی لایسنس کرک :پس از وارد شدن به اپ وارد تنظیمات توییک Rocket بشید و Upgrade Now رو بزنید تا یک پروفایل دانلود بشه و اون پروفایل رو نصب کنید تا بتونید روی restoe License کلیک کنید و لایسنس کرک فعال بشه و بدون محدودیت و تبلیغ استفاده کنید .",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
             "appstore": "com.burbn.instagram"
         },
@@ -42,8 +42,7 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
-            "appstore": "com.bigwinepot.nwdn.international",
-            "bundleID": "com.bigwinepot.nwdn.international"
+            "appstore": "com.bigwinepot.nwdn.international"
         },
         {
             "name": "PhotoshopExpress",
