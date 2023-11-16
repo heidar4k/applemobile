@@ -39,7 +39,8 @@
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
+            "appstore": "com.bigwinepot.nwdn.international"
         },
         {
             "name": "PhotoshopExpress",
