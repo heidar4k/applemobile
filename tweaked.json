@@ -1,7 +1,6 @@
 {
-    "name": "Tweaked Apps",
-    "identifier": "xyz.hieuddo.ipalibrary",
-    "sourceURL": "https://raw.githubusercontent.com/heidar4k/applemobile/main/tweaked.json",
+    "repoName": "Apple Mobile Repo (Tweaked)",
+    "repoIcon": "https://i.postimg.cc/Z5kTTkjG/temp-Image35-CBu-R.jpg"
     "Tweaked Apps": [
         {
        "name": "Instagram Rocket",
