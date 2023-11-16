@@ -14,7 +14,9 @@
             "developerName": "",
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-            "appstore": "com.burbn.instagram"
+            "appstore": "com.burbn.instagram",
+            "bundleID": "com.burbn.instagram",
+
         },
          {
             "name": "Instagarm Rocket Duplicated",
