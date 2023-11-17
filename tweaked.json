@@ -153,6 +153,20 @@
             "localizedDescription": "✅💲: توسط نسخه پریمیوم سری هفتم اپلیکیشن محبوب Infuse 7 بدون نیاز به پرداخت ۷۵ دلار هزینه درون برنامه ای به تمامی قابلیت های پولی برنامه به صورت رایگان دسترسی داشته باشید",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
         },
+
+           {
+            "name": "Speedtest Premium",
+            "bundleIdentifier": "com.ookla.speedtest",
+            "appstore": "com.ookla.speedtest"
+            "version": "5.2.0",
+            "versionDate": "2023-11-12",
+            "size": 50349482,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/SpeedtestPremium-5.2.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
+        },
+    
      ],
     
             "Games": [
