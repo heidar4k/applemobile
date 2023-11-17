@@ -157,7 +157,7 @@
            {
             "name": "Speedtest Premium",
             "bundleIdentifier": "com.ookla.speedtest",
-            "appstore": "com.ookla.speedtest"
+            "appstore": "com.ookla.speedtest",
             "version": "5.2.0",
             "versionDate": "2023-11-12",
             "size": 50349482,
