@@ -171,6 +171,20 @@
             "appstore": "com.playdeadgames.inside.ios"
 
         },
+        {
+       "name": "Minecraft",
+            "bundleIdentifier": "com.mojang.minecraftpe",
+            "version": "1.20.41",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Minecraftv1.20.41.ipa",
+            "category": "Hacked Games",
+            "changelog": "تغییرات آخرین نسخه ( 1.20.41 ) بروزرسانی به آخرین نسخه منتشر شده اپ استور",
+            "developerName": "",
+            "localizedDescription": "❕نسخه های جدید ماینکرفت قابلیت لاگین به اکانت ماکروسافت را ندارند. (محدودیت نصب جانبی). در بازی محبوب ماینکرافت Minecraft برای آیفون می توانید هر آنچه دوست دارید را بسازید . به کمک بلوک ها و شکل هایی که در اختیار دارید می توانید طرح های خلاقانه بسازید و استعداد و دقت خود را به چالش بکشید . البته نکته مهم این هست که موقع ساخت باید به مدل چینش و بلوک گذاری دقت کنید و به صورت مهندسی آنهارا قرار بدهید  چون ممکن است پس از ساخت با اشتباه قرار دادن یک بلوک باعث ریزش کل بنایی که ساختین شود",
+            "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16951600881056-100x100.jpg",
+            "appstore": "com.mojang.minecraftpe"
+
+        },
         
      ]
  }
