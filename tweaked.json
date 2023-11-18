@@ -4,6 +4,22 @@
     "repoIcon": "https://i.postimg.cc/Z5kTTkjG/temp-Image35-CBu-R.jpg"
     },
     "Tweaked Apps": [
+        
+        {
+                    "name": "Instagram LRD",
+                    "appstore": "com.burbn.instagram"
+                    "bundleIdentifier": "com.burbn.instagram",
+                    "version": "309.1.1",
+                    "versionDate": "2023-11-18",
+                    "size": 133751676,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/InstagramLRD-309.1.1.ipa",
+                    "category": "Tweaked Apps",
+                    "changelog": "نکته مهم قبل از نصب  : دقت کنید این نسخه از Instagram LRD به صورت داپلیکیت به شکل مجزا در کنار اینستاهای دیگر شما نصب خواهد شد و  باندل آیدی متفاوت با دیگر نسخه های اینستا دارد. برای فعال سازی قابلیت های توییک باید پس از اجرای اپ به Setting رفته و تک تک قابلیت هارو فعال کنید و یکبار اپلیکیشن اینستا رو ببندید مجدد باز کنید تا فعال بشه. برای دانلود پست ها باید دستتون رو روی پست ویدیو یا تصویرنگه دارید تا سایز یا کیفیت نمایش داده شود و دانلود کنید
+",
+                    "developerName": "",
+                    "localizedDescription": "همون طور که قول داده بودیم  جدید ترین نسخه اینستاگرام LRD ، نسخه ای پیشرفته از اینستاگرام که قابلیت های به شدت کاربردی مثل دانلود پست ها ،‌استوری ها ، سین نخوردن استوری ، دیدن استوری به شکل مخفی و ... برای شما فراهم می کنه که به شکل کرک شده برای اولین بار جهت نصب مستقیم و رایگان قرار گرفته است .",
+                    "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+                },
         {
        "name": "Instagram Rocket",
             "bundleIdentifier": "com.burbn.instagram",
