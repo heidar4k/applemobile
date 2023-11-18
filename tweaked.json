@@ -4,6 +4,21 @@
     "repoIcon": "https://i.postimg.cc/Z5kTTkjG/temp-Image35-CBu-R.jpg"
     },
     "Tweaked Apps": [
+        
+        {
+                    "name": "Instagram LRD",
+                    "appstore": "com.burbn.instagram"
+                    "bundleIdentifier": "com.burbn.instagram",
+                    "version": "309.1.1",
+                    "versionDate": "2023-11-18",
+                    "size": 133751676,
+                    "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/InstagramLRD-309.1.1.ipa",
+                    "category": "Tweaked Apps",
+                    "changelog": "",
+                    "developerName": "",
+                    "localizedDescription": "همون طور که قول داده بودیم  جدید ترین نسخه اینستاگرام LRD ، نسخه ای پیشرفته از اینستاگرام که قابلیت های به شدت کاربردی مثل دانلود پست ها ،‌استوری ها ، سین نخوردن استوری ، دیدن استوری به شکل مخفی و ... برای شما فراهم می کنه که به شکل کرک شده برای اولین بار جهت نصب مستقیم و رایگان قرار گرفته است .",
+                    "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+                },
         {
        "name": "Instagram Rocket",
             "bundleIdentifier": "com.burbn.instagram",
