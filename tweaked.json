@@ -201,6 +201,19 @@
                     "appstore": "com.bluebraingames.thehouseofdavinci3"
 
                 },
+                
+                {
+               "name": "The School : White Day",
+                    "bundleIdentifier": "kr.co.roigames.whiteday",
+                    "version": "2.2.275",
+                    "versionDate": "",
+                    "downloadURL": "https://dl3.apptrackr.ir/ios/2022/whiteday2.2.275.ipa",
+                    "category": "Hacked Games",
+                    "developerName": "",
+                    "iconURL": "https://cdn.appleapps.ir/2023/02/at-16771500821949-100x100.jpg",
+                    "appstore": "kr.co.roigames.whiteday"
+
+                },
         {
        "name": "Playdead's INSIDE",
             "bundleIdentifier": "com.playdeadgames.inside.ios",
