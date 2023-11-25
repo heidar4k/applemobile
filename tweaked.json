@@ -64,13 +64,12 @@
           {
             "name": "Remini Pro",
             "bundleIdentifier": "com.bigwinepot.nwdn.international",
-            "version": "2.9.93",
-            "versionDate": "2023-11-13",
-            "size": 159704507,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/ReminiPro-2.9.93.ipa",
+            "version": "2.9.97",
+            "versionDate": "2023-11-18",
+            "size": 165665822,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/ReminiPro-2.9.97.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
             "appstore": "com.bigwinepot.nwdn.international"
         },
