@@ -34,30 +34,6 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
             "appstore": "com.burbn.instagram"
         },
-        {
-            "name": "VN Video Editor Pro",
-            "bundleIdentifier": "com.frontrow.vlog",
-            "version": "1.75.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xvlog1.75.1.ipa",
-            "category": "Tweaked Apps",
-            "changelog": "این نسخه بصورت پیش فرض آنلاک شده است",
-            "developerName": "",
-            "localizedDescription": "نسخه پریمیوم شده را بدون نیاز خرید درون برنامه ای 70دلاری دریافت کنید. اپلیکیشن VN Video Editor برای آماتور ها و حرفه ای ساخته شده تا به شکل رایگان و بدون واتر مارک بهترین ادیت هارو روی ویدیوی هاتون بزنید و با بالاترین کیفیت از ویدیو خروجی بگیرید. این اپلیکیشن تقریبا پرکاربرد ترین قابلیت های برنامه های ویرایش ویدیو رو در خودش داره و به جرات میشه گفت توی گوشی میتونه با طرح کاربری ساده تر یک سری کار های پریمییر رو براتون انجام بده. اپلیکیشن VN Video Editor در اپ استور هم به شکل رایگان قرار گرفته و هم اکنون هم میتونید جدید ترین نسخه هماهنگ با اپ استور اپل این برنامه فوق العاده رو رایگان نصب کنید.",
-            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16975010901595-100x100.jpg",
-            "appstore": "com.frontrow.vlog"
-        },
-        {
-            "name": "BeautyPlus Pro",
-            "bundleIdentifier": "com.commsource.BeautyPlus",
-            "version": "7.7.010",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xBeautyPlus7.7.010.ipa",
-            "category": "Tweaked Apps",
-            "changelog": "این نسخه بصورت پیش فرض آنلاک شده است",
-            "developerName": "",
-            "localizedDescription": "نسخه پریمیوم شده به ارزش 40$ برای اشتراک سالانه برنامه را رایگان استفاده کنید. BeautyPlus یک برنامه ویرایش تصویر در سطح جهانی است که به 800 میلیون کاربر خدمت می کند. این برنامه بیش از 50 ابزار ویرایش آسان و آواتار AI را برای نتایج قدرتمند ارائه می دهد. ویژگی های کلیدی شامل زیبایی خودکار AI برای Selfies عالی، ابزارهای مبتنی بر AI مانند AI Enhance و AI Pet Portrait برای افزودن جادو به تصاویر شما، و AI Remove BG برای تغییر پس زمینه عالی است. همچنین این برنامه گزینه های سبک شخصی با ابزارهای آرایشی و ابزارهای ویرایش بدن را ارائه می دهد. و...",
-            "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17005613241536-100x100.jpg",
-            "appstore": "com.commsource.BeautyPlus"
-        },
          {
             "name": "Bazaart Premium",
             "bundleIdentifier": "co.bazaart.app",
@@ -88,12 +64,13 @@
           {
             "name": "Remini Pro",
             "bundleIdentifier": "com.bigwinepot.nwdn.international",
-            "version": "2.9.97",
-            "versionDate": "2023-11-18",
-            "size": 165665822,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/ReminiPro-2.9.97.ipa",
+            "version": "2.9.93",
+            "versionDate": "2023-11-13",
+            "size": 159704507,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/ReminiPro-2.9.93.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
+            "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
             "appstore": "com.bigwinepot.nwdn.international"
         },
