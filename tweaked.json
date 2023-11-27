@@ -47,6 +47,17 @@
             "appstore": "com.frontrow.vlog"
         },
         {
+            "name": "Funimate Pro",
+            "bundleIdentifier": "com.avcr.Funimate",
+            "version": "15.12.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Funimate15.12.3.ipa",
+            "category": "Tweaked Apps",
+            "changelog": "نسخه توییک شده با قابلیت PRO - ویرایشگر ویدیویی فوق العاده با افکت هاى عالی - Funimate ساده ترین و سرگرم کننده ترین ویرایشگر ویدیو برای ایجاد ویرایش های عالی موزیک ویدیو است.  با اين برنامه می‌تونيدویدیوهای فوق‌العاده‌ای رو با افکت‌هاى قبلا دیده نشده اى ایجاد کنید.  شما به راحتی می تونيد سرگرمی رو در TikTok، Instagram،Youtube، Facebook، WhatsApp به اشتراک بذاريد و دوستان خودتون رو شگفت زده کنید.",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010325791779-100x100.jpg",
+            "appstore": "com.avcr.Funimate"
+        },
+        {
             "name": "BeautyPlus Pro",
             "bundleIdentifier": "com.commsource.BeautyPlus",
             "version": "7.7.010",
