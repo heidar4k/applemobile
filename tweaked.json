@@ -123,16 +123,17 @@
             "appstore": "com.camerasideas.InstaShot"
         },
         {
-            "name": "PhotoshopExpress",
+            "name": "Photoshop Express Pro",
             "bundleIdentifier": "com.adobe.PSMobile",
-            "version": "23.44.1",
-            "versionDate": "2023-11-12",
-            "size": 154639594,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-12-2023/PhotoshopExpress-23.44.1.ipa",
+            "version": "23.46.0",
+            "versionDate": "2023-11-24",
+            "size": 155089400,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/PhotoshopExpress-23.46.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png",
+            "appstore": "com.adobe.PSMobile"
+
         },
         {
             "name": "YouTubeOLED",
@@ -144,7 +145,9 @@
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+            "appstore": "com.google.ios.youtube"
+
         },
         {
             "name": "YTMusicUltimate",
@@ -157,7 +160,9 @@
             "changelog": "❕درصورت نمایش صفحه مشکی یا ارور در دسرس نبودن سرور در منطقه شما, از برنامه تغییر iP معتبر دیگری استفاده کنید.",
             "developerName": "",
             "localizedDescription": "یوتیوب موزیک توییک شده با YTMusicUltimate همراه با قابلیت های: بدون تبلیغات - خش موزیک در بک گراند - نمایش نوار وضعیت در استاتوس بار - قابل تغییر نوار وضعیت (جلو یا عقب) - انتخاب آزادانه موسیقی موردنظر - تم دارک OLED - کیبورد OLED - با نسخه توییک شده یوتیوب موزیک هر آهنگ دوست دارید بدون هیچ محدودیتی  گوش بدید. ❕تنظیمات توییک در بخش حساب کاربری اسم YTMusicUltimate در دسترس قرار دارد ❕فاقد قابلیت ذخیره آفلاین آهنگ.",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png"
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
+            "appstore": "com.google.ios.youtubemusic"
+
         },
          {
             "name": "Picsart Pro",
