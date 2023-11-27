@@ -4,6 +4,33 @@
     "repoIcon": "https://i.postimg.cc/Z5kTTkjG/temp-Image35-CBu-R.jpg"
     },
     "Tweaked Apps": [
+        
+        {
+       "name": "Facetune 2 Pro",
+            "bundleIdentifier": "com.lightricks.Facetune2",
+            "version": "3.36.2",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Facetune3.36.2.ipa",
+            "category": "Tweaked Apps",
+            "changelog": "سخه پریمیوم اپلیکیشن Facetune 2 بدون نیاز به  ۳۶ دلار پرداخت درون برنامه ای از تمامی قابلیت های پولی و VIP این برنامه به صورت آنلاک شده و کاملا رایگان استفاده نمایید.",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16984795141790-100x100.jpg",
+            "appstore": "com.lightricks.Facetune2"
+
+        },
+        
+        {
+       "name": "Facetune Pro",
+            "bundleIdentifier": "com.lightricks.Facetune",
+            "version": "2.8.8",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2022/Facetune_2.8.8_appleapps.ir.ipa",
+            "category": "Tweaked Apps",
+            "changelog": "برنامه محبوب و پرطرفدار  Facetune ، نامی آشنا بین بسیاری از کاربران که به روتوش و ویرایش عکس های سلفی علاقه دارند . این برنامه باارزش و بی نظیر که در اپ استور ۴ دلار قیمت دارد هم اکنون با آخرین نسخه جهت دریافت رایگان در اپل موبایل قرار گرفته است .",
+            "developerName": "",
+            "iconURL": "https://cdn.appleapps.ir/2022/05/at-16533244521362-100x100.jpg",
+            "appstore": "com.lightricks.Facetune"
+
+        },
+        
         {
        "name": "Instagram Rocket",
             "bundleIdentifier": "com.burbn.instagram",
