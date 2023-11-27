@@ -196,16 +196,30 @@
             "Games": [
                 
                 {
-               "name": "Streets of Rage Classic",
+               "name": "Streets of Rage 2 (Full Game)",
                     "bundleIdentifier": "com.sega.streetsofrage2",
                     "version": "6.4.0",
                     "versionDate": "",
                     "downloadURL": "https://dl3.apptrackr.ir/ios/2023/streetsofrage2v6.4.0.ipa",
                     "category": "Hacked Games",
-                    "changelog": "Full Game",
+                    "changelog": "نسخه کامل بازی: آقای X برگشته و تشنه انتقام است! پس از ربودن آدام هانتر، قهرمانان Streets of Rage، اکسل و بلیز، به برادر بچه آدام اسکیت و کشتی گیر مکس می پیوندند تا او را به دست عدالت بسپارند. در شهری که با جنایتکاران و اراذل و اوباش خزیده است، از تمام حملات رعد اسا جدید را استفاده کنید و یک بار برای همیشه به سندیکای جنایت آقای X پایان دهید!",
                     "developerName": "",
                     "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010461221529-100x100.jpg",
                     "appstore": "com.sega.streetsofrage2"
+
+                },
+                
+                {
+               "name": "Streets of Rage (Full Game)",
+                    "bundleIdentifier": "com.sega.StreetsOfRage",
+                    "version": "6.4.0",
+                    "versionDate": "",
+                    "downloadURL": "https://dl3.apptrackr.ir/ios/2023/StreetsOfRage6.4.0.ipa",
+                    "category": "Hacked Games",
+                    "changelog": "نسخه کامل بازی: سه پلیس، یک شهر در حاشیه، و یک جنایتکار که فقط به عنوان آقای X شناخته می شود - به یکی از بزرگان SEGA خوش آمدید. خود را با چاقو، بطری و لوله‌های فاضلاب مسلح کنید و در هشت محیط شهری پر از اراذل بجنگید تا نظم را به شهر بیاورید.",
+                    "developerName": "",
+                    "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010464761545-100x100.jpg",
+                    "appstore": "com.sega.StreetsOfRage"
 
                 },
                 {
