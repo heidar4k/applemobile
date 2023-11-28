@@ -4,6 +4,28 @@
     "repoIcon": "https://i.postimg.cc/Z5kTTkjG/temp-Image35-CBu-R.jpg"
   },
   "Jailbreaks": [
+      
+      {
+       "name": "همراه بام ملی",
+       "version": "4.2.0",
+       "icon": "https://cdn.appleapps.ir/2020/05/at-16030995251028-100x100.png",
+       "down": "https://dl3.apptrackr.ir/ios/2023/harahbam4.2.0.ipa",
+       "category": "Jailbreaks",
+       "changelog": "تغییرات آخرین نسخه ( 4.2.0 ) ۱ - افزودن امکان صدور، دریافت و ابطال امضای دیجیتال ۲ - افزودن امکان ثبت تسهیلات خرد و پیگیری تسهیلات ( تسهیلات زائرین اربعین) ۳ - افزودن راهنما در انتقال پول، چک صیادی و ...",
+       "description": "نرم افزار هوشمند بانکی که طراحی نسخه جدید آن مطابق با سلیقه مشتریان انجام شده، انجام امور بانکی آسانتر و سریعتر از همیشه - امکانات همراه بام ملی جدید: امکان ورود با اسکن اثر انگشت و یا تشخیص چهره - انتخاب تم تاریک و روشن - مدیریت مخاطبین ( امکان افزودن مخاطب جدید، ویرایش و حذف مخاطبین قدیم ) - امکان دریافت مانده کارت - دسترسی آسان به مخاطبین پرتکرار در منوی اصلی، شماره حساب و شماره کارت جهت دسترسی سریع و تراکنش آسانتر به مخاطب - دریافت صورتحساب، مشاهده جزئیات اطلاعات تراکنشها، امکان افزودن یادداشت، امکان طبقه بندی تراکنشها و امکان جستجو پیشرفته  - انتقال پول، انتقال ازحساب به حساب ( درون بانکی / شتابی)، تشخیص هوشمند نوع انتقال پول ( ساتنا، پایا، ... ) از روی مبلغ و مقصد تراکنش، امکان تائید چند مرحله ای انتقال پول - کارت به کارت، انتقال کارت به کارت درون بانکی و انتقال کارت به کارت شتابی - پرداخت قبض، امکان پرداخت با استفاده از بارکد خوان  - خرید بسته اینترنت - پرداخت اقساط تسهیلات ملی و مشاهده فهرست و وضعیت تسهیلات  - امکان افزودن و پرداخت تسهیلات دیگران - ثبت بازخورد در برنامه",
+       "screenshots": [
+         "https://fs.sibapp.net/file/image/application/f9715fddbf3544a78da0d1f5b50dd331.png",
+         "https://fs.sibapp.net/file/image/application/1e3af15d7fa941a983436148d31e1838.png",
+         "https://fs.sibapp.net/file/image/application/e489f24941434973af4e7d305e44565b.png",
+         "https://fs.sibapp.net/file/image/application/e618f0ae63d947d3b855431999319843.png",
+         "https://fs.sibapp.net/file/image/application/6dc9daaf6e0348e8b5bd10f3c9cef2fe.png",
+         "https://fs.sibapp.net/file/image/application/5ca66c1f729541fe8bd8f1601416492b.png",
+         "https://fs.sibapp.net/file/image/application/333075ad75ba44e2a63779f1312a393f.png",
+         "https://fs.sibapp.net/file/image/application/465ae2f4185c47e3a3c09aece722b800.png",
+         "https://fs.sibapp.net/file/image/application/1cbc0a55165548c097cfd3f9395a098c.png",
+         "https://fs.sibapp.net/file/image/application/2052ce21e12b4c18bd039eab74f37f96.png"
+        ],
+  },
 
       {
       "name": "همراه بانک ملت",
@@ -157,26 +179,7 @@
       "https://fs.sibapp.net/file/image/application/0da663a093a8426eb2b8e4d635ae1087.jpeg"
       ],
  },
-     {
-      "name": "همراه بام ملی",
-      "version": "4.1.2",
-      "icon": "https://cdn.appleapps.ir/2020/05/at-16030995251028-100x100.png",
-      "down": "https://dl3.apptrackr.ir/ios/2023/bam4.1.2.ipa",
-      "category": "Jailbreaks",
-      "description": "نرم افزار هوشمند بانکی که طراحی نسخه جدید آن مطابق با سلیقه مشتریان انجام شده، انجام امور بانکی آسانتر و سریعتر از همیشه - امکانات همراه بام ملی جدید: امکان ورود با اسکن اثر انگشت و یا تشخیص چهره - انتخاب تم تاریک و روشن - مدیریت مخاطبین ( امکان افزودن مخاطب جدید، ویرایش و حذف مخاطبین قدیم ) - امکان دریافت مانده کارت - دسترسی آسان به مخاطبین پرتکرار در منوی اصلی، شماره حساب و شماره کارت جهت دسترسی سریع و تراکنش آسانتر به مخاطب - دریافت صورتحساب، مشاهده جزئیات اطلاعات تراکنشها، امکان افزودن یادداشت، امکان طبقه بندی تراکنشها و امکان جستجو پیشرفته  - انتقال پول، انتقال ازحساب به حساب ( درون بانکی / شتابی)، تشخیص هوشمند نوع انتقال پول ( ساتنا، پایا، ... ) از روی مبلغ و مقصد تراکنش، امکان تائید چند مرحله ای انتقال پول - کارت به کارت، انتقال کارت به کارت درون بانکی و انتقال کارت به کارت شتابی - پرداخت قبض، امکان پرداخت با استفاده از بارکد خوان  - خرید بسته اینترنت - پرداخت اقساط تسهیلات ملی و مشاهده فهرست و وضعیت تسهیلات  - امکان افزودن و پرداخت تسهیلات دیگران - ثبت بازخورد در برنامه",
-      "screenshots": [
-        "https://fs.sibapp.net/file/image/application/f9715fddbf3544a78da0d1f5b50dd331.png",
-        "https://fs.sibapp.net/file/image/application/1e3af15d7fa941a983436148d31e1838.png",
-        "https://fs.sibapp.net/file/image/application/e489f24941434973af4e7d305e44565b.png",
-        "https://fs.sibapp.net/file/image/application/e618f0ae63d947d3b855431999319843.png",
-        "https://fs.sibapp.net/file/image/application/6dc9daaf6e0348e8b5bd10f3c9cef2fe.png",
-        "https://fs.sibapp.net/file/image/application/5ca66c1f729541fe8bd8f1601416492b.png",
-        "https://fs.sibapp.net/file/image/application/333075ad75ba44e2a63779f1312a393f.png",
-        "https://fs.sibapp.net/file/image/application/465ae2f4185c47e3a3c09aece722b800.png",
-        "https://fs.sibapp.net/file/image/application/1cbc0a55165548c097cfd3f9395a098c.png",
-        "https://fs.sibapp.net/file/image/application/2052ce21e12b4c18bd039eab74f37f96.png"
-       ],
- },
+    
     {
       "name": "همراه بانک کشاورزی",
       "version": "1.2.2.1",
