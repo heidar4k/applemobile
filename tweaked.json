@@ -51,7 +51,9 @@
             "category": "Tweaked Apps",
             "changelog": "برنامه محبوب و پرطرفدار  Facetune ، نامی آشنا بین بسیاری از کاربران که به روتوش و ویرایش عکس های سلفی علاقه دارند . این برنامه باارزش و بی نظیر که در اپ استور ۴ دلار قیمت دارد هم اکنون با آخرین نسخه جهت دریافت رایگان در اپل موبایل قرار گرفته است .",
             "developerName": "",
-            "iconURL": "https://cdn.appleapps.ir/2022/05/at-16533244521362-100x100.jpg"
+            "iconURL": "https://cdn.appleapps.ir/2022/05/at-16533244521362-100x100.jpg",
+            "appstore": "com.lightricks.Facetune"
+            
         },
         {
        "name": "Instagram Rocket",
@@ -227,7 +229,7 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
         },
         {
-            "name": "InfusePro",
+            "name": "Infuse Pro",
             "bundleIdentifier": "com.firecore.infuse",
             "appstore": "com.firecore.infuse",
             "version": "7.6.3",
