@@ -193,6 +193,18 @@
 
         },
         {
+            "name": "Twitch Plus",
+            "bundleIdentifier": "tv.twitch",
+            "version": "17.3",
+            "versionDate": "2023-11-28",
+            "size": 101199079,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/TwitchPlus-17.3.ipa",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/tv.twitch.png",
+            "appstore": "tv.twitch"
+            
+        },
+        {
             "name": "YouTubeOLED",
             "bundleIdentifier": "com.google.ios.youtube",
             "version": "18.45.2",
@@ -224,16 +236,15 @@
          {
             "name": "Picsart Pro",
             "bundleIdentifier": "com.picsart.studio",
-            "appstore": "com.picsart.studio",
-            "version": "23.6.3",
-            "versionDate": "2023-11-13",
-            "size": 90738824,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsartPlusPlus-23.6.3.ipa",
-            "category": "Tweaked Apps",
-            "changelog": "تغییرات آخرین نسخه ( 23.6.3 ) ✅💲: نسخه توییک شده با قالیت های اشتراکی و AI برنامه ( فقط کافیه وارد اکانت PicsArt بشید همون ابتدا و از تمامی قابلیت های پریمیوم استفاده کنید . دقت کنید بر روی  قابلیت های پولی آیکون پریمیوم هست  ولی قابل استفاده هست در این نسخه )",
+            "version": "23.7.3",
+            "versionDate": "2023-11-28",
+            "size": 100146477,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-28-2023/PicsartPlusPlus-23.7.3.ipa",
             "developerName": "",
-            "localizedDescription": "نسخه انلاک شده پرو  جدید پیکس آرت با قابلیت دسترسی بدون دردسر و  به صورت پیشفرض به تمامی قابلیت های پولی به صورت رایگان برای شما اپل اپسی های عزیز آماده شده است .",
+            "changelog": "نسخه انلاک شده پرو  جدید پیکس آرت با قابلیت دسترسی بدون دردسر و  به صورت پیشفرض به تمامی قابلیت های پولی به صورت رایگان برای شما اپل اپسی های عزیز آماده شده است .",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
+            "appstore": "com.picsart.studio"
+
         },
         {
             "name": "Infuse Pro",
