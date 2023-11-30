@@ -6,6 +6,17 @@
     "Tweaked Apps": [
         
         {
+            "name": "MPhotoRoom Pro",
+            "bundleIdentifier": "com.dr1ven.eraser",
+            "version": "5.4.6",
+            "downloadURL": "https://omtk.xyz/IPA/PhotoRoomPro.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "appstore": "com.dr1ven.eraser"
+
+        },
+        
+        {
             "name": "Mojo Pro",
             "bundleIdentifier": "archery.storify",
             "version": "1.156.1",
