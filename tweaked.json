@@ -274,6 +274,18 @@
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
         },
+           
+           {
+               "name": "ESign",
+               "bundleIdentifier": "p3.xyz.yyyue.esign",
+               "version": "4.8.0.1",
+               "downloadURL": "https://omtk.xyz/IPA/Esign.ipa",
+               "category": "Tweaked Apps",
+               "developerName": "",
+               "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/esign-ipa-328x328-2.jpeg"
+
+
+           },
     
      ],
     
