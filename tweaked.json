@@ -336,14 +336,24 @@
                 
                 {
                "name": "Happy Chick",
-                    "version": "1.8.8",
-                    "versionDate": "",
-                    "downloadURL": "https://omtk.xyz/IPA/HappyChick64bit.ipa",
-                    "category": "Emulators",
-                    "developerName": "",
-                    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-94.jpg",
+               "bundleIdentifier": "com.icoou.sanguo",
+               "version": "1.5.8.2",
+               "versionDate": "",
+               "downloadURL": "https://dl3.apptrackr.ir/ios/2022/xiaojiorg1.5.8.2.ipa",
+               "category": "Emulators",
+               "developerName": "",
+               "localizedDescription": "نصب مستقیم  یکی از بهترین شبیه ساز های  اجرای بازی های نوستالژی قدیمی بر روی iOS آیفون و آیپد  ، جدید ترین نسخه اپلیکیشن Happy Chick را می توانید به صورت رایگان از  اپل موبایل دریافت نمایید . توسط اپلیکیشن شبیه ساز Happy Chick می توانید انواع بازی های GC, DC, N64, Android و GBA از داخل خود این برنامه دانلود کرده و بازی کنید . نکته : در این برنامه فایل نصبی ( سورس ) انواع بازی های مختلف از کنسول های مختلف موجود می باشد که می توانید بازی مورد علاقه خود را از بین صد ها بازی جذاب نوستالژی دانلود کرده و توسط شبیه ساز برنامه آنهارا اجرا کرده و لذت ببرید .",
+               "iconURL": "https://cdn.appleapps.ir/2020/07/at-15953860731593-100x100.png",
+               "screenshots": [
+               "https://cdn.appleapps.ir/2020/07/at-15953859001926-250x450.jpg",
+               "https://cdn.appleapps.ir/2020/07/at-15953859131136-250x450.jpg",
+               "https://cdn.appleapps.ir/2020/07/at-15953859121411-250x450.jpg",
+               "https://cdn.appleapps.ir/2020/07/at-15953859101482-250x450.jpg",
+               "https://cdn.appleapps.ir/2020/07/at-15953859061921-250x450.jpg"
 
-                },
+                ],
+
+         },
      ],
             
  }
