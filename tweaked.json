@@ -330,5 +330,20 @@
 
                 },
         
-     ]
+     ],
+            
+            "Emulators": [
+                
+                {
+               "name": "Happy Chick",
+                    "version": "1.8.8",
+                    "versionDate": "",
+                    "downloadURL": "https://omtk.xyz/IPA/HappyChick64bit.ipa",
+                    "category": "Emulators",
+                    "developerName": "",
+                    "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/02/download-94.jpg",
+
+                },
+     ],
+            
  }
