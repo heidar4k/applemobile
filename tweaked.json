@@ -6,7 +6,7 @@
     "Tweaked Apps": [
         
         {
-            "name": "TruecallerPremium",
+            "name": "Truecaller Premium",
             "bundleIdentifier": "com.truesoftware.TrueCallerOther",
             "version": "12.69.6",
             "versionDate": "2023-12-05",
@@ -14,7 +14,6 @@
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TruecallerPremium-12.69.6.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
             "appstore": "com.truesoftware.TrueCallerOther",
         },
