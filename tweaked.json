@@ -6,6 +6,32 @@
     "Tweaked Apps": [
         
         {
+            "name": "InstagramLRD",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "310.0.4",
+            "versionDate": "2023-12-06",
+            "size": 135010907,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/InstagramLRD-310.0.4.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+            "appstore": "com.burbn.instagram"
+        },
+
+        {
+            "name": "Duolingo Premium",
+            "bundleIdentifier": "com.duolingo.DuolingoMobile",
+            "version": "7.2.0",
+            "versionDate": "2023-12-07",
+            "size": 130365521,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2023/DuolingoPremium-7.2.0.ipa",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
+            "appstore": "com.duolingo.DuolingoMobile"
+        },
+        
+        {
             "name": "Truecaller Premium",
             "bundleIdentifier": "com.truesoftware.TrueCallerOther",
             "version": "12.69.6",
