@@ -641,22 +641,7 @@
            "https://fs.sibapp.net/file/image/application/272d81e8e76041beb747ad1ffd50f3c9.jpeg",
            "https://fs.sibapp.net/file/image/application/9e207d1ca6b2475a9361208104d66432.jpeg"
        ],
-        
-        "Tweaked Apps": [
-            
-            {
-                "name": "InstagramLRD",
-                "bundleIdentifier": "com.burbn.instagram",
-                "version": "310.0.4",
-                "versionDate": "2023-12-06",
-                "size": 135010907,
-                "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-06-2023/InstagramLRD-310.0.4.ipa",
-                "category": "Tweaked Apps",
-                "developerName": "",
-                "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-                "appstore": "com.burbn.instagram"
-            },
-        ],
+      
     }
   ]
 }
