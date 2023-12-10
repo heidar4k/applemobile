@@ -46,6 +46,21 @@
         
     ],
     
+    "Games": [
+        
+        {
+       "name": "Leo's Fortune",
+            "bundleIdentifier": "com.leosfortune",
+            "version": "1.0.14",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2022/LeosFortune-v1.0.14-appleapps.ir.ipa",
+            "category": "Hacked Games",
+            "developerName": "",
+            "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-leo39s-fortune.webp",
+            "appstore": "com.leosfortune"
+
+        },
+    ],
     "Emulators": [
         
         {
