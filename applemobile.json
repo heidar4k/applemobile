@@ -651,6 +651,18 @@
     "Tweaked Apps": [
         
         {
+            "name": "B612 Premium",
+            "bundleIdentifier": "com.linecorp.b612",
+            "version": "12.3.15",
+            "size": 130365521,
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/B612V12.3.15.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16956696371320-100x100.jpg",
+            "appstore": "com.linecorp.b612"
+        },
+        
+        {
             "name": "Duolingo Premium",
             "bundleIdentifier": "com.duolingo.DuolingoMobile",
             "version": "7.2.0",
@@ -949,6 +961,33 @@
     ],
     
     "Games": [
+        
+        {
+            "name": "Subway Surfers Hack",
+            "bundleIdentifier": "com.kiloo.subwaysurfers",
+            "version": "3.21.1",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/SubwaySurf3.21.1.ipa",
+            "category": "Hacked Games",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17019528221292-100x100.jpg",
+            "appstore": "com.kiloo.subwaysurfers"
+
+        },
+        
+        {
+            "name": "Minecraft",
+            "bundleIdentifier": "com.mojang.minecraftpe",
+            "version": "1.20.50",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Minecraftv1.20.50.ipa",
+            "category": "Hacked Games",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16951600881056-100x100.jpg",
+            "appstore": "com.mojang.minecraftpe"
+
+        },
+        
         
         {
             "name": "Leo's Fortune",
