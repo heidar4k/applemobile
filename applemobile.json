@@ -746,6 +746,19 @@
             
         },
         {
+            "name": "Instagram Rocket Plus",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "310.0.4-3.8.18-2.5.0",
+            "versionDate": "2023-12-10",
+            "size": 135909810,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/InstaRocketPlus-310.0.4-3.8.18-2.5.0.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png"
+            "appstore": "com.burbn.instagram"
+
+        },
+        {
        "name": "Instagram Rocket",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "310.0.4-3.8.17",
