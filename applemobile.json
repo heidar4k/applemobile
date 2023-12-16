@@ -6,6 +6,24 @@
     },
     "Jailbreaks": [
         
+         {
+        "name": "بلوبانک",
+        "version": "2.8.0",
+        "icon": "https://app.appleapps.ir/storage/2021/04/at-16841450241269-100x100.jpg",
+        "down": "https://dl3.apptrackr.ir/ios/2023/blu2.8.0.ipa",
+        "category": "Jailbreaks",
+        "changelog": "ویژگی‌های جدید: خدمات چک صیادی (به مرور خواهد شد) • امکان (ثبت) چک‌های صیادی بانک سامان • امکان (تأیید و رد) چک‌های صیادی کلیه بانک‌ها • امکان (انتقال) چک‌های صیادی کلیه بانک‌ها • امکان (عودت) چک‌های صیادی کلیه بانک‌ها • امکان (استعلام) چک‌های صیادی کلیه بانک‌ها • امکان (استعلام اعتبار صادر کننده) چک‌های صیادی کلیه بانک‌ها • امکان مخفی کردن موجودی حساب با لمس موجودی • اضافه شدن بیگ‌باکس (باکس سپرده‌گذاری بلند مدت در بازه‌های ۳ - ۶ - ۹ و ۱۲ ماهه) - بهبود‌ها: بهبود تجربه کاربری باکس‌سرمایه • بهبود تجربه کاربری انتقال وجه‌ هوشمند • بهبود تجربه کاربری انتقال وجه‌ خودکار • بهبود تجربه کاربری در زمان وارد کردن اطلاعات مقصد انتقال وجه • بهبود رابط کاربری کارت در فرآیند سفارش کارت بانکی",
+        "description": "بلو، بانکی تمام دیجیتال و مطابق با سبک جدید زندگی است که همه‌ی عملیات بانکداری روی اپلیکیشن موبایل و کاملا آنلاین انجام می‌شود. به زبان ساده، بلو بانکی است که همیشه و همه‌جا همراه شما خواهد بودبلو، بانکی تمام دیجیتال و مطابق با سبک جدید زندگی است که همه‌ی عملیات بانکداری روی اپلیکیشن موبایل و کاملا آنلاین انجام می‌شود. به زبان ساده، بلو بانکی است که همیشه و همه‌جا همراه شما خواهد بود. کافی است با تلفن همراهتان وارد اپلیکیشن بلوبانک شوید و تمامی خدمات بانکی را بدون نیاز به شعب، فرم‌های کاغذی و فرآیندهای معمول؛ تنها با چند کلیک ساده انجام دهید. در بلوبانک بازکردن حساب کاملا رایگان و بدون کارمزد انجام می‌شود و نیاز به نگهداری حداقل موجودی در حساب بانکی وجود ندارد. بعضی از ویژگی‌های بلوبانک: بازکردن حساب بانکی در کمتر از ۷ دقیقه - شناسایی هویت تمام آنلاین و فعال شدن حساب در کمتر از 2 ساعت - صدور رایگان کارت - ارسال رایگان کارت به آدرس شما در کمتر از ۲ روز کاری در تهران و ۷ روز کاری در سایر نقاط کشور - پشتیبانی ۲۴ ساعته در ۷ روز هفته - انتقال پول هوشمند - قابلیت پرداخت به صورت QR - دارای تمامی پروتکل‌های امنیتی سیستم‌های زیرساخت - در کمتر از ۷ دقیقه به ترتیب زیر حساب خود را در بلوبانک باز کنید: 1. نصب و دانلود اپلیکیشن بلوبانک 2. وارد کردن شماره تلفن همراهی که به نام خودتان باشد. 3. ثبت کد معرف دوستتان 4. وارد کردن شماره ملی خودتان 5. ثبت سریال پشت کارت ملی خودتان 6. ضبط و ارسال یک ویدئو 15 ثانیه‌ای از خودتان - پس از تکمیل مراحل شناسایی هویت در بلوبانک، حساب شما حداکثر طی 2 ساعت تایید و فعال می‌شود. سپس می‌توانید کارت خود را از داخل اپلیکیشن سفارش دهید و در آدرس مورد نظرتان تحویل بگیرید.",
+        "screenshots": [
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/1(1).png",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/2(1).png",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/3(1).png",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/4(1).png",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/5(1).png"
+         ],
+        
+   },
+        
         {
             "name": "همراه بام ملی",
             "version": "4.2.1",
@@ -272,23 +290,7 @@
                 "https://fs.sibapp.net/file/image/application/22eceb06c4a5420bb5fdd5d0724ac55e.jpeg"
        ],
              },
-           
-            {
-           "name": "بلوبانک",
-           "version": "4.9.0",
-           "icon": "https://app.appleapps.ir/storage/2021/04/at-16841450241269-100x100.jpg",
-           "down": "https://dl3.apptrackr.ir/ios/2023/blu2.7.0x.ipa",
-           "category": "Jailbreaks",
-           "description": "بلو، بانکی تمام دیجیتال و مطابق با سبک جدید زندگی است که همه‌ی عملیات بانکداری روی اپلیکیشن موبایل و کاملا آنلاین انجام می‌شود. به زبان ساده، بلو بانکی است که همیشه و همه‌جا همراه شما خواهد بودبلو، بانکی تمام دیجیتال و مطابق با سبک جدید زندگی است که همه‌ی عملیات بانکداری روی اپلیکیشن موبایل و کاملا آنلاین انجام می‌شود. به زبان ساده، بلو بانکی است که همیشه و همه‌جا همراه شما خواهد بود. کافی است با تلفن همراهتان وارد اپلیکیشن بلوبانک شوید و تمامی خدمات بانکی را بدون نیاز به شعب، فرم‌های کاغذی و فرآیندهای معمول؛ تنها با چند کلیک ساده انجام دهید. در بلوبانک بازکردن حساب کاملا رایگان و بدون کارمزد انجام می‌شود و نیاز به نگهداری حداقل موجودی در حساب بانکی وجود ندارد. بعضی از ویژگی‌های بلوبانک: بازکردن حساب بانکی در کمتر از ۷ دقیقه - شناسایی هویت تمام آنلاین و فعال شدن حساب در کمتر از 2 ساعت - صدور رایگان کارت - ارسال رایگان کارت به آدرس شما در کمتر از ۲ روز کاری در تهران و ۷ روز کاری در سایر نقاط کشور - پشتیبانی ۲۴ ساعته در ۷ روز هفته - انتقال پول هوشمند - قابلیت پرداخت به صورت QR - دارای تمامی پروتکل‌های امنیتی سیستم‌های زیرساخت - در کمتر از ۷ دقیقه به ترتیب زیر حساب خود را در بلوبانک باز کنید: 1. نصب و دانلود اپلیکیشن بلوبانک 2. وارد کردن شماره تلفن همراهی که به نام خودتان باشد. 3. ثبت کد معرف دوستتان 4. وارد کردن شماره ملی خودتان 5. ثبت سریال پشت کارت ملی خودتان 6. ضبط و ارسال یک ویدئو 15 ثانیه‌ای از خودتان - پس از تکمیل مراحل شناسایی هویت در بلوبانک، حساب شما حداکثر طی 2 ساعت تایید و فعال می‌شود. سپس می‌توانید کارت خود را از داخل اپلیکیشن سفارش دهید و در آدرس مورد نظرتان تحویل بگیرید.",
-           "screenshots": [
-             "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/1(1).png",
-             "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/2(1).png",
-             "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/3(1).png",
-             "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/4(1).png",
-             "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/5(1).png"
-            ],
-           
-      },
+
            {
            "name": "آبانک | Abank",
            "version": "1.7.62",
@@ -665,16 +667,35 @@
     "Tweaked Apps": [
         
         {
+           "name": "Bazaart Premium",
+           "bundleIdentifier": "co.bazaart.app",
+           "version": "10.0.8",
+           "downloadURL": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/9nKU2mGxIwZfvWHg61Osna.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16985678161264-100x100.jpg",
+           "appstore": "co.bazaart.app"
+        },
+        {
+            "name": "CamScanner Pro",
+            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "version": "6.55.0",
+            "downloadURL": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/hY1Ni0IaF0rDXuajMjiNNA.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17025517311588-100x100.jpg",
+            "appstore": "com.intsig.CamScannerLite"
+        },
+        {
             "name": "CapCut Pro",
             "bundleIdentifier": "com.lemon.lvoverseas",
             "version": "9.3.3",
-            "downloadURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/IPA/CapCut9.3.3pro.ipa",
+            "downloadURL": "https://dl.tikoserver.com/iOS/IPA/Tweaked/CapCut9.3.3pro.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/PNG/CapCut.png",
+            "iconURL": "https://dl.tikoserver.com/iOS/Image/Icon/capcut.png",
             "appstore": "com.lemon.lvoverseas"
         },
-        
         {
             "name": "B612 Premium",
             "bundleIdentifier": "com.linecorp.b612",
@@ -686,20 +707,16 @@
             "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16956696371320-100x100.jpg",
             "appstore": "com.linecorp.b612"
         },
-        
         {
             "name": "Duolingo Premium",
             "bundleIdentifier": "com.duolingo.DuolingoMobile",
-            "version": "7.2.0",
-            "versionDate": "2023-12-07",
-            "size": 130365521,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-07-2023/DuolingoPremium-7.2.0.ipa",
+            "version": "7.3.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xDuolingo7.3.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
             "appstore": "com.duolingo.DuolingoMobile"
         },
-        
         {
             "name": "Truecaller Premium",
             "bundleIdentifier": "com.truesoftware.TrueCallerOther",
@@ -712,7 +729,6 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
             "appstore": "com.truesoftware.TrueCallerOther",
         },
-        
         {
             "name": "Mojo Pro",
             "bundleIdentifier": "archery.storify",
@@ -725,7 +741,6 @@
             "appstore": "archery.storify"
 
         },
-        
         {
             "name": "Reelsapp Pro",
             "bundleIdentifier": "com.nextgen.reelsapp",
@@ -738,7 +753,6 @@
             "appstore": "com.nextgen.reelsapp"
 
         },
-        
         {
             "name": "Facetune 2 Pro",
             "bundleIdentifier": "com.lightricks.Facetune2",
@@ -768,7 +782,6 @@
               "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/20/a9/16/20a9167f-5d56-1712-5934-36da6d22a1bb/pr_source.png/392x696bb.png"
 
              ],
-            
         },
         {
             "name": "Instagram Rocket Plus",
@@ -781,7 +794,6 @@
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
             "appstore": "com.burbn.instagram"
-
         },
         {
        "name": "Instagram Rocket",
@@ -844,19 +856,6 @@
             "localizedDescription": "نسخه پریمیوم شده به ارزش 40$ برای اشتراک سالانه برنامه را رایگان استفاده کنید. BeautyPlus یک برنامه ویرایش تصویر در سطح جهانی است که به 800 میلیون کاربر خدمت می کند. این برنامه بیش از 50 ابزار ویرایش آسان و آواتار AI را برای نتایج قدرتمند ارائه می دهد. ویژگی های کلیدی شامل زیبایی خودکار AI برای Selfies عالی، ابزارهای مبتنی بر AI مانند AI Enhance و AI Pet Portrait برای افزودن جادو به تصاویر شما، و AI Remove BG برای تغییر پس زمینه عالی است. همچنین این برنامه گزینه های سبک شخصی با ابزارهای آرایشی و ابزارهای ویرایش بدن را ارائه می دهد. و...",
             "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17005613241536-100x100.jpg",
             "appstore": "com.commsource.BeautyPlus"
-        },
-         {
-            "name": "Bazaart Premium",
-            "bundleIdentifier": "co.bazaart.app",
-            "version": "10.0.5",
-            "versionDate": "2023-11-17",
-            "downloadURL": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/JUxFqjsQCy0XY3FpqRNrG0.ipa",
-            "category": "Tweaked Apps",
-            "changelog": "تغییرات آخرین نسخه ( 10.0.5 ) - تنها نسخه فول انلاک در بین کل استور های دنیا که اختصاصی توسط اپل موبایل پیرانشهر (حیدرابراهیمی) اماده سازی شده است - به روز رسانی هماهنگ با نسخه جدید اپ استور اپل",
-            "developerName": "",
-            "localizedDescription": "✅ تنها نسخه فول انلاک ( قابلیت دانلود تمام  Template های پریمیوم ) با و پ ان روشن.  جدید ترین نسخه هماهنگ با اپ استور اپل. نسخه آنلاک شده اپلیکیشن Bazaart  - یکی از بهترین برنامه های ساخت استوری و ویرایش تصاویر با داشتن صد ها قالب آماده استوری و پست اینستاگرام ، توسط تیم فنی اپل موبایل اینجکت و آماده سازی شده و هم اکنون به صورت رایگان قابل دریافت می باشد .خلق تصاویر هنری به همراه طرح های پیش آماده توسط اپلیکیشن Bazaart ++ نسخه پریمویم به صورت رایگان بدون پرداخت ۲.۵ میلیون تومان هزینه درون اپی. نسخه هک شده اپلیکیشن Bazaart Photo Editor & Design با دسترسی به قابلیت های پریمویم و ادیت تصاویر. توسط این اپلیکیشن تصاویر و آثاری هنری خلق کنید . به این صورت که طرح های بسیار زیادی با موضوعات مختلف که همیشه آپدیت هم می شوند در دسترس شما است و می توانید با ویرایش و اضافه کردن عکس ، متن ، تکست و ... مورد علاقه خود طرح هایی که به صورت معمولی اصلا از یک کاربر آماتور بر نمی آید را درست کنید . ویژگی های اپلیکیشن Bazaart : +دارای صد ها قالب آماده استوری و پست اینستاگرام در موضوعات مختلف + قابلیت ایمپورت فونت دلخواه از طریق Filesharing به داخل bazaart. پس زمینه تصاویر را به صورت جادویی جدا کنید + تغییر سایز ، مقیاس ، چرخاندن ، کپی و حرکت عکس با حرکات لمسی ساده + با قیچی ببرید و هرکجارا می خواهید پاک کنید + با فشار لمس بیشتر یا به کمک قلم آیپد پرو تصاویر را ببرید + پشتیبانی از Slide Over and Split View در آیپد پرو + تا ۱۰۰ لایه قابلیت ویرایش + سخت استیکر های واتس اپ +‌ دسترسی به کتابخوانه بزرگ پریمیوم",
-            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16985678161264-100x100.jpg",
-            "appstore": "co.bazaart.app"
         },
         {
             "name": "Captions Pro",
@@ -1014,9 +1013,9 @@
         {
             "name": "Minecraft",
             "bundleIdentifier": "com.mojang.minecraftpe",
-            "version": "1.20.50",
+            "version": "1.20.51",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Minecraftv1.20.50.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Minecraftv1.20.51.ipa",
             "category": "Hacked Games",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16951600881056-100x100.jpg",
