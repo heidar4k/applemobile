@@ -1028,17 +1028,18 @@
     "Games": [
         
         {
-            "name": "GTA: San Andreas: Definitive Edition",
-            "bundleIdentifier": "com.rockstargames.gtasa.de",
+            "name": "GTA: San Andreas - Definitive Edition",
+            "bundleIdentifier": "com.netflix.NGP.GTASanAndreasDefinitiveEdition",
             "version": "1.72",
             "versionDate": "",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xGTASAdev1.72.4.ipa",
             "category": "Hacked Games",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17027229701837-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17027229701837-100x100.jpg",
+            "appstore": "com.netflix.NGP.GTASanAndreasDefinitiveEdition"
         },
         {
-            "name": "GTA: Vice City: Definitive Edition",
+            "name": "GTA: Vice City - Definitive Edition",
             "bundleIdentifier": "store.ipa.gtavc.de",
             "version": "1.72",
             "versionDate": "",
@@ -1048,7 +1049,7 @@
             "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17027204511197-100x100.jpg"
         },
         {
-            "name": "GTA III: Definitive Edition",
+            "name": "GTA III - Definitive Edition",
             "bundleIdentifier": "store.ipa.gta3.de",
             "version": "1.72",
             "versionDate": "",
