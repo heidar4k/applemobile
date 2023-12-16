@@ -667,6 +667,36 @@
     "Tweaked Apps": [
         
         {
+           "name": "YouCam Perfect Pro",
+           "bundleIdentifier": "com.cyberlink.youperfect",
+           "version": "5.76.1",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2022/YouCamPerfect_5.76.1.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://cdn.appleapps.ir/2023/01/at-16751255051606-100x100.jpg",
+           "appstore": "com.cyberlink.youperfect"
+        },
+        {
+           "name": "Perfect365 (Unlocked)",
+           "bundleIdentifier": "com.arcsoft.Perfect365",
+           "version": "9.30.30",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Perfect3659.30.30.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2023/05/at-16853568961693-100x100.jpg",
+           "appstore": "com.arcsoft.Perfect365"
+        },
+        {
+           "name": "InCollage Premium",
+           "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
+           "version": "2.0.0",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2023/InCollage2.0.0.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010028591991-100x100.jpg",
+           "appstore": "PhotoEditor.PhotoCollage.inCollage"
+        },
+        {
            "name": "Bazaart Premium",
            "bundleIdentifier": "co.bazaart.app",
            "version": "10.0.8",
