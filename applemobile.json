@@ -665,7 +665,20 @@
     ],
     
     "Tweaked Apps": [
-        
+
+        {
+            "name": "Truecaller Premium",
+            "bundleIdentifier": "com.truesoftware.TrueCallerOther",
+            "version": "12.71",
+            "date": "2023-12-22",
+            "size": 93315725,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/TruecallerPremium-12.71.ipa",
+            "category": "Tweaked Apps",
+            "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
+            "appstore": "com.truesoftware.TrueCallerOther"
+        },
         {
            "name": "YouCam Perfect Pro",
            "bundleIdentifier": "com.cyberlink.youperfect",
@@ -746,18 +759,6 @@
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
             "appstore": "com.duolingo.DuolingoMobile"
-        },
-        {
-            "name": "Truecaller Premium",
-            "bundleIdentifier": "com.truesoftware.TrueCallerOther",
-            "version": "12.69.6",
-            "versionDate": "2023-12-05",
-            "size": 88640952,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TruecallerPremium-12.69.6.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
-            "appstore": "com.truesoftware.TrueCallerOther"
         },
         {
             "name": "Mojo Pro",
