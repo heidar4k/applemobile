@@ -668,12 +668,25 @@
     
     "Tweaked Apps": [
         
+        
+        {
+            "name": "Lightroom Photo & Video Editor Pro",
+            "bundleIdentifier": "com.adobe.lrmobilephone",
+            "developerName": "",
+            "category": "Tweaked Apps",
+            "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
+            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16975743631094-100x100.jpg",
+            "version": "9.1.0",
+            "date": "2023-12-19",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/LightroomPremium9.1.0.ipa",
+            "appstore": "com.adobe.lrmobilephone"
+        },
         {
             "name": "InfusePro",
             "bundleIdentifier": "com.firecore.infuse",
             "developerName": "",
             "category": "Tweaked Apps",
-            "localizedDescription": "",
+            "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png",
             "version": "7.6.5",
             "date": "2023-12-19",
@@ -686,7 +699,6 @@
             "bundleIdentifier": "com.liguangming.Shadowrocket",
             "developerName": "",
             "category": "Tweaked Apps",
-            "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.liguangming.Shadowrocket.png",
             "version": "2.2.41",
             "date": "2023-12-19",
@@ -712,6 +724,7 @@
            "version": "5.76.1",
            "downloadURL": "https://dl3.apptrackr.ir/ios/2022/YouCamPerfect_5.76.1.ipa",
            "category": "Tweaked Apps",
+           "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
            "developerName": "",
            "iconURL": "https://cdn.appleapps.ir/2023/01/at-16751255051606-100x100.jpg",
            "appstore": "com.cyberlink.youperfect"
@@ -722,6 +735,7 @@
            "version": "9.30.30",
            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Perfect3659.30.30.ipa",
            "category": "Tweaked Apps",
+           "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
            "developerName": "",
            "iconURL": "https://app.appleapps.ir/storage/2023/05/at-16853568961693-100x100.jpg",
            "appstore": "com.arcsoft.Perfect365"
@@ -732,6 +746,7 @@
            "version": "2.0.0",
            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/InCollage2.0.0.ipa",
            "category": "Tweaked Apps",
+           "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
            "developerName": "",
            "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010028591991-100x100.jpg",
            "appstore": "PhotoEditor.PhotoCollage.inCollage"
@@ -742,6 +757,7 @@
            "version": "10.0.8",
            "downloadURL": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/9nKU2mGxIwZfvWHg61Osna.ipa",
            "category": "Tweaked Apps",
+           "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
            "developerName": "",
            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16985678161264-100x100.jpg",
            "appstore": "co.bazaart.app"
@@ -752,6 +768,7 @@
             "version": "6.55.0",
             "downloadURL": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/hY1Ni0IaF0rDXuajMjiNNA.ipa",
             "category": "Tweaked Apps",
+            "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17025517311588-100x100.jpg",
             "appstore": "com.intsig.CamScannerLite"
@@ -762,6 +779,7 @@
             "version": "9.3.3",
             "downloadURL": "https://dl.tikoserver.com/iOS/IPA/Tweaked/CapCut9.3.3pro.ipa",
             "category": "Tweaked Apps",
+            "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
             "developerName": "",
             "iconURL": "https://dl.tikoserver.com/iOS/Image/Icon/capcut.png",
             "appstore": "com.lemon.lvoverseas"
@@ -773,6 +791,7 @@
             "size": 130365521,
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/B612V12.3.15.ipa",
             "category": "Tweaked Apps",
+            "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16956696371320-100x100.jpg",
             "appstore": "com.linecorp.b612"
@@ -783,6 +802,7 @@
             "version": "7.3.0",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xDuolingo7.3.0.ipa",
             "category": "Tweaked Apps",
+            "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
             "appstore": "com.duolingo.DuolingoMobile"
@@ -790,11 +810,12 @@
         {
             "name": "Truecaller Premium",
             "bundleIdentifier": "com.truesoftware.TrueCallerOther",
-            "version": "12.69.6",
-            "versionDate": "2023-12-05",
-            "size": 88640952,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TruecallerPremium-12.69.6.ipa",
+            "version": "12.71",
+            "date": "2023-12-22",
+            "size": 93315725,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-22-2023/TruecallerPremium-12.71.ipa"
             "category": "Tweaked Apps",
+            "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
             "appstore": "com.truesoftware.TrueCallerOther",
@@ -868,10 +889,10 @@
         {
        "name": "Instagram Rocket",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "310.0.4-3.8.17",
-            "versionDate": "2023-12-05",
-            "size": 139104938,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/InstaRocketCracked-310.0.4-3.8.17.ipa",
+            "version": "312.0.1-3.8.18",
+            "date": "2023-12-20",
+            "size": 145963411,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-20-2023/InstaRocketCracked-312.0.1-3.8.18.ipa"
             "category": "Tweaked Apps",
             "changelog": "- برطرف شدن مشکل نصب برنامه ( قبل از نصب باید اینستای اصلی رو حذف کنید ، در صورت نیاز نصب در کنار اینستای اصلی پیشنهاد میشه نسخه داپلیکیت رو نصب کنید )",
             "developerName": "",
@@ -883,10 +904,10 @@
          {
             "name": "Instagarm Rocket Duplicate",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "310.0.4",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Rocket310.0.4.ipa",
+            "version": "311.0.2",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Rocket311.0.2.ipa",
             "category": "Tweaked Apps",
-            "changelog": "- برطرف شدن مشکل نصب ( اگر خراب نصب شده باید پاکش کنید مجدد نصب کنید) به روز رسانی  اینستاگرام به جدید ترین نسخه هماهنگ با اپ استور v310.0.4 - جدید ترین نسخه توییک راکت 3.8.16",
+            "changelog": "- برطرف شدن مشکل نصب ( اگر خراب نصب شده باید پاکش کنید مجدد نصب کنید) به روز رسانی  اینستاگرام به جدید ترین نسخه هماهنگ با اپ استور v311.0.2 - جدید ترین نسخه توییک راکت 3.8.16",
             "developerName": "",
             "localizedDescription": "این نسخه به صورت مجزا در کنار اینستاگرام اصلی که از اپ استور اپل نصب کردید نصب می شود . ( اسم اپ Rocket ) هست که بتونید تشخیص بدین این نسخه رو از نسخه اصلی اینستا، نحوه فعال سازی لایسنس کرک :پس از وارد شدن به اپ وارد تنظیمات توییک Rocket بشید و Upgrade Now رو بزنید تا یک پروفایل دانلود بشه و اون پروفایل رو نصب کنید تا بتونید روی restoe License کلیک کنید و لایسنس کرک فعال بشه و بدون محدودیت و تبلیغ استفاده کنید .",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
