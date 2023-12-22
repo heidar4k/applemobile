@@ -668,20 +668,9 @@
     
     "Tweaked Apps": [
         
+
         {
-            "name": "Lightroom Photo & Video Editor Pro",
-            "bundleIdentifier": "com.adobe.lrmobilephone",
-            "developerName": "",
-            "category": "Tweaked Apps",
-            "changelog": "نسخه توییک شده با اشتراک پریمیوم توسط حیدرابراهیمی (اپل موبایل) پیش فعال شده است",
-            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16975743631094-100x100.jpg",
-            "version": "9.1.0",
-            "date": "2023-12-19",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/LightroomPremium9.1.0.ipa",
-            "appstore": "com.adobe.lrmobilephone"
-        },
-        {
-            "name": "Infuse Pro",
+            "name": "InfusePro",
             "bundleIdentifier": "com.firecore.infuse",
             "developerName": "",
             "category": "Tweaked Apps",
