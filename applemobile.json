@@ -668,7 +668,6 @@
     
     "Tweaked Apps": [
         
-        
         {
             "name": "Lightroom Photo & Video Editor Pro",
             "bundleIdentifier": "com.adobe.lrmobilephone",
@@ -682,7 +681,7 @@
             "appstore": "com.adobe.lrmobilephone"
         },
         {
-            "name": "InfusePro",
+            "name": "Infuse Pro",
             "bundleIdentifier": "com.firecore.infuse",
             "developerName": "",
             "category": "Tweaked Apps",
