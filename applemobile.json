@@ -671,16 +671,6 @@
     "Tweaked Apps": [
         
         {
-            "name": "Photoleap Pro",
-            "bundleIdentifier": "com.lightricks.Enlight-Editor",
-            "developerName": "",
-            "category": "Tweaked Apps",
-            "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17006516181611-100x100.jpg",
-            "date": "2023-12-26",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Photoleap2.63.ipa",
-            "appstore": "com.lightricks.Enlight-Editor"
-        },
-        {
             "name": "InfusePro",
             "bundleIdentifier": "com.firecore.infuse",
             "developerName": "",
