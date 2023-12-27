@@ -1017,6 +1017,19 @@
         },
            
            {
+               "name": "TrollTools",
+               "bundleIdentifier": "net.sourceloc.TrollTools",
+               "developerName": "",
+               "localizedDescription": "",
+               "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
+               "version": "3.0",
+               "date": "2023-12-26",
+               "size": 4372418,
+               "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/TrollTools-3.0.ipa"
+                       
+        },
+           
+           {
                "name": "ESign",
                "bundleIdentifier": "p3.xyz.yyyue.esign",
                "version": "4.8.0.1",
