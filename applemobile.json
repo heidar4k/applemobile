@@ -668,7 +668,29 @@
     
     "Tweaked Apps": [
         
-        
+        {
+           "name": "AnkiMobile Flashcards",
+           "bundleIdentifier": "net.ichi2.anki",
+           "version": "23.12",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2023/AnkiMobilev23.12.ipa",
+           "category": "Tweaked Apps",
+           "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
+           "localizedDescription": "اپلیکیشن AnkiMobile یک برنامه فلش کارت هوشمند، قدرتمند است. در این برنامه باید فایل هایی با پسورد PKG که درواقع همان سورس فلش کارت ها می باشد را دریافت کرده و استفاده کنید .از داخل خود برنامه پایین صفحه با کلیک روی add/export و سپس Shared Deck List میتوانید با وارد شدن به سایت برنامه فلش کارت های گوناگون و حتی فارسی یا با جستجو Persian پیدا و دریافت کرده سپس انهارا با اپلیکیشن AnkiMobile flashcards باز و استفاده نمایید .",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2023/11/at-16991080251784-100x100.jpg",
+           "appstore": "net.ichi2.anki"
+        },
+        {
+           "name": "YOne4Wall 4K Wallpapers",
+           "bundleIdentifier": "one4studio.wallpaper.one4wall",
+           "version": "3.1.1",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2023/One4Wall3.1.1.ipa",
+           "category": "Tweaked Apps",
+           "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17039628221581-100x100.jpg",
+           "appstore": "one4studio.wallpaper.one4wall"
+        },
         {
            "name": "YouCam Perfect Pro",
            "bundleIdentifier": "com.cyberlink.youperfect",
@@ -831,10 +853,10 @@
         {
        "name": "Instagram Rocket",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "310.0.4-3.8.17",
-            "versionDate": "2023-12-05",
+            "version": "312.0.1",
+            "versionDate": "2023-12-31",
             "size": 139104938,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/InstaRocketCracked-310.0.4-3.8.17.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Instagramrocket312.0.1.ipa",
             "category": "Tweaked Apps",
             "changelog": "- برطرف شدن مشکل نصب برنامه ( قبل از نصب باید اینستای اصلی رو حذف کنید ، در صورت نیاز نصب در کنار اینستای اصلی پیشنهاد میشه نسخه داپلیکیت رو نصب کنید )",
             "developerName": "",
@@ -846,10 +868,10 @@
          {
             "name": "Instagarm Rocket Duplicate",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "310.0.4",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Rocket310.0.4.ipa",
+            "version": "312.0.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Rocket312.0.1.ipa",
             "category": "Tweaked Apps",
-            "changelog": "- برطرف شدن مشکل نصب ( اگر خراب نصب شده باید پاکش کنید مجدد نصب کنید) به روز رسانی  اینستاگرام به جدید ترین نسخه هماهنگ با اپ استور v310.0.4 - جدید ترین نسخه توییک راکت 3.8.16",
+            "changelog": "- برطرف شدن مشکل نصب ( اگر خراب نصب شده باید پاکش کنید مجدد نصب کنید) به روز رسانی  اینستاگرام به جدید ترین نسخه هماهنگ با اپ استور v312.0.1 - جدید ترین نسخه توییک راکت 3.8.16",
             "developerName": "",
             "localizedDescription": "این نسخه به صورت مجزا در کنار اینستاگرام اصلی که از اپ استور اپل نصب کردید نصب می شود . ( اسم اپ Rocket ) هست که بتونید تشخیص بدین این نسخه رو از نسخه اصلی اینستا، نحوه فعال سازی لایسنس کرک :پس از وارد شدن به اپ وارد تنظیمات توییک Rocket بشید و Upgrade Now رو بزنید تا یک پروفایل دانلود بشه و اون پروفایل رو نصب کنید تا بتونید روی restoe License کلیک کنید و لایسنس کرک فعال بشه و بدون محدودیت و تبلیغ استفاده کنید .",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
@@ -1026,7 +1048,27 @@
                "size": 4372418,
                "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/TrollTools-3.0.ipa"
         },
-           
+           {
+               "name": "TrollTools",
+               "bundleIdentifier": "net.sourceloc.TrollTools",
+               "developerName": "",
+               "localizedDescription": "",
+               "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
+               "category": "Tweaked Apps",
+               "version": "3.0",
+               "date": "2023-12-26",
+               "size": 4372418,
+               "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/TrollTools-3.0.ipa"
+        },
+           {
+               "name": "Misaka",
+               "bundleIdentifier": "com.straight-tamago.misakaRS",
+               "version": "3.4.1",
+               "downloadURL": "https://dl3.apptrackr.ir/ios/2023/misakav3.4.1.ipa",
+               "category": "Tweaked Apps",
+               "developerName": "",
+               "iconURL": "https://app.appleapps.ir/storage/2023/08/at-17011337141109-100x100.jpg"
+        },
            {
                "name": "ESign",
                "bundleIdentifier": "p3.xyz.yyyue.esign",
