@@ -9,11 +9,12 @@
         
         {
             "name": "همراه بام ملی",
+            "developerName": "همراه بام ملی ( همراه بانک ملی )",
             "version": "4.2.2",
             "icon": "https://cdn.appleapps.ir/2020/05/at-16030995251028-100x100.png",
             "down": "https://dl3.apptrackr.ir/ios/2023/bam4.2.2.ipa",
             "category": "Jailbreaks",
-            "changelog": "تغییرات آخرین نسخه ( 4.2.1 ) ۱ - افزودن امکان صدور، دریافت و ابطال امضای دیجیتال ۲ - افزودن امکان ثبت تسهیلات خرد و پیگیری تسهیلات ( تسهیلات زائرین اربعین) ۳ - افزودن راهنما در انتقال پول، چک صیادی و ...",
+            "changelog": "تغییرات آخرین نسخه: ۱ - افزودن امکان صدور، دریافت و ابطال امضای دیجیتال ۲ - افزودن امکان ثبت تسهیلات خرد و پیگیری تسهیلات ( تسهیلات زائرین اربعین) ۳ - افزودن راهنما در انتقال پول، چک صیادی و ...",
             "description": "نرم افزار هوشمند بانکی که طراحی نسخه جدید آن مطابق با سلیقه مشتریان انجام شده، انجام امور بانکی آسانتر و سریعتر از همیشه - امکانات همراه بام ملی جدید: امکان ورود با اسکن اثر انگشت و یا تشخیص چهره - انتخاب تم تاریک و روشن - مدیریت مخاطبین ( امکان افزودن مخاطب جدید، ویرایش و حذف مخاطبین قدیم ) - امکان دریافت مانده کارت - دسترسی آسان به مخاطبین پرتکرار در منوی اصلی، شماره حساب و شماره کارت جهت دسترسی سریع و تراکنش آسانتر به مخاطب - دریافت صورتحساب، مشاهده جزئیات اطلاعات تراکنشها، امکان افزودن یادداشت، امکان طبقه بندی تراکنشها و امکان جستجو پیشرفته  - انتقال پول، انتقال ازحساب به حساب ( درون بانکی / شتابی)، تشخیص هوشمند نوع انتقال پول ( ساتنا، پایا، ... ) از روی مبلغ و مقصد تراکنش، امکان تائید چند مرحله ای انتقال پول - کارت به کارت، انتقال کارت به کارت درون بانکی و انتقال کارت به کارت شتابی - پرداخت قبض، امکان پرداخت با استفاده از بارکد خوان  - خرید بسته اینترنت - پرداخت اقساط تسهیلات ملی و مشاهده فهرست و وضعیت تسهیلات  - امکان افزودن و پرداخت تسهیلات دیگران - ثبت بازخورد در برنامه",
             "screenshots": [
               "https://cdn.appleapps.ir/2020/05/at-16030995271444-250x450.jpeg",
@@ -89,6 +90,7 @@
 
            {
            "name": "همراه بانک ملت",
+           "developerName": "اپلیکیشن رسمی همراه بانک ملت",
            "version": "1.2.2",
            "icon": "https://app.appleapps.ir/storage/2020/05/at-16865736401056-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2023/bankmelat1.2.2.ipa",
@@ -107,6 +109,7 @@
 
          {
           "name": "بانکینو | Bankino",
+          "developerName": "بانکداری دیجیتال",
           "version": "5.744",
           "versionDate": "2023-11-21",
           "icon": "https://app.appleapps.ir/storage/2022/11/at-16834501601432-100x100.png",
@@ -124,6 +127,7 @@
        
          {
            "name": "همراه بانک تجارت",
+           "developerName": "اپلیکیشن رسمی همراه بانک تجارت",
            "version": "3.7.7",
            "icon": "https://cdn.appleapps.ir/2020/05/at-16300879441017-100x100.png",
            "down": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/Go1G3x3e3QUGoNaF7mHoSi.ipa",
@@ -137,6 +141,7 @@
         },
          {
              "name": "همراز ‌بانک تجارت | TejaratOTP",
+             "developerName": "اپلیکیشن رمز پویای بانک تجارت",
              "version": "1.9.2",
              "icon": "https://cdn.appleapps.ir/2020/05/at-16300866411118-100x100.png",
              "down": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/L6NQ0g2wwQZawWwYc4GcSa.ipa",
@@ -152,6 +157,7 @@
          },
            {
              "name": "همراه بانک توسعه تعاون",
+             "developerName": "موبایل بانک توسعه تعاون",
              "version": "6.3.2",
              "icon": "https://cdn.appleapps.ir/2020/05/at-15896278111445-100x100.jpg",
              "down": "https://dl2.apptrackr.ir/user1/ios/2020/MBank_6.3.2-2.ipa",
@@ -169,6 +175,7 @@
         },
          {
            "name": "همراه بانک پاسارگاد",
+           "developerName": "شعبه‌ای از بانک پاسارگاد در خانه شما",
            "version": "12.0.1",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15899142561296-100x100.png",
            "down": "https://dl3.apptrackr.ir/ios/2023/pasargad-v12.0.1.ipa",
@@ -184,6 +191,7 @@
       },
            {
            "name": "همراه بانک صادرات",
+           "developerName": "اپلیکیشن موبایل بانک صادرات",
            "version": "2.7.0.1",
            "icon": "https://cdn.appleapps.ir/2020/05/at-16086327911072-100x100.png",
            "down": "https://dl3.apptrackr.ir/ios/2023/saderat8.7i.ipa",
@@ -199,6 +207,7 @@
       },
            {
            "name": "همراه بانک مسکن",
+           "developerName": "همراه بانک مسکن ( نسخه رسمی و جدید )",
            "version": "1.32",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15904184551220-100x100.jpg",
            "down": "https://dl3.apptrackr.ir/ios/2022/maskan-v1.32-appleapps.ir.ipa",
@@ -219,6 +228,7 @@
            
          {
            "name": "همراه بانک رسالت",
+           "developerName": "همراه بانک رسالت",
            "version": "11.0.1",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15896278071396-100x100.jpg",
            "down": "https://dl3.apptrackr.ir/ios/2023/Resalat11.0.1.ipa",
@@ -232,6 +242,7 @@
       },
            {
            "name": "همپا | همراه بانک پست بانک",
+           "developerName": "موبایل بانک پست بانک",
            "version": "2.10.37",
            "icon": "https://app.appleapps.ir/storage/2020/05/at-16905334141911-100x100.png",
            "down": "https://dl3.apptrackr.ir/ios/2023/hampa2.10.37.ipa",
@@ -245,6 +256,7 @@
          
          {
            "name": "همراه بانک کشاورزی",
+           "developerName": "همراه بانک کشاورزی",
            "version": "1.2.2.1",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15896296871319-100x100.png",
            "down": "https://dl3.apptrackr.ir/ios/2023/rebuiltkeshavarzv1.2.2.ipa",
@@ -276,6 +288,7 @@
      },
           {
            "name": "آپ - آسان پرداخت",
+           "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
            "version": "6.4.1",
            "icon": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
            "down": "https://dl3.apptrackr.ir/ios/2023/asanpardakht6.4.1.ipa",
@@ -291,6 +304,7 @@
       },
          {
            "name": "همراه بانک سپه",
+           "developerName": "نسخه جدید و رسمی همراه بانک سپه",
            "version": "10.0.2",
            "icon": "https://cdn.appleapps.ir/2020/08/at-15971008741714-100x100.png",
            "down": "https://dl3.apptrackr.ir/ios/2022/SepahMBNew-10.0.2-appleapps.ir.ipa",
@@ -305,6 +319,7 @@
       },
              {
            "name": "موبایل بانک رفاه",
+           "developerName": "موبایل بانک رفاه کارگران",
            "version": "2.1.5",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15896314141558-100x100.png",
            "down": "https://dl3.apptrackr.ir/ios/2023/mbankrefa2.1.5.ipa",
@@ -317,6 +332,7 @@
       },
            {
            "name": "آبانک | Abank",
+           "developerName": "آبانک ، بانک دیجیتال آینده",
            "version": "1.7.62",
            "icon": "https://app.appleapps.ir/storage/2022/05/at-16847851311517-100x100.png",
            "down": "https://dl3.apptrackr.ir/ios/2023/abank1.7.62.ipa",
@@ -333,6 +349,7 @@
       },
            {
            "name": "همراه کارت",
+           "developerName": "سامانه انتقال پول با تلفن همراه",
            "version": "6.0.4.2",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15896268901899-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2022/hamrah-cart-v6.0.4-new.ipa",
@@ -366,6 +383,7 @@
         },
            {
            "name": "Asa Trader | کارگزاری آگاه",
+           "developerName": "معاملات آنلاین کارگزاری آگاه",
            "version": "13.42.2",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15896283281386-100x100.png",
            "down": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/fzsv0k8DSp9DPWInrQpO5y.ipa",
@@ -380,6 +398,7 @@
         },
            {
            "name": "سامانه همتا",
+           "developerName": "سامانه رجیستری دستگاه های ارتباطی",
            "version": "1.3",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15902546191815-100x100.jpeg",
            "down": "https://dl2.apptrackr.ir/user1/ios/2022/hmtta-v1.5.ipa",
@@ -395,6 +414,7 @@
       },
              {
                 "name": "Rubika",
+                "developerName": "اپلیکیشن پیام‌رسان روبیکا",
                 "version": "2.5.2",
                 "icon": "https://app.appleapps.ir/storage/2020/05/at-16941271481992-100x100.png",
                 "down": "https://dl3.apptrackr.ir/ios/2023/rubika2.5.2.ipa",
@@ -428,6 +448,7 @@
           },
          {
            "name": "دیجیکالا",
+           "developerName": "فروشگاهی بزرگ در جیب شما",
            "version": "2.9.4.1",
            "icon": "https://cdn.appleapps.ir/2020/05/at-16114098281632-100x100.jpg",
            "down": "https://dl3.apptrackr.ir/ios/2023/digikala2.9.4.1.ipa",
@@ -444,24 +465,8 @@
             ],
       },
            {
-           "name": "بیت 24 | Bit24",
-           "version": "8.1.4",
-           "icon": "https://app.appleapps.ir/storage/2023/06/at-16879659361982-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2023/bit248.1.4.ipa",
-           "category": "Jailbreaks",
-           "description": "خرید بیت کوین و فروش بیت کوین با مناسب ترین قیمت و تسویه آنی در اپلیکیشن بیت 24، با اپلیکیشن بیت 24 به آسانی در هر ساعت از شبانه روز خرید و فروش تتر، اتریوم، ترون و دوج کوین را انجام دهید و درسریع‌ترین زمان ممکن ارز دیجیتال خود را دریافت کنید. اپلیکیشن بیت 24 امن ترین و سریع‌ترین راه خرید و فروش ارز دیجیتال را برای شما فراهم می‌کند. • پشتیبانی از انواع ارزهای دیجیتال • انتقال آنی و سریع ارزها • تسویه حساب اتوماتیک در هر ساعت از شبانه روز • خرید و فروش انواع رمز ارزها: بیت کوین، اتریوم، تتر، دوج کوین، ریپل، بیت کوین کش، استلار، ترون، چین لینک، بیت تورنت، بایننس کوین، کاردانو، وی چین، لایت کوین، خرید شیبا • تیم پشتیبانی ۲۴ ساعته • احراز هویت آسان، سریع و اتوماتیک • خرید بیت کوین • سریع ترین صرافی ارزهای دیجیتال • نمایش قیمت لحظه ای ارزهای دیجیتالی • نمودار تحلیل تکنیکال ارزها • معرفی انواع ارز دیجیتال. ارایه تحلیل و سیگنال های خرید و فروش رایگان. آموزش انواع مطالب در موضوع رمز ارزها. خرید بیت کوین در ایران. تلفن تماس: 02191070394",
-           "screenshots": [
-             "https://app.appleapps.ir/storage/2023/06/at-16879669831721.jpg",
-             "https://app.appleapps.ir/storage/2023/06/at-16879669821320.jpg",
-             "https://app.appleapps.ir/storage/2023/06/at-16879669811570.jpg",
-             "https://app.appleapps.ir/storage/2023/06/at-16879669811148.jpg",
-             "https://app.appleapps.ir/storage/2023/06/at-16879669861522.jpg",
-             "https://app.appleapps.ir/storage/2023/06/at-16879669851398.jpg",
-             "https://app.appleapps.ir/storage/2023/06/at-16879669841190.jpg"
-            ],
-         },
-           {
            "name": "علی بابا | Alibaba.ir",
+           "developerName": "مرجع خرید بلیط هواپیما ، قطار و رزرو هتل و ...",
            "version": "7.14.0",
            "icon": "https://app.appleapps.ir/storage/2020/05/at-16871073301589-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2022/alibaba-7.14.0-appleapps.ir.ipa",
@@ -484,6 +489,7 @@
          
            {
              "name": "شیپور",
+             "developerName": "نیازمندیهای رایگان",
              "version": "4.3.2",
              "icon": "https://cdn.appleapps.ir/2020/05/at-15896270841898-100x100.png",
              "down": "https://dl2.apptrackr.ir/user1/ios/2021/sheypoor-v4.3.2.ipa",
@@ -500,6 +506,7 @@
          },
           {
            "name": "دیوار",
+           "developerName": "محل انتشار رایگان انواع آگهی",
            "version": "11.10.4",
            "versionDate": "2023-12-26",
            "icon": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
@@ -519,7 +526,8 @@
             ],
       },
           {
-           "name": "اسپارس - دانلود موزیک",
+           "name": "اسپارس | ‌Sparse",
+           "developerName": "سرویس دانلود و استریم موزیک",
            "version": "10.7.4",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15896269041389-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2023/Sparsev10.7.4.ipa",
@@ -536,6 +544,7 @@
       },
          {
            "name": "آنتن",
+           "developerName": "تلوزیون اینترنتی آنتن : پخش زنده مسابقات ورزشی",
            "version": "4.1.0",
            "versionDate": "2023-12-26",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15896270931361-100x100.jpeg",
@@ -552,6 +561,7 @@
       },
           {
            "name": "تلوبیون | Telewebion",
+           "developerName": "پخش زنده و آرشیو کامل برنامه های تلوزیون",
            "version": "1.6",
            "icon": "https://cdn.appleapps.ir/2020/07/at-15960448311464-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2022/televebion-v1-appleapps.ir.ipa",
@@ -568,6 +578,7 @@
       },
            {
            "name": "نماوا - تماشای فیلم",
+           "developerName": "تماشای آنلاین فیلم و سریال",
            "version": "2.13.0",
            "icon": "https://app.appleapps.ir/storage/2020/05/at-16980695301860-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2023/namava2.13.0.ipa",
@@ -584,6 +595,7 @@
       },
             {
            "name": "فیلیمو",
+           "developerName": "فیلم و سریال ایرانی و خارجی با دوبله",
            "version": "5.8.0",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15896268521401-100x100.png",
            "down": "https://dl3.apptrackr.ir/ios/2023/filimo5.8.0.ipa",
@@ -599,6 +611,7 @@
       },
               {
            "name": "فیلم نت",
+           "developerName": "تماشای آنلاین و دانلود فیلم سریال های روز دنیا",
            "version": "4.5.2",
            "icon": "https://cdn.appleapps.ir/2021/04/at-16172206961556-100x100.png",
            "down": "https://dl3.apptrackr.ir/ios/2022/filmnt-v4.5.2-appleapps.ir.ipa",
@@ -615,7 +628,8 @@
             ],
       },
          {
-           "name": "نقشه و مسیریاب بلد | Balad",
+           "name": "بلد | Balad",
+           "developerName": "نقشه و مسیریاب قدرتمند ایرانی",
            "version": "3.1.1.1",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15896276731074-100x100.jpg",
            "down": "https://dl3.apptrackr.ir/ios/2023/balad3.1.1x.ipa",
@@ -635,6 +649,7 @@
       },
            {
            "name": "نشان |‌ Neshan",
+           "developerName": "نقشه و مسیریاب سخن‌گوی فارسی",
            "version": "5.3.0",
            "icon": "https://app.appleapps.ir/storage/2020/05/at-16873926291816-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2023/neshan5.3.0.ipa",
@@ -652,8 +667,27 @@
           "hhttps://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327076-1.jpg"
       ],
       },
+           {
+           "name": "بیت 24 | Bit24",
+           "developerName": "خرید و فروش بیت کوین و ارزدیجیتال",
+           "version": "8.1.4",
+           "icon": "https://app.appleapps.ir/storage/2023/06/at-16879659361982-100x100.jpeg",
+           "down": "https://dl3.apptrackr.ir/ios/2023/bit248.1.4.ipa",
+           "category": "Jailbreaks",
+           "description": "خرید بیت کوین و فروش بیت کوین با مناسب ترین قیمت و تسویه آنی در اپلیکیشن بیت 24، با اپلیکیشن بیت 24 به آسانی در هر ساعت از شبانه روز خرید و فروش تتر، اتریوم، ترون و دوج کوین را انجام دهید و درسریع‌ترین زمان ممکن ارز دیجیتال خود را دریافت کنید. اپلیکیشن بیت 24 امن ترین و سریع‌ترین راه خرید و فروش ارز دیجیتال را برای شما فراهم می‌کند. • پشتیبانی از انواع ارزهای دیجیتال • انتقال آنی و سریع ارزها • تسویه حساب اتوماتیک در هر ساعت از شبانه روز • خرید و فروش انواع رمز ارزها: بیت کوین، اتریوم، تتر، دوج کوین، ریپل، بیت کوین کش، استلار، ترون، چین لینک، بیت تورنت، بایننس کوین، کاردانو، وی چین، لایت کوین، خرید شیبا • تیم پشتیبانی ۲۴ ساعته • احراز هویت آسان، سریع و اتوماتیک • خرید بیت کوین • سریع ترین صرافی ارزهای دیجیتال • نمایش قیمت لحظه ای ارزهای دیجیتالی • نمودار تحلیل تکنیکال ارزها • معرفی انواع ارز دیجیتال. ارایه تحلیل و سیگنال های خرید و فروش رایگان. آموزش انواع مطالب در موضوع رمز ارزها. خرید بیت کوین در ایران. تلفن تماس: 02191070394",
+           "screenshots": [
+             "https://app.appleapps.ir/storage/2023/06/at-16879669831721.jpg",
+             "https://app.appleapps.ir/storage/2023/06/at-16879669821320.jpg",
+             "https://app.appleapps.ir/storage/2023/06/at-16879669811570.jpg",
+             "https://app.appleapps.ir/storage/2023/06/at-16879669811148.jpg",
+             "https://app.appleapps.ir/storage/2023/06/at-16879669861522.jpg",
+             "https://app.appleapps.ir/storage/2023/06/at-16879669851398.jpg",
+             "https://app.appleapps.ir/storage/2023/06/at-16879669841190.jpg"
+            ],
+         },
          {
            "name": "Nobitex | نوبیتکس",
+           "developerName": "صرافی آنلاین - خرید فروش ارز دیجیتال",
            "version": "2.3.0",
            "icon": "https://app.appleapps.ir/storage/2022/02/at-16839460771868-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2023/nobitex2.3.0.ipa",
@@ -669,6 +703,7 @@
          },
            {
            "name": "همراه من | MyMCI",
+           "developerName": "همراه من، همراه اول زندگی دیجیتال",
            "version": "5.9.5",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15898094781939-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2022/mymci-v5.9.5-appleapps.ir.ipa",
@@ -688,6 +723,7 @@
       },
            {
            "name": "ایرانسل من |‌ My Irancell",
+           "developerName": "ایرانسل من برای مدیریت سیم کارت های ایرانسل",
            "version": "3.0.1",
            "icon": "https://app.appleapps.ir/storage/2020/05/at-16888342911176-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2023/myirancell3.0.1.ipa",
@@ -701,6 +737,7 @@
       },
            {
            "name": "رایتل من | MyRightel",
+           "developerName": "مدیریت امور سیم کارت رایتل",
            "version": "14.3.11",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15900852021696-100x100.jpeg",
            "down": "https://dl3.apptrackr.ir/ios/2023/rightel14.3.11.ipa",
@@ -725,6 +762,7 @@
         
         {
            "name": "Documents Pro",
+           "developerName": "بهترین فایل منیجر و دانلودر آی او اس",
            "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
            "version": "8.10.2",
            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Documentsv8.10.2.ipa",
@@ -736,6 +774,7 @@
         },
         {
            "name": "AnkiMobile Flashcards",
+           "developerName": "فلش کارت هوشمند و قدرتمند",
            "bundleIdentifier": "net.ichi2.anki",
            "version": "23.12",
            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/AnkiMobilev23.12.ipa",
@@ -748,6 +787,7 @@
         },
         {
            "name": "YOne4Wall 4K Wallpapers",
+           "developerName": "برنامه والپیپرهای منحصر به فرد روزانه",
            "bundleIdentifier": "one4studio.wallpaper.one4wall",
            "version": "3.1.1",
            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/One4Wall3.1.1.ipa",
@@ -759,6 +799,7 @@
         },
         {
            "name": "YouCam Perfect Pro",
+           "developerName": "دوربین حرفه ی با افکت های گذاری بر روی فیلم و عکس به صورت زنده",
            "bundleIdentifier": "com.cyberlink.youperfect",
            "version": "5.76.1",
            "downloadURL": "https://dl3.apptrackr.ir/ios/2022/YouCamPerfect_5.76.1.ipa",
@@ -769,6 +810,7 @@
         },
         {
            "name": "Perfect365 (Unlocked)",
+           "developerName": "ویرایشگر و آرایش عکس",
            "bundleIdentifier": "com.arcsoft.Perfect365",
            "version": "9.30.30",
            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Perfect3659.30.30.ipa",
@@ -779,6 +821,7 @@
         },
         {
            "name": "InCollage Premium",
+           "developerName": "عکس کلاژ ساز",
            "bundleIdentifier": "PhotoEditor.PhotoCollage.inCollage",
            "version": "2.0.0",
            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/InCollage2.0.0.ipa",
@@ -789,6 +832,7 @@
         },
         {
            "name": "Bazaart Premium",
+           "developerName": "صدها قالب آماده استوری و پست اینستاگرام + ویرایشگر قدرتمند",
            "bundleIdentifier": "co.bazaart.app",
            "version": "10.0.8",
            "downloadURL": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/9nKU2mGxIwZfvWHg61Osna.ipa",
@@ -799,6 +843,7 @@
         },
         {
             "name": "CamScanner Pro",
+            "developerName": "نسخه آنلاک شده قدرتمند ترین برنامه اسکنر",
             "bundleIdentifier": "com.intsig.CamScannerLite",
             "version": "6.55.0",
             "downloadURL": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/hY1Ni0IaF0rDXuajMjiNNA.ipa",
@@ -809,6 +854,7 @@
         },
         {
             "name": "CapCut Pro",
+            "developerName": "نسخه پرو محبوب ترین اپ ویرایش ویدیو",
             "bundleIdentifier": "com.lemon.lvoverseas",
             "version": "9.3.3",
             "downloadURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/CapCut9.3.3pro.ipa",
@@ -819,6 +865,7 @@
         },
         {
             "name": "B612 Premium",
+            "developerName": "ویرایشگر دوربین و عکس/فیلم",
             "bundleIdentifier": "com.linecorp.b612",
             "version": "12.3.15",
             "size": 130365521,
@@ -830,6 +877,7 @@
         },
         {
             "name": "Duolingo Premium",
+            "developerName": "آموزش زبان های خارجی ، نسخه بدون نیاز به خرید درونی",
             "bundleIdentifier": "com.duolingo.DuolingoMobile",
             "version": "7.3.0",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xDuolingo7.3.0.ipa",
@@ -840,6 +888,7 @@
         },
         {
             "name": "Truecaller Premium",
+            "developerName": "اپلیکیشن شماره گیر حرفه ای",
             "bundleIdentifier": "com.truesoftware.TrueCallerOther",
             "version": "12.69.6",
             "versionDate": "2023-12-05",
@@ -852,6 +901,7 @@
         },
         {
             "name": "Mojo Pro",
+            "developerName": "ویرایش حرفه ای استوری های اینستاگرام",
             "bundleIdentifier": "archery.storify",
             "version": "1.156.1",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Mojo1.156.1.ipa",
@@ -864,6 +914,7 @@
         },
         {
             "name": "Reelsapp Pro",
+            "developerName": "ساخت ریلز و ادیتور استوری",
             "bundleIdentifier": "com.nextgen.reelsapp",
             "version": "5.0",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/ReelsApp5.0.ipa",
@@ -876,6 +927,7 @@
         },
         {
             "name": "Facetune 2 Pro",
+            "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
             "bundleIdentifier": "com.lightricks.Facetune2",
             "version": "3.36.2",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Facetune3.36.2.ipa",
@@ -888,6 +940,7 @@
         },
         {
             "name": "Facetune Pro",
+            "developerName": "ویرایشگر عکس های سلفی قدرتمند",
             "bundleIdentifier": "com.lightricks.Facetune",
             "version": "2.8.8",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2022/Facetune_2.8.8_appleapps.ir.ipa",
@@ -905,31 +958,8 @@
              ],
         },
         {
-            "name": "Instagram Rocket Plus",
-            "bundleIdentifier": "com.burbn.instagram",
-            "version": "310.0.4-3.8.18-2.5.0",
-            "versionDate": "2023-12-10",
-            "size": 135909810,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-10-2023/InstaRocketPlus-310.0.4-3.8.18-2.5.0.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-            "appstore": "com.burbn.instagram"
-        },
-        {
-       "name": "Instagram LRD Cracked",
-            "bundleIdentifier": "com.burbn.instagram",
-            "version": "2.5-312.0.1",
-            "versionDate": "2024-01-07",
-            "size": 126639139,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-07-2024/InstagramLRDCracked-2.5-312.0.1.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-            "appstore": "com.burbn.instagram"
-        },
-        {
-       "name": "Instagram Rocket",
+            "name": "Instagram Rocket",
+            "developerName": "اینستاگرام پیشرفته راکت - آنلاک شده",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "313.0.2-3.8.19",
             "versionDate": "2024-01-08",
@@ -945,6 +975,7 @@
         },
          {
             "name": "Instagarm Rocket Duplicate",
+            "developerName": "اینستاگرام پیشرفته مود شده ( نسخه مجزا ، داپلیکیت )",
             "bundleIdentifier": "com.burbn.instagram",
             "version": "312.0.1",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Rocket312.0.1.ipa",
@@ -957,6 +988,7 @@
         },
         {
             "name": "VN Video Editor Pro",
+            "developerName": "ویرایش ویدیو برای حرفه ای ها آماتور ها",
             "bundleIdentifier": "com.frontrow.vlog",
             "version": "1.75.1",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xvlog1.75.1.ipa",
@@ -969,6 +1001,7 @@
         },
         {
             "name": "Funimate Pro",
+            "developerName": "نسخه پرو ابزار ساخت موزیک ویدیو با افکت",
             "bundleIdentifier": "com.avcr.Funimate",
             "version": "15.12.3",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Funimate15.12.3.ipa",
@@ -980,6 +1013,7 @@
         },
         {
             "name": "BeautyPlus Pro",
+            "developerName": "دوربین سلفی، اپلیکیشن چهره و استودیو تصاویر",
             "bundleIdentifier": "com.commsource.BeautyPlus",
             "version": "7.7.010",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xBeautyPlus7.7.010.ipa",
@@ -992,6 +1026,7 @@
         },
         {
             "name": "Captions Pro",
+            "developerName": "زیرنویس خودکار و ویرایش ویدیو",
             "bundleIdentifier": "boomer.Smart-Video",
             "version": "11.04",
             "versionDate": "2023-12-27",
@@ -1005,6 +1040,7 @@
         },
           {
             "name": "Remini Pro",
+            "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
             "bundleIdentifier": "com.bigwinepot.nwdn.international",
             "version": "2.9.97",
             "versionDate": "2023-11-18",
@@ -1017,6 +1053,7 @@
         },
          {
             "name": "InShot Pro",
+            "developerName": "اینشات بهترین برنامه ویرایش ویدیو و ابزار ادمین پیج ها",
             "bundleIdentifier": "com.camerasideas.InstaShot",
             "version": "1.74.0",
             "versionDate": "2023-12-11",
@@ -1031,6 +1068,7 @@
         },
         {
             "name": "Photoshop Express Pro",
+            "developerName": "برنامه شماره یک عکاسان و ادیتورهای حرفه ای",
             "bundleIdentifier": "com.adobe.PSMobile",
             "version": "23.46.0",
             "versionDate": "2023-11-24",
@@ -1044,6 +1082,7 @@
         },
         {
             "name": "YouTubeOLED",
+            "developerName": "یوتیوب پیشرفته و حرفه‌ای برای دانلود و پخش",
             "bundleIdentifier": "com.google.ios.youtube",
             "version": "18.45.2",
             "versionDate": "2023-11-15",
@@ -1058,6 +1097,7 @@
         },
         {
             "name": "YTMusicUltimate",
+            "developerName": "نسخه توییک شده بدون محدودیت پخش",
             "bundleIdentifier": "com.google.ios.youtubemusic",
             "version": "1.5.2-6.34.1",
             "versionDate": "2024-01-09",
@@ -1073,21 +1113,23 @@
         },
         
          {
-            "name": "Picsart Pro",
+            "name": "Picsart++",
+            "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
             "bundleIdentifier": "com.picsart.studio",
             "appstore": "com.picsart.studio",
-            "version": "23.6.3",
-            "versionDate": "2023-11-13",
-            "size": 90738824,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-13-2023/PicsartPlusPlus-23.6.3.ipa",
+            "version": "24.0.2",
+            "versionDate": "2024-01-14",
+            "size": 100398039,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/PicsArtPlusPlus-24.0.2.ipa",
             "category": "Tweaked Apps",
-            "changelog": "تغییرات آخرین نسخه ( 23.6.3 ) ✅💲: نسخه توییک شده با قالیت های اشتراکی و AI برنامه ( فقط کافیه وارد اکانت PicsArt بشید همون ابتدا و از تمامی قابلیت های پریمیوم استفاده کنید . دقت کنید بر روی  قابلیت های پولی آیکون پریمیوم هست  ولی قابل استفاده هست در این نسخه )",
+            "changelog": "تغییرات آخرین نسخه ( 24.0.2 ) ✅💲: نسخه توییک شده با قالیت های اشتراکی و AI برنامه ( فقط کافیه وارد اکانت PicsArt بشید همون ابتدا و از تمامی قابلیت های پریمیوم استفاده کنید . دقت کنید بر روی  قابلیت های پولی آیکون پریمیوم هست  ولی قابل استفاده هست در این نسخه )",
             "developerName": "",
             "localizedDescription": "نسخه انلاک شده پرو  جدید پیکس آرت با قابلیت دسترسی بدون دردسر و  به صورت پیشفرض به تمامی قابلیت های پولی به صورت رایگان برای شما اپل اپسی های عزیز آماده شده است .",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
         },
         {
             "name": "Infuse Pro",
+            "developerName": "نسخه پریمیوم نسل هفتم Infuse 7",
             "bundleIdentifier": "com.firecore.infuse",
             "appstore": "com.firecore.infuse",
             "version": "7.6.3",
@@ -1103,6 +1145,7 @@
 
            {
             "name": "Speedtest Premium",
+            "developerName": "پیداکردن سرعت واقعی اینترنت و دانلود",
             "bundleIdentifier": "com.ookla.speedtest",
             "appstore": "com.ookla.speedtest",
             "version": "5.2.0",
@@ -1114,55 +1157,13 @@
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
         },
-           
-           {
-               "name": "TrollTools",
-               "bundleIdentifier": "net.sourceloc.TrollTools",
-               "developerName": "",
-               "localizedDescription": "",
-               "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
-               "version": "3.0",
-               "date": "2023-12-26",
-               "size": 4372418,
-               "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/TrollTools-3.0.ipa"
-        },
-           {
-               "name": "TrollTools",
-               "bundleIdentifier": "net.sourceloc.TrollTools",
-               "developerName": "",
-               "localizedDescription": "",
-               "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/net.sourceloc.TrollTools.png",
-               "category": "Tweaked Apps",
-               "version": "3.0",
-               "date": "2023-12-26",
-               "size": 4372418,
-               "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-04-2023/TrollTools-3.0.ipa"
-        },
-           {
-               "name": "Misaka",
-               "bundleIdentifier": "com.straight-tamago.misakaRS",
-               "version": "3.4.1",
-               "downloadURL": "https://dl3.apptrackr.ir/ios/2023/misakav3.4.1.ipa",
-               "category": "Tweaked Apps",
-               "developerName": "",
-               "iconURL": "https://app.appleapps.ir/storage/2023/08/at-17011337141109-100x100.jpg"
-        },
-           {
-               "name": "ESign",
-               "bundleIdentifier": "p3.xyz.yyyue.esign",
-               "version": "4.8.0.1",
-               "downloadURL": "https://omtk.xyz/IPA/Esign.ipa",
-               "category": "Tweaked Apps",
-               "developerName": "",
-               "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/03/esign-ipa-328x328-2.jpeg"
-        },
-        
     ],
     
     "Games": [
         
         {
-            "name": "GTA: San Andreas - Definitive Edition",
+            "name": "GTA: San Andreas",
+            "developerName": "Definitive Edition",
             "bundleIdentifier": "com.netflix.NGP.GTASanAndreasDefinitiveEdition",
             "version": "1.72",
             "versionDate": "",
@@ -1173,7 +1174,8 @@
             "appstore": "com.netflix.NGP.GTASanAndreasDefinitiveEdition"
         },
         {
-            "name": "GTA: Vice City - Definitive Edition",
+            "name": "GTA: Vice City",
+            "developerName": "Definitive Edition",
             "bundleIdentifier": "store.ipa.gtavc.de",
             "version": "1.72",
             "versionDate": "",
@@ -1183,7 +1185,8 @@
             "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17027204511197-100x100.jpg"
         },
         {
-            "name": "GTA III - Definitive Edition",
+            "name": "GTA III",
+            "developerName": "Definitive Edition",
             "bundleIdentifier": "store.ipa.gta3.de",
             "version": "1.72",
             "versionDate": "",
@@ -1192,22 +1195,22 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17027159941607-100x100.jpg"            
         },
-        
         {
             "name": "Subway Surfers Hack",
+            "developerName": "تا بی نهایت بدوید ! نسخه هک شده",
             "bundleIdentifier": "com.kiloo.subwaysurfers",
             "version": "3.21.1",
             "versionDate": "",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/SubwaySurf3.21.1.ipa",
             "category": "Hacked Games",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17019528221292-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17024968611903-100x100.jpg",
             "appstore": "com.kiloo.subwaysurfers"
             
         },
-        
         {
             "name": "Minecraft",
+            "developerName": "بسازید، کشف کنید و زنده بمانید!",
             "bundleIdentifier": "com.mojang.minecraftpe",
             "version": "1.20.51",
             "versionDate": "",
@@ -1218,23 +1221,22 @@
             "appstore": "com.mojang.minecraftpe"
 
         },
-        
-        
         {
             "name": "Leo's Fortune",
+            "developerName": "ماجراجویی سیبیلو زیبا",
             "bundleIdentifier": "com.leosfortune",
             "version": "1.0.14",
             "versionDate": "",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2022/LeosFortune-v1.0.14-appleapps.ir.ipa",
             "category": "Hacked Games",
             "developerName": "",
-            "iconURL": "https://ipaomtk.com/wp-content/uploads/2023/11/download-leo39s-fortune.webp",
+            "iconURL": "https://cdn.appleapps.ir/2022/10/at-16663765551561-100x100.jpg",
             "appstore": "com.leosfortune"
 
         },
-        
         {
-       "name": "Streets of Rage 2 (Full Game)",
+            "name": "Streets of Rage 2",
+            "developerName": "Full Game",
             "bundleIdentifier": "com.sega.streetsofrage2",
             "version": "6.4.0",
             "versionDate": "",
@@ -1245,9 +1247,9 @@
             "appstore": "com.sega.streetsofrage2"
 
         },
-        
         {
-       "name": "Streets of Rage (Full Game)",
+            "name": "Streets of Rage",
+            "developerName": "Full Game",
             "bundleIdentifier": "com.sega.StreetsOfRage",
             "version": "6.4.0",
             "versionDate": "",
@@ -1264,6 +1266,7 @@
         
         {
        "name": "Happy Chick",
+       "developerName": "شبیه سازی بازی های کنسول های قدیمی + دانلود بازی ها",
        "bundleIdentifier": "com.icoou.sanguo",
        "version": "1.5.8.2",
        "versionDate": "",
@@ -1280,8 +1283,6 @@
        "https://cdn.appleapps.ir/2020/07/at-15953859061921-250x450.jpg"
 
         ],
-
        },
     ],
-    
 }
