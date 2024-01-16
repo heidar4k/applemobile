@@ -5,8 +5,7 @@
         "repoIcon": "https://i.postimg.cc/Z5kTTkjG/temp-Image35-CBu-R.jpg"
     },
     "Jailbreaks": [
-        
-        
+
         {
             "name": "همراه بام ملی",
             "developerName": "همراه بام ملی ( همراه بانک ملی )",
@@ -24,10 +23,9 @@
               "https://cdn.appleapps.ir/2020/05/at-16030995181558-250x450.jpeg",
               "https://cdn.appleapps.ir/2020/05/at-16030995151754-250x450.jpeg",
               "https://cdn.appleapps.ir/2020/05/at-16030995281018-250x450.jpeg"
-              
-             ],
+       ],
        },
-        {
+       {
        "name": "موبایلت",
        "developerName": "همراه بانک سامان",
        "version": "5.1.1",
@@ -44,7 +42,7 @@
          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot4_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot5_Wg-hvWd6e_2022_12_08_13_48_20.jpeg"
         ],
-  },
+        },
         {
             "name": "همراه‌ بانک مهر ایران",
             "developerName": "بانک مهرایران",
@@ -66,9 +64,9 @@
            "https://fs.sibapp.net/file/image/application/f17b335a7a1d4b5caa7d3e57544a0b9e.jpeg",
            "https://fs.sibapp.net/file/image/application/64bc2f672f4a4064874e40ce6caa9519.jpeg",
            "https://fs.sibapp.net/file/image/application/22eceb06c4a5420bb5fdd5d0724ac55e.jpeg"
-  ],
+        ],
         },
-         {
+        {
         "name": "بلوبانک",
         "developerName": "blubank",
         "version": "2.8.0",
@@ -85,10 +83,8 @@
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/4(1).png",
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/5(1).png"
          ],
-        
-   },
-
-           {
+         },
+         {
            "name": "همراه بانک ملت",
            "developerName": "اپلیکیشن رسمی همراه بانک ملت",
            "version": "1.2.2",
@@ -104,10 +100,9 @@
             "https://fs.sibapp.net/file/image/application/e2139787bbdf493bb5388cd97fa1bc1e.png",
             "https://fs.sibapp.net/file/image/application/283b349070274922bc93e08f4e9fe66d.png",
             "https://fs.sibapp.net/file/image/application/71631928e5364c2488f53d6ac29eaa2c.png"
-           ],
-      },
-
-         {
+        ],
+        },
+        {
           "name": "بانکینو | Bankino",
           "developerName": "بانکداری دیجیتال",
           "version": "5.744",
@@ -122,10 +117,9 @@
             "https://app.appleapps.ir/storage/2022/11/at-16834500681380.jpg",
             "https://app.appleapps.ir/storage/2022/11/at-16834500671639.jpg",
             "https://app.appleapps.ir/storage/2022/11/at-16834500701188.jpg"
-           ],
-     },
-       
-         {
+          ],
+          },
+          {
            "name": "همراه بانک تجارت",
            "developerName": "اپلیکیشن رسمی همراه بانک تجارت",
            "version": "3.7.7",
@@ -137,9 +131,9 @@
            "screenshots": [
            "https://s3.anardoni.com/applications/2023/05/22/photos/4b56d9ee-a042-4451-a54b-bad07aa0bd6b.png",
            "https://s3.anardoni.com/applications/2023/05/22/photos/15094ed7-0892-40a1-b01f-9a8ab613d455.png"
-           ],
-        },
-         {
+          ],
+          },
+          {
              "name": "همراز ‌بانک تجارت | TejaratOTP",
              "developerName": "اپلیکیشن رمز پویای بانک تجارت",
              "version": "1.9.2",
@@ -153,9 +147,9 @@
                  "https://cdn.appleapps.ir/2020/05/at-16300873241321-250x450.jpg",
                  "https://cdn.appleapps.ir/2020/05/at-16300873261910-250x450.jpg",
                  "https://cdn.appleapps.ir/2020/05/at-16300873291719-250x450.jpg"
-             ],
-         },
-           {
+            ],
+            },
+            {
              "name": "همراه بانک توسعه تعاون",
              "developerName": "موبایل بانک توسعه تعاون",
              "version": "6.3.2",
@@ -170,10 +164,9 @@
              "https://cdn.appleapps.ir/2020/05/at-15896278101361-250x450.jpg",
              "https://cdn.appleapps.ir/2020/05/at-15896278081996-250x450.jpg",
              "https://cdn.appleapps.ir/2020/05/at-15896278081153-250x450.jpg"
-             ],
-          
-        },
-         {
+          ],
+          },
+          {
            "name": "همراه بانک پاسارگاد",
            "developerName": "شعبه‌ای از بانک پاسارگاد در خانه شما",
            "version": "12.0.1",
@@ -187,8 +180,7 @@
            "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/5/1680699205-3.png",
            "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/5/1680699213-4.png"
            ],
-          
-      },
+           },
            {
            "name": "همراه بانک صادرات",
            "developerName": "اپلیکیشن موبایل بانک صادرات",
@@ -204,7 +196,7 @@
              "https://fs.sibapp.net/file/image/application/2e669354f1a34ff4b7aaf24080dc65c2.png",
              "https://fs.sibapp.net/file/image/application/f68c1761b3a34de1b005c683dbeab95a.png"
            ],
-      },
+           },
            {
            "name": "همراه بانک مسکن",
            "developerName": "همراه بانک مسکن ( نسخه رسمی و جدید )",
@@ -223,10 +215,9 @@
              "https://cdn.appleapps.ir/2020/05/at-15904183331285-250x450.jpg",
              "https://cdn.appleapps.ir/2020/05/at-15904183321293-250x450.jpg",
              "https://cdn.appleapps.ir/2020/05/at-15904183341071-250x450.jpg"
-           ],
-      },
-           
-         {
+          ],
+          },
+          {
            "name": "همراه بانک رسالت",
            "developerName": "همراه بانک رسالت",
            "version": "11.0.1",
@@ -239,7 +230,7 @@
            "https://s3.anardoni.com/applications/2022/11/16/photos/PT2tHc4D7/screenshot2_PT2tHc4D7_2022_11_16_06_24_42.jpeg",
            "https://s3.anardoni.com/applications/2022/11/16/photos/PT2tHc4D7/screenshot1_PT2tHc4D7_2022_11_16_06_24_42.jpeg"
            ],
-      },
+           },
            {
            "name": "همپا | همراه بانک پست بانک",
            "developerName": "موبایل بانک پست بانک",
@@ -251,9 +242,8 @@
            "screenshots": [
            "https://fs.sibapp.net/file/image/application/3d53cf31b7e040a8a2e4cd1af2bebaae.jpeg",
            "https://fs.sibapp.net/file/image/application/0da663a093a8426eb2b8e4d635ae1087.jpeg"
-           ],
-      },
-         
+         ],
+         },
          {
            "name": "همراه بانک کشاورزی",
            "developerName": "همراه بانک کشاورزی",
@@ -266,8 +256,8 @@
              "https://s3.anardoni.com/applications/2021/08/31/photos/7NdV4at5C/screenshot3_7NdV4at5C_2021_08_31_09_53_50.jpeg",
              "https://s3.anardoni.com/applications/2021/08/31/photos/7NdV4at5C/screenshot2_7NdV4at5C_2021_08_31_09_53_50.jpeg",
              "https://s3.anardoni.com/applications/2021/08/31/photos/7NdV4at5C/screenshot1_7NdV4at5C_2021_08_31_09_53_50.jpeg"
-            ],
-      },
+         ],
+         },
          {
           "name": "هفـ‌هشتاد (#780*)",
           "developerName": "خرید شارژ ، بسته اینترنتی ، کارت به کارت",
@@ -284,9 +274,9 @@
           "https://app.appleapps.ir/storage/2022/05/at-16966877311076.png",
           "https://app.appleapps.ir/storage/2022/05/at-16966877301909.jpeg",
           "https://app.appleapps.ir/storage/2022/05/at-16966877331866.png"
-          ],
-     },
-          {
+           ],
+           },
+           {
            "name": "آپ - آسان پرداخت",
            "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
            "version": "6.4.1",
@@ -301,8 +291,8 @@
            "https://sandbox.sibirani.ir/statics_public/uploads/2019/04/IMG_2480.png",
            "https://sandbox.sibirani.ir/statics_public/uploads/2019/04/IMG_2481.png"
            ],
-      },
-         {
+           },
+           {
            "name": "همراه بانک سپه",
            "developerName": "نسخه جدید و رسمی همراه بانک سپه",
            "version": "10.0.2",
@@ -316,8 +306,8 @@
            "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/6/3(1).jpeg",
            "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/6/4(1).jpeg"
            ],
-      },
-             {
+           },
+           {
            "name": "موبایل بانک رفاه",
            "developerName": "موبایل بانک رفاه کارگران",
            "version": "2.1.5",
@@ -329,7 +319,7 @@
            "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677355166-1.jpg",
            "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677355174-2.jpg"
            ],
-      },
+           },
            {
            "name": "آبانک | Abank",
            "developerName": "آبانک ، بانک دیجیتال آینده",
@@ -345,8 +335,8 @@
              "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/5f1ae967117646a1afb541169e7d5510.png%20copy.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/e9d60a1890a64c37a8b349d1f71aae37.png%20copy.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/8d40c6ae5cc54686b5ccb4a7e50676ad.png%20copy.jpg"
-            ],
-      },
+           ],
+           },
            {
            "name": "همراه کارت",
            "developerName": "سامانه انتقال پول با تلفن همراه",
@@ -362,8 +352,8 @@
              "https://s3.anardoni.com/applications/2022/09/14/photos/Pul34-v_C/screenshot4_Pul34-v_C_2022_09_14_12_07_23.jpeg",
              "https://s3.anardoni.com/applications/2022/09/14/photos/Pul34-v_C/screenshot5_Pul34-v_C_2022_09_14_12_07_23.jpeg",
              "https://s3.anardoni.com/applications/2022/09/14/photos/Pul34-v_C/screenshot6_Pul34-v_C_2022_09_14_12_07_23.jpeg"
-            ],
-      },
+           ],
+           },
            {
            "name": "Story Font | استوری فونت",
            "developerName": "استوری اینستا با فونت های فارسی",
@@ -379,8 +369,8 @@
              "https://app.appleapps.ir/storage/2024/01/at-17045414231754-250x450.png",
              "https://app.appleapps.ir/storage/2024/01/at-17045414211041-250x450.png",
              "https://app.appleapps.ir/storage/2024/01/at-17045414221685-250x450.png"
-            ],
-        },
+           ],
+           },
            {
            "name": "Asa Trader | کارگزاری آگاه",
            "developerName": "معاملات آنلاین کارگزاری آگاه",
@@ -394,8 +384,8 @@
              "https://cdn.appleapps.ir/2020/05/at-15896283231335-250x450.jpeg",
              "https://cdn.appleapps.ir/2020/05/at-15896283211647-250x450.jpeg",
              "https://cdn.appleapps.ir/2020/05/at-15896283211415-250x450.jpeg"
-            ],
-        },
+           ],
+           },
            {
            "name": "سامانه همتا",
            "developerName": "سامانه رجیستری دستگاه های ارتباطی",
@@ -410,8 +400,8 @@
              "https://cdn.appleapps.ir/2020/05/at-15902550691560-250x450.jpg",
              "https://cdn.appleapps.ir/2020/05/at-15902550681434-250x450.jpg",
              "https://cdn.appleapps.ir/2020/05/at-15902550661991-250x450.jpg"
-            ],
-      },
+             ],
+             },
              {
                 "name": "Rubika",
                 "developerName": "اپلیکیشن پیام‌رسان روبیکا",
@@ -429,8 +419,8 @@
                   "https://app.appleapps.ir/storage/2020/05/at-16941279131906.jpeg",
                   "https://app.appleapps.ir/storage/2020/05/at-16941279131232.jpeg",
                   "https://app.appleapps.ir/storage/2020/05/at-16941279121688.jpeg"
-                 ],
-           },
+             ],
+             },
              {
              "name": "پیام رسان ایتا",
              "developerName": "eitaa Messenger",
@@ -444,9 +434,9 @@
                "https://cdn.appleapps.ir/2020/05/at-16692705621700-250x450.png",
                "https://cdn.appleapps.ir/2020/05/at-16692705601806-250x450.png",
                "https://cdn.appleapps.ir/2020/05/at-15896282851732-250x450.jpg"
-              ],
+          ],
           },
-         {
+          {
            "name": "دیجیکالا",
            "developerName": "فروشگاهی بزرگ در جیب شما",
            "version": "2.9.4.1",
@@ -462,8 +452,8 @@
              "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R5.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R6.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R7.jpg"
-            ],
-      },
+           ],
+           },
            {
            "name": "علی بابا | Alibaba.ir",
            "developerName": "مرجع خرید بلیط هواپیما ، قطار و رزرو هتل و ...",
@@ -484,9 +474,8 @@
              "https://app.appleapps.ir/storage/2020/05/at-16871073541660-scaled.jpeg",
              "https://app.appleapps.ir/storage/2020/05/at-16871073521627-scaled.jpeg",
              "https://app.appleapps.ir/storage/2020/05/at-16871073671414-scaled.jpeg"
-            ],
-         },
-         
+           ],
+           },
            {
              "name": "شیپور",
              "developerName": "نیازمندیهای رایگان",
@@ -502,9 +491,9 @@
              "https://cdn.appleapps.ir/2020/05/at-15896270811654-250x450.jpeg",
              "https://cdn.appleapps.ir/2020/05/at-15896270831284-250x450.jpeg",
              "https://cdn.appleapps.ir/2020/05/at-15896270821835-250x450.jpeg"
-             ],
-         },
-          {
+           ],
+           },
+           {
            "name": "دیوار",
            "developerName": "محل انتشار رایگان انواع آگهی",
            "version": "11.10.4",
@@ -523,9 +512,9 @@
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_6.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_7.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_8.jpg"
-            ],
-      },
-          {
+           ],
+           },
+           {
            "name": "اسپارس | ‌Sparse",
            "developerName": "سرویس دانلود و استریم موزیک",
            "version": "10.7.4",
@@ -540,9 +529,9 @@
              "https://cdn.appleapps.ir/2020/05/at-16033687091037.jpg",
              "https://cdn.appleapps.ir/2020/05/at-16033687101892.jpg",
              "https://cdn.appleapps.ir/2020/05/at-16033687111629.jpg"
-            ],
-      },
-         {
+           ],
+           },
+           {
            "name": "آنتن",
            "developerName": "تلوزیون اینترنتی آنتن : پخش زنده مسابقات ورزشی",
            "version": "4.1.0",
@@ -556,10 +545,9 @@
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/15/Time.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/15/Quality.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/4/15/gozaresh.jpg"
-            ],
-           
-      },
-          {
+           ],
+           },
+           {
            "name": "تلوبیون | Telewebion",
            "developerName": "پخش زنده و آرشیو کامل برنامه های تلوزیون",
            "version": "1.6",
@@ -573,9 +561,8 @@
              "https://sandbox.sibirani.ir/statics_public/uploads/2019/10/3-3.jpg",
              "https://sandbox.sibirani.ir/statics_public/uploads/2019/10/4-2.jpg",
              "https://sandbox.sibirani.ir/statics_public/uploads/2019/10/5-1.jpg"
-            ],
-           
-      },
+           ],
+           },
            {
            "name": "نماوا - تماشای فیلم",
            "developerName": "تماشای آنلاین فیلم و سریال",
@@ -591,9 +578,9 @@
              "https://s3.anardoni.com/applications/2023/04/15/photos/d58b0ff6-a0e0-4c2e-8b45-fa65532d5097.jpeg",
              "https://s3.anardoni.com/applications/2023/04/15/photos/d791ef9c-b341-48c4-9339-ac5c2ce7fedb.jpeg",
              "https://s3.anardoni.com/applications/2023/04/15/photos/2019ab41-b112-420e-9c0b-98e57f6739bb.jpeg"
-            ],
-      },
-            {
+           ],
+           },
+           {
            "name": "فیلیمو",
            "developerName": "فیلم و سریال ایرانی و خارجی با دوبله",
            "version": "5.8.0",
@@ -607,9 +594,9 @@
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/4/1677931203-3.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/4/1677931211-4.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/4/1677931216-5.jpg"
-            ],
-      },
-              {
+           ],
+           },
+           {
            "name": "فیلم نت",
            "developerName": "تماشای آنلاین و دانلود فیلم سریال های روز دنیا",
            "version": "4.5.2",
@@ -625,9 +612,9 @@
              "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/17/APP-AD-5.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/17/APP-AD-7.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/17/APP-AD-9.jpg"
-            ],
-      },
-         {
+           ],
+           },
+           {
            "name": "بلد | Balad",
            "developerName": "نقشه و مسیریاب قدرتمند ایرانی",
            "version": "3.1.1.1",
@@ -645,8 +632,8 @@
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1644426790-balad-7.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1644426825-balad-8.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1644426850-balad-9.jpg"
-            ],
-      },
+           ],
+           },
            {
            "name": "نشان |‌ Neshan",
            "developerName": "نقشه و مسیریاب سخن‌گوی فارسی",
@@ -665,8 +652,8 @@
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327253-3.jpg",
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327175-2.jpg",
           "hhttps://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327076-1.jpg"
-      ],
-      },
+           ],
+           },
            {
            "name": "بیت 24 | Bit24",
            "developerName": "خرید و فروش بیت کوین و ارزدیجیتال",
@@ -683,9 +670,9 @@
              "https://app.appleapps.ir/storage/2023/06/at-16879669861522.jpg",
              "https://app.appleapps.ir/storage/2023/06/at-16879669851398.jpg",
              "https://app.appleapps.ir/storage/2023/06/at-16879669841190.jpg"
-            ],
-         },
-         {
+           ],
+           },
+           {
            "name": "Nobitex | نوبیتکس",
            "developerName": "صرافی آنلاین - خرید فروش ارز دیجیتال",
            "version": "2.3.0",
@@ -700,7 +687,7 @@
            "https://app.appleapps.ir/storage/2022/02/at-16839461001651-250x450.jpeg",
            "https://app.appleapps.ir/storage/2022/02/at-16839461001084-250x450.jpeg"
            ],
-         },
+           },
            {
            "name": "همراه من | MyMCI",
            "developerName": "همراه من، همراه اول زندگی دیجیتال",
@@ -719,8 +706,8 @@
                 "https://s3.anardoni.com/applications/2023/01/10/photos/8UmI4QyK2/screenshot5_8UmI4QyK2_2023_01_10_07_41_28.jpeg",
                 "https://s3.anardoni.com/applications/2023/01/10/photos/8UmI4QyK2/screenshot4_8UmI4QyK2_2023_01_10_07_41_28.jpeg",
                 "https://s3.anardoni.com/applications/2023/01/10/photos/8UmI4QyK2/screenshot3_8UmI4QyK2_2023_01_10_07_41_28.jpeg"
-            ],
-      },
+           ],
+           },
            {
            "name": "ایرانسل من |‌ My Irancell",
            "developerName": "ایرانسل من برای مدیریت سیم کارت های ایرانسل",
@@ -734,7 +721,7 @@
            "https://sandbox.sibirani.ir/statics_public/attachments/2023/10/31/Slice_5.jpg",
            "https://sandbox.sibirani.ir/statics_public/attachments/2023/10/31/Slice_3.jpg"
            ],
-      },
+           },
            {
            "name": "رایتل من | MyRightel",
            "developerName": "مدیریت امور سیم کارت رایتل",
@@ -761,6 +748,52 @@
     "Tweaked Apps": [
         
         {
+           "name": "Photo Lab PRO HD",
+           "developerName": "اپ جلوه و فیلتر های ناب تصاویر",
+           "bundleIdentifier": "com.photoprohd",
+           "version": "3.11.68",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PhotoLabPROHDv3.11.68.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16972883961298-100x100.jpg",
+           "appstore": "com.photoprohd"
+        },
+        {
+           "name": "Imagine : AI Art Generator",
+           "developerName": "تولید عکس های هنری با هوش مصنوعی",
+           "bundleIdentifier": "com.vyro.Imagine",
+           "version": "1.6.9",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Imagine1.6.9.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17004031171595-100x100.jpg",
+           "appstore": "com.vyro.Imagine",
+        },
+        {
+           "name": "iFoto Pro: AI Photo Generator",
+           "developerName": "ساخت عکس های هنری و آواتار به کمک هوش مصنوعی",
+           "bundleIdentifier": "com.mrauxsiuh.doodle",
+           "version": "2.0.2",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/iVatar2.0.2.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17054270621838-100x100.jpg",
+           "appstore": "com.mrauxsiuh.doodle"
+        },
+        {
+           "name": "nPlayer Plus",
+           "developerName": "بهترین پلیر ، پشتیبانی زیرنویس فارسی",
+           "bundleIdentifier": "com.newin.nplayer",
+           "version": "3.12.17",
+           "date": "2023-12-19",
+           "size": 42439541,
+           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/nPlayerPlus-3.12.17.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.newin.nplayer.png",
+           "appstore": "com.newin.nplayer"
+        },
+        {
            "name": "Documents Pro",
            "developerName": "بهترین فایل منیجر و دانلودر آی او اس",
            "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
@@ -779,8 +812,6 @@
            "version": "23.12",
            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/AnkiMobilev23.12.ipa",
            "category": "Tweaked Apps",
-           "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
-           "localizedDescription": "اپلیکیشن AnkiMobile یک برنامه فلش کارت هوشمند، قدرتمند است. در این برنامه باید فایل هایی با پسورد PKG که درواقع همان سورس فلش کارت ها می باشد را دریافت کرده و استفاده کنید .از داخل خود برنامه پایین صفحه با کلیک روی add/export و سپس Shared Deck List میتوانید با وارد شدن به سایت برنامه فلش کارت های گوناگون و حتی فارسی یا با جستجو Persian پیدا و دریافت کرده سپس انهارا با اپلیکیشن AnkiMobile flashcards باز و استفاده نمایید .",
            "developerName": "",
            "iconURL": "https://app.appleapps.ir/storage/2023/11/at-16991080251784-100x100.jpg",
            "appstore": "net.ichi2.anki"
@@ -887,30 +918,15 @@
             "appstore": "com.duolingo.DuolingoMobile"
         },
         {
-            "name": "Truecaller Premium",
-            "developerName": "اپلیکیشن شماره گیر حرفه ای",
-            "bundleIdentifier": "com.truesoftware.TrueCallerOther",
-            "version": "12.69.6",
-            "versionDate": "2023-12-05",
-            "size": 88640952,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-05-2023/TruecallerPremium-12.69.6.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.truesoftware.TrueCallerOther.png",
-            "appstore": "com.truesoftware.TrueCallerOther"
-        },
-        {
             "name": "Mojo Pro",
             "developerName": "ویرایش حرفه ای استوری های اینستاگرام",
             "bundleIdentifier": "archery.storify",
             "version": "1.156.1",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Mojo1.156.1.ipa",
             "category": "Tweaked Apps",
-            "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16977333811425-100x100.jpg",
             "appstore": "archery.storify"
-
         },
         {
             "name": "Reelsapp Pro",
@@ -919,11 +935,9 @@
             "version": "5.0",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/ReelsApp5.0.ipa",
             "category": "Tweaked Apps",
-            "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17019697351444-100x100.jpg",
             "appstore": "com.nextgen.reelsapp"
-
         },
         {
             "name": "Facetune 2 Pro",
@@ -932,11 +946,9 @@
             "version": "3.36.2",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Facetune3.36.2.ipa",
             "category": "Tweaked Apps",
-            "changelog": "سخه پریمیوم اپلیکیشن Facetune 2 بدون نیاز به  ۳۶ دلار پرداخت درون برنامه ای از تمامی قابلیت های پولی و VIP این برنامه به صورت آنلاک شده و کاملا رایگان استفاده نمایید.",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16984795141790-100x100.jpg",
             "appstore": "com.lightricks.Facetune2"
-
         },
         {
             "name": "Facetune Pro",
@@ -945,7 +957,6 @@
             "version": "2.8.8",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2022/Facetune_2.8.8_appleapps.ir.ipa",
             "category": "Tweaked Apps",
-            "changelog": "برنامه محبوب و پرطرفدار  Facetune ، نامی آشنا بین بسیاری از کاربران که به روتوش و ویرایش عکس های سلفی علاقه دارند . این برنامه باارزش و بی نظیر که در اپ استور ۴ دلار قیمت دارد هم اکنون با آخرین نسخه جهت دریافت رایگان در اپل موبایل قرار گرفته است .",
             "developerName": "",
             "iconURL": "https://cdn.appleapps.ir/2022/05/at-16533244521362-100x100.jpg",
             "screenshots": [
@@ -954,7 +965,6 @@
               "https://is2-ssl.mzstatic.com/image/thumb/Purple113/v4/ff/34/1b/ff341b66-7a50-befd-335e-02fd5506773a/pr_source.png/392x696bb.png",
               "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/78/ad/0c/78ad0c17-f7a7-0534-8ace-595a28d55ca9/pr_source.png/392x696bb.png",
               "https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/20/a9/16/20a9167f-5d56-1712-5934-36da6d22a1bb/pr_source.png/392x696bb.png"
-
              ],
         },
         {
@@ -966,12 +976,9 @@
             "size": 140839522,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-08-2024/InstaRocketCracked-313.0.2-3.8.19.ipa",
             "category": "Tweaked Apps",
-            "changelog": "- برطرف شدن مشکل نصب برنامه ( قبل از نصب باید اینستای اصلی رو حذف کنید ، در صورت نیاز نصب در کنار اینستای اصلی پیشنهاد میشه نسخه داپلیکیت رو نصب کنید )",
             "developerName": "",
-            "localizedDescription": "نحوه فعال سازی لایسنس کرک و حذف تبلیغ : فعال سازی لایسنس : پس از اجرای اینستاگرام وارد Setting توییک Rocket بشید و از بالا روی Manage License  کلیک کنید سپس از پایین Upgrade رو بزنید تا یه پروفایل دانلود بشه و نصبش کنید پروفایل رو از setting خود گوشی و بعد از همین قسمت Manage License روی Restore License کلیک کنید تا لایسنس فعال شود. دقت کنید اگر اینستا اصلی رو نصب دارید ابتدا باید حذفش کنید تا موقع نصب پروفایل بتونه داخل اینستاگرام راکت برگرده و لایسنس فعال بشه",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
             "appstore": "com.burbn.instagram"
-
         },
          {
             "name": "Instagarm Rocket Duplicate",
@@ -980,9 +987,7 @@
             "version": "312.0.1",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Rocket312.0.1.ipa",
             "category": "Tweaked Apps",
-            "changelog": "- برطرف شدن مشکل نصب ( اگر خراب نصب شده باید پاکش کنید مجدد نصب کنید) به روز رسانی  اینستاگرام به جدید ترین نسخه هماهنگ با اپ استور v312.0.1 - جدید ترین نسخه توییک راکت 3.8.16",
             "developerName": "",
-            "localizedDescription": "این نسخه به صورت مجزا در کنار اینستاگرام اصلی که از اپ استور اپل نصب کردید نصب می شود . ( اسم اپ Rocket ) هست که بتونید تشخیص بدین این نسخه رو از نسخه اصلی اینستا، نحوه فعال سازی لایسنس کرک :پس از وارد شدن به اپ وارد تنظیمات توییک Rocket بشید و Upgrade Now رو بزنید تا یک پروفایل دانلود بشه و اون پروفایل رو نصب کنید تا بتونید روی restoe License کلیک کنید و لایسنس کرک فعال بشه و بدون محدودیت و تبلیغ استفاده کنید .",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
             "appstore": "com.burbn.instagram"
         },
@@ -993,9 +998,7 @@
             "version": "1.75.1",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xvlog1.75.1.ipa",
             "category": "Tweaked Apps",
-            "changelog": "این نسخه بصورت پیش فرض آنلاک شده است",
             "developerName": "",
-            "localizedDescription": "نسخه پریمیوم شده را بدون نیاز خرید درون برنامه ای 70دلاری دریافت کنید. اپلیکیشن VN Video Editor برای آماتور ها و حرفه ای ساخته شده تا به شکل رایگان و بدون واتر مارک بهترین ادیت هارو روی ویدیوی هاتون بزنید و با بالاترین کیفیت از ویدیو خروجی بگیرید. این اپلیکیشن تقریبا پرکاربرد ترین قابلیت های برنامه های ویرایش ویدیو رو در خودش داره و به جرات میشه گفت توی گوشی میتونه با طرح کاربری ساده تر یک سری کار های پریمییر رو براتون انجام بده. اپلیکیشن VN Video Editor در اپ استور هم به شکل رایگان قرار گرفته و هم اکنون هم میتونید جدید ترین نسخه هماهنگ با اپ استور اپل این برنامه فوق العاده رو رایگان نصب کنید.",
             "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16975010901595-100x100.jpg",
             "appstore": "com.frontrow.vlog"
         },
@@ -1006,7 +1009,6 @@
             "version": "15.12.3",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Funimate15.12.3.ipa",
             "category": "Tweaked Apps",
-            "changelog": "نسخه توییک شده با قابلیت PRO - ویرایشگر ویدیویی فوق العاده با افکت هاى عالی - Funimate ساده ترین و سرگرم کننده ترین ویرایشگر ویدیو برای ایجاد ویرایش های عالی موزیک ویدیو است.  با اين برنامه می‌تونيدویدیوهای فوق‌العاده‌ای رو با افکت‌هاى قبلا دیده نشده اى ایجاد کنید.  شما به راحتی می تونيد سرگرمی رو در TikTok، Instagram،Youtube، Facebook، WhatsApp به اشتراک بذاريد و دوستان خودتون رو شگفت زده کنید.",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010325791779-100x100.jpg",
             "appstore": "com.avcr.Funimate"
@@ -1018,9 +1020,7 @@
             "version": "7.7.010",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xBeautyPlus7.7.010.ipa",
             "category": "Tweaked Apps",
-            "changelog": "این نسخه بصورت پیش فرض آنلاک شده است",
             "developerName": "",
-            "localizedDescription": "نسخه پریمیوم شده به ارزش 40$ برای اشتراک سالانه برنامه را رایگان استفاده کنید. BeautyPlus یک برنامه ویرایش تصویر در سطح جهانی است که به 800 میلیون کاربر خدمت می کند. این برنامه بیش از 50 ابزار ویرایش آسان و آواتار AI را برای نتایج قدرتمند ارائه می دهد. ویژگی های کلیدی شامل زیبایی خودکار AI برای Selfies عالی، ابزارهای مبتنی بر AI مانند AI Enhance و AI Pet Portrait برای افزودن جادو به تصاویر شما، و AI Remove BG برای تغییر پس زمینه عالی است. همچنین این برنامه گزینه های سبک شخصی با ابزارهای آرایشی و ابزارهای ویرایش بدن را ارائه می دهد. و...",
             "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17005613241536-100x100.jpg",
             "appstore": "com.commsource.BeautyPlus"
         },
@@ -1031,10 +1031,8 @@
             "version": "11.04",
             "versionDate": "2023-12-27",
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xSmartVideo11.04.ipa",
-            "changelog": "👑💲نسخه پریمیوم Pro برنامه را بدون نیاز به پرداخت اشتراک سالیانه 65$ بصورت رایگان استفاده کنید.",
             "category": "Tweaked Apps",
             "developerName": "",
-            "localizedDescription": "با پشتیبانی از تشخیص زبان فارسی. این برنامه به کاربران اجازه می دهد تا با استفاده از ابزار گفتار به نوشتار openAI , زیرنویس های پویا کلمه به کلمه و چشم نواز را به راحتی اضافه کنند. این ویرایشگر به طور خاص برای ویدیوهای مکالمه طراحی شده است و ویرایش ویدیو را با ابزارهایی مانند ویرایش کلمات، حذف کلمات پرکننده و ایجاد برش ها و پرش تنها با یک کلیک آسان می کند. همچنین می‌توانید تصاویر و گیف‌هایی را که هنگام صحبت ظاهر می‌شوند، اضافه کنید. زیرنویس ها با ده ها سبک از پیش تعیین شده کاملاً قابل تنظیم هستند. این برنامه همچنین دارای ویژگی است که از هوش مصنوعی برای تولید اسکریپت های ویدیویی شما با استفاده از مدل های زبان بزرگ مانند GPT-3 در چند ثانیه استفاده می کند. و ویژگی تله پرومتر ضبط فیلم را بسیار آسان می کند.",
             "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17032609101667-100x100.jpg",
             "appstore": "boomer.Smart-Video"
         },
@@ -1060,9 +1058,7 @@
             "size": 142979578,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-11-2023/InShotPro-1.74.0.ipa",
             "category": "Tweaked Apps",
-            "changelog": "💲✅نسخه پریمیوم و آنلاک شده اینشات inshot Pro برای آی او اس ، برنامه ای ۳۵ دلاری اما رایگان",
             "developerName": "",
-            "localizedDescription": "هم اکنون جدید ترین نسخه اینشات inshot برای آیفون را بدون نیاز به اپل ایدی  مستقیم بر روی آیفون خود نصب کرده و با تولید ویدیو های خلاقانه پیشرفت پیجتون رو چند برابر کنید ... یکی از بهترین اپلیکیشن های دستیار کامل و حرفه ای ویرایش تصاویر و ویدیوها برای اینستاگرام ؛ اپلیکیشن Inshot ++  را به صورت رایگان از  اپل اپس دریافت کنید و از تمامی قابلیت های پولی برنامه به راحتی استفاده فرمایید . اپلیکیشن Inshot تقریبا در ایران مهم ترین و برترین برنامه ویرایش کلیپ است و بسیار توسط مدیران و کاربرانی که در اینستاگرام تولید محتوا می کنند استفاده می شود  . از حالا می توانید توسط نسخه پریمیوم Inshot  در آیفون و آیپد خود از تمامی قابلیت پولی این برنامه استفاده  کنید و ویدیویی های بهتر از قبل بسازید . ویژگی های آنلاک شده Inshot  : باز شدن تمام قابلیت های پولی و درونی اپ. دانلود پک های اضافه. ویژگی های اپلیکیشن Inshot  :. گذاشتن چندین تصویر در قاب های متفاوت. ویرایش ویدیو :. برش - حذف - فیلتر -قاب - سایز. ویرایش عکس :‌فیلتر - قاب - تنظیم رنگ. تنظیم سرعت فیلم. سایز فیلم را به مربعی برای اینستاگرام تبدیل کنید. گذاشتن موزیک روی ویدیو ها. اضافه کردن افکت صوتی. اضافه کردن متن و ایموجی به عکس و فیلم",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
             "appstore": "com.camerasideas.InstaShot"
         },
@@ -1084,10 +1080,10 @@
             "name": "YouTubeOLED",
             "developerName": "یوتیوب پیشرفته و حرفه‌ای برای دانلود و پخش",
             "bundleIdentifier": "com.google.ios.youtube",
-            "version": "18.45.2",
-            "versionDate": "2023-11-15",
-            "size": 126508941,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/YouTubeOLED-18.45.2.ipa",
+            "version": "19.02.1",
+            "versionDate": "2024-01-15",
+            "size": 121664954,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/YouTubeOLED-19.02.1.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
@@ -1104,9 +1100,7 @@
             "size": 69188808,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/YTMusicUltimate-1.5.2-6.34.1.ipa",
             "category": "Tweaked Apps",
-            "changelog": "❕درصورت نمایش صفحه مشکی یا ارور در دسرس نبودن سرور در منطقه شما, از برنامه تغییر iP معتبر دیگری استفاده کنید.",
             "developerName": "",
-            "localizedDescription": "یوتیوب موزیک توییک شده با YTMusicUltimate همراه با قابلیت های: بدون تبلیغات - خش موزیک در بک گراند - نمایش نوار وضعیت در استاتوس بار - قابل تغییر نوار وضعیت (جلو یا عقب) - انتخاب آزادانه موسیقی موردنظر - تم دارک OLED - کیبورد OLED - با نسخه توییک شده یوتیوب موزیک هر آهنگ دوست دارید بدون هیچ محدودیتی  گوش بدید. ❕تنظیمات توییک در بخش حساب کاربری اسم YTMusicUltimate در دسترس قرار دارد ❕فاقد قابلیت ذخیره آفلاین آهنگ.",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
             "appstore": "com.google.ios.youtubemusic"
 
@@ -1122,9 +1116,7 @@
             "size": 100398039,
             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-14-2024/PicsArtPlusPlus-24.0.2.ipa",
             "category": "Tweaked Apps",
-            "changelog": "تغییرات آخرین نسخه ( 24.0.2 ) ✅💲: نسخه توییک شده با قالیت های اشتراکی و AI برنامه ( فقط کافیه وارد اکانت PicsArt بشید همون ابتدا و از تمامی قابلیت های پریمیوم استفاده کنید . دقت کنید بر روی  قابلیت های پولی آیکون پریمیوم هست  ولی قابل استفاده هست در این نسخه )",
             "developerName": "",
-            "localizedDescription": "نسخه انلاک شده پرو  جدید پیکس آرت با قابلیت دسترسی بدون دردسر و  به صورت پیشفرض به تمامی قابلیت های پولی به صورت رایگان برای شما اپل اپسی های عزیز آماده شده است .",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
         },
         {
@@ -1132,14 +1124,12 @@
             "developerName": "نسخه پریمیوم نسل هفتم Infuse 7",
             "bundleIdentifier": "com.firecore.infuse",
             "appstore": "com.firecore.infuse",
-            "version": "7.6.3",
-            "versionDate": "2023-11-15",
-            "size": 41921164,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-15-2023/InfusePro-7.6.3.ipa",
+            "version": "7.6.6",
+            "versionDate": "2024-01-15",
+            "size": 78682777,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/InfusePro-7.6.6.ipa",
             "category": "Tweaked Apps",
-            "changelog": "تغییرات آخرین نسخه ( 7.6.3 )، بروزرسانی نسخه توییک شده به آخرین نسخه منتشر شده در اپ استور -نحوه فعال سازی هک : این نسخه به صورت پیش فرض پریمیوم می باشد و قابلیت های پولی به صورت پیشفرض آنلاک و فعال می باشد .",
             "developerName": "",
-            "localizedDescription": "✅💲: توسط نسخه پریمیوم سری هفتم اپلیکیشن محبوب Infuse 7 بدون نیاز به پرداخت ۷۵ دلار هزینه درون برنامه ای به تمامی قابلیت های پولی برنامه به صورت رایگان دسترسی داشته باشید",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
         },
 
@@ -1258,7 +1248,6 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010464761545-100x100.jpg",
             "appstore": "com.sega.StreetsOfRage"
-
         },
     ],
     
