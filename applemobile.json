@@ -417,6 +417,25 @@
              "https://cdn.appleapps.ir/2020/05/at-15902550661991-250x450.jpg"
              ],
              },
+           {
+              "name": "iGap",
+              "developerName": "پیام رسان آیگپ",
+              "version": "2.3.4.1",
+              "icon": "https://cdn.appleapps.ir/2020/05/at-15896287131966-100x100.jpg",
+              "down": "https://dl3.apptrackr.ir/ios/2023/igap2.3.4v2.ipa",
+              "category": "Jailbreaks",
+              "description": "آیگپ یک برنامه پیام رسان ایرانی در دسترس برای آی او اس و سایر پلتفرم ها است",
+              "screenshots": [
+                "https://cdn.appleapps.ir/2020/05/at-16365995081330-250x450.jpeg",
+                "https://cdn.appleapps.ir/2020/05/at-16365995061184-250x450.jpeg",
+                "https://cdn.appleapps.ir/2020/05/at-16365995031804-250x450.jpeg",
+                "https://cdn.appleapps.ir/2020/05/at-16365995011310-250x450.jpeg",
+                "https://cdn.appleapps.ir/2020/05/at-16365994981582-250x450.jpeg",
+                "https://cdn.appleapps.ir/2020/05/at-16365995181860-250x450.jpeg",
+                "https://cdn.appleapps.ir/2020/05/at-16365995161877-250x450.jpeg",
+                "https://cdn.appleapps.ir/2020/05/at-16365995131723-250x450.jpeg"
+           ],
+           },
              {
                 "name": "Rubika",
                 "developerName": "اپلیکیشن پیام‌رسان روبیکا",
@@ -762,6 +781,30 @@
     
     "Tweaked Apps": [
         
+   
+        {
+           "name": "MovieBox Pro",
+           "developerName": "فیلم و سریال های خارجی به همراه زیرنویس فارسی",
+           "bundleIdentifier": "com.xd.mbp31",
+           "version": "2.1.1",
+           "date": "2024-01-19",
+           "size": 31070367,
+           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/MovieBoxPro-13.3.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
+        },
+        {
+           "name": "Everlook++",
+           "developerName": "ویرایشگر صورت و بدن",
+           "bundleIdentifier": "com.alphatech.everlook",
+           "version": "3.3.19",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Everlook3.3.19.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17057674311857-100x100.jpg",
+           "appstore": "com.alphatech.everlook"
+        },
         {
            "name": "Photo Lab PRO HD",
            "developerName": "اپ جلوه و فیلتر های ناب تصاویر",
@@ -958,11 +1001,13 @@
             "name": "Facetune 2 Pro",
             "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
             "bundleIdentifier": "com.lightricks.Facetune2",
-            "version": "3.36.2",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Facetune3.36.2.ipa",
+            "version": "3.44",
+            "date": "2024-01-21",
+            "size": 478327305,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/FacetunePro-3.44.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16984795141790-100x100.jpg",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png",
             "appstore": "com.lightricks.Facetune2"
         },
         {
@@ -1166,6 +1211,18 @@
     
     "Games": [
         
+        {
+            "name": "Need for Speed No Limits",
+            "developerName": "نسخه هک شده",
+            "bundleIdentifier": "com.ea.nfs2014.bv",
+            "version": "7.3.11",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/NoLimits7.3.11.ipa",
+            "category": "Hacked Games",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17021465911630-100x100.jpg",
+            "appstore": "com.ea.nfs2014.bv"
+        },
         {
             "name": "GTA: San Andreas",
             "developerName": "Definitive Edition",
