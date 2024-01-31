@@ -7,6 +7,41 @@
     "Jailbreaks": [
 
         {
+            "name": "سکه، به پرداخت ملت",
+            "developerName": "نرم‌افزار پرداختی سکه",
+            "version": "4.15",
+            "icon": "https://cdn.appleapps.ir/2020/05/at-1589626597-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/sekeh4.15.ipa",
+            "category": "Jailbreaks",
+            "description": "با سامانه کیف همراه به پرداخت ملت ( سکه )  امور پرداخت خود را به سادگی، سریع و با امنیت بالا انجام دهید.",
+            "screenshots": [
+              "https://cdn.appleapps.ir/2020/05/at-1589626582-250x450.png",
+              "https://cdn.appleapps.ir/2020/05/at-1589626579-250x450.png",
+              "https://cdn.appleapps.ir/2020/05/at-1589626575-250x450.png",
+              "https://cdn.appleapps.ir/2020/05/at-1589626593-250x450.png",
+              "https://cdn.appleapps.ir/2020/05/at-1589626587-250x450.png"
+       ],
+       },
+        {
+            "name": "قبضینو | Ghabzino",
+            "developerName": "استعلام و پرداخت انواع قبض",
+            "version": "1.0.0",
+            "icon": "https://app.appleapps.ir/storage/2020/06/at-17059252451964-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/ghabzino1.0.ipa",
+            "category": "Jailbreaks",
+            "description": "قبضینو، اپلیکیشن جامع استعلام و پرداخت هوشمندی است که تمام خدمات دوره‌ای کاربردی مانند کارت به کارت، خرید شارژ و بسته اینترنت اپراتورها، استعلام و پرداخت خلافی خودرو و موتور، استعلام و پرداخت عوارض آزادراه و … را ۲۴ساعته به‌صورت آنلاین ارائه می‌دهد.",
+            "screenshots": [
+              "https://app.appleapps.ir/storage/2020/06/at-17059252781163-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2020/06/at-17059252861151-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2020/06/at-17059252851978-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2020/06/at-17059252841553-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2020/06/at-17059252831413-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2020/06/at-17059252821471-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2020/06/at-17059252811005-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2020/06/at-17059252801553-250x450.jpeg"
+       ],
+       },
+        {
             "name": "همراه بام ملی",
             "developerName": "همراه بام ملی ( همراه بانک ملی )",
             "version": "4.2.2",
@@ -709,10 +744,10 @@
            {
            "name": "Nobitex | نوبیتکس",
            "developerName": "صرافی آنلاین - خرید فروش ارز دیجیتال",
-           "version": "2.3.0",
+           "version": "2.4.0",
            "icon": "https://app.appleapps.ir/storage/2022/02/at-16839460771868-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2023/nobitex2.3.0.ipa",
-           "changelog": "تغییرات آخرین نسخه ( 2.3.0 ) - اضافه شدن دفتر آدرس و برداشت امن - رفع مشکلات گزارش شده و بهبود عملکرد برنامه",
+           "down": "https://dl3.apptrackr.ir/ios/2024/nubitex2.4.0.ipa",
+           "changelog": "تغییرات آخرین نسخه ( 2.4.0 ) - اضافه شدن دفتر آدرس و برداشت امن - رفع مشکلات گزارش شده و بهبود عملکرد برنامه",
            "category": "Jailbreaks",
            "description": " نوبیتکس بازار حرفه‌ای مبادله بیتکوین و سایر رمزارزها است. در نوبیتکس امکان خرید و فروش بدون واسطه رمزارزها و نگهداری از دارایی های دیجیتال به شما ارائه می‌شود. با خیال راحت و به صورت امن معامله کنید! امنیت و ضمانت پرداخت پول و کوین را به اولین بستر دانش بنیان مبادله رمزارز در ایران بسپارید. امکانات نوبیتکس: - خرید و فروش رمزارزهای بیت‌کوین، اتریوم، لایت‌کوین، ریپل، تتر، بیت کوین کش، استلار، بایننس کوین، دوج کوین و شیبا - مشاهده‌ی قیمت لحظه‌ای ارزهای دیجیتال در بازار نوبیتکس - دسترسی به امکانات پیشرفته‌ی ترید در بازارهای کریپتو-ریال مزایای نوبیتکس: سهولت: خریداران و فروشندگان در نوبیتکس به راحتی می‌توانند سفارش و قیمت مد نظر خود را ثبت نموده و معامله خود را به انجام برسانند. سرعت: در نوبیتکس کلیه ی معاملات به صورت آنلاین و بدون کوچکترین وقفه انجام می پذیرد. مشتریان محترم قادر خواهند بود در کوتاهترین زمان ممکن درخواست برداشت ارز یا پول خود ثبت نمایند. امنیت: بالاترین استانداردهای امنیتی روز دنیا جهت حفاظت از دارایی های معامله گران محترم توسط تیم نوبیتکس به کار گرفته شده است. همچنین به جهت اطمینان خاطر کاربران، تمامی فعالان بازار احراز هویت می گردند.",
            "screenshots": [
@@ -781,7 +816,30 @@
     
     "Tweaked Apps": [
         
-   
+        {
+           "name": "FLTR ++",
+           "developerName": "فیلتر های آماده برای لایت روم Lightroom",
+           "bundleIdentifier": "com.feelty",
+           "version": "4.16.1",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/FLTR4.16.1.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17063798161762-100x100.jpg",
+           "appstore": "com.feelty"
+        },
+        {
+           "name": "Lightroom Premium",
+           "developerName": "ویرایش قدرتمند تصاویر و عکاسی حرفه ای",
+           "bundleIdentifier": "com.adobe.lrmobilephone",
+           "version": "9.1.1",
+           "date": "2024-01-27",
+           "size": 160822525,
+           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-27-2024/LightroomPremium-9.1.1.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
+           "appstore": "com.adobe.lrmobilephone"
+        },
         {
            "name": "MovieBox Pro",
            "developerName": "فیلم و سریال های خارجی به همراه زیرنویس فارسی",
@@ -792,7 +850,14 @@
            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-20-2024/MovieBoxPro-13.3.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png"
+           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.xd.mbp31.png",
+           "screenshots": [
+                "https://cdn.appleapps.ir/2020/12/at-16077053621751-250x450.jpg",
+                "https://cdn.appleapps.ir/2020/12/at-16077053591005-250x450.jpg",
+                "https://cdn.appleapps.ir/2020/12/at-16077053571451-250x450.jpg",
+                "https://cdn.appleapps.ir/2020/12/at-16077053631496-250x450.jpg",
+                "https://cdn.appleapps.ir/2020/12/at-16077053621751-250x450.jpg"
+        ],
         },
         {
            "name": "Everlook++",
@@ -923,11 +988,11 @@
            "name": "Bazaart Premium",
            "developerName": "صدها قالب آماده استوری و پست اینستاگرام + ویرایشگر قدرتمند",
            "bundleIdentifier": "co.bazaart.app",
-           "version": "10.0.8",
-           "downloadURL": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/9nKU2mGxIwZfvWHg61Osna.ipa",
+           "version": "10.1.2",
+           "downloadURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Bazaart10.1.2pro.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16985678161264-100x100.jpg",
+           "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17065471771292-100x100.jpg",
            "appstore": "co.bazaart.app"
         },
         {
@@ -979,22 +1044,22 @@
             "name": "Mojo Pro",
             "developerName": "ویرایش حرفه ای استوری های اینستاگرام",
             "bundleIdentifier": "archery.storify",
-            "version": "1.156.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Mojo1.156.1.ipa",
+            "version": "1.165.2",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Mojo1.165.2.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16977333811425-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17066787131356-100x100.jpg",
             "appstore": "archery.storify"
         },
         {
             "name": "Reelsapp Pro",
             "developerName": "ساخت ریلز و ادیتور استوری",
             "bundleIdentifier": "com.nextgen.reelsapp",
-            "version": "5.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/ReelsApp5.0.ipa",
+            "version": "5.7",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ReelsappPro5.7.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17019697351444-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17066709281284-100x100.jpg",
             "appstore": "com.nextgen.reelsapp"
         },
         {
@@ -1031,10 +1096,10 @@
             "name": "Instagram Rocket",
             "developerName": "اینستاگرام پیشرفته راکت - آنلاک شده",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "314.0.6-3.8.19",
-            "versionDate": "2024-01-17",
-            "size": 140209756,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-17-2024/InstagramRocket-314.0.6-3.8.19.ipa",
+            "version": "315.1.2-3.8.20",
+            "date": "2024-01-28",
+            "size": 137851643,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-28-2024/InstaRocketBH-315.1.2-3.8.20.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
@@ -1044,8 +1109,8 @@
             "name": "Instagarm Rocket Duplicate",
             "developerName": "اینستاگرام پیشرفته مود شده ( نسخه مجزا ، داپلیکیت )",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "312.0.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Rocket312.0.1.ipa",
+            "version": "315.1.2",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Rocket315.1.2.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
@@ -1088,12 +1153,12 @@
             "name": "Captions Pro",
             "developerName": "زیرنویس خودکار و ویرایش ویدیو",
             "bundleIdentifier": "boomer.Smart-Video",
-            "version": "11.04",
+            "version": "11.16",
             "versionDate": "2023-12-27",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xSmartVideo11.04.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/xSmartVideo11.16.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17032609101667-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17065642211283-100x100.jpg",
             "appstore": "boomer.Smart-Video"
         },
           {
@@ -1126,10 +1191,10 @@
             "name": "Photoshop Express Pro",
             "developerName": "برنامه شماره یک عکاسان و ادیتورهای حرفه ای",
             "bundleIdentifier": "com.adobe.PSMobile",
-            "version": "23.46.0",
-            "versionDate": "2023-11-24",
-            "size": 155089400,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-24-2023/PhotoshopExpress-23.46.0.ipa",
+            "version": "24.4.0",
+            "date": "2024-01-30",
+            "size": 153622066,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/PhotoshopExpress-24.4.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png",
@@ -1184,10 +1249,10 @@
             "developerName": "نسخه پریمیوم نسل هفتم",
             "bundleIdentifier": "com.firecore.infuse",
             "appstore": "com.firecore.infuse",
-            "version": "7.6.6",
-            "versionDate": "2024-01-15",
-            "size": 78682777,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-15-2024/InfusePro-7.6.6.ipa",
+            "version": "7.6.7",
+            "date": "2024-01-30",
+            "size": 40197875,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/InfusePro-7.6.7.ipaa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
@@ -1261,14 +1326,13 @@
             "name": "Subway Surfers Hack",
             "developerName": "تا بی نهایت بدوید ! نسخه هک شده",
             "bundleIdentifier": "com.kiloo.subwaysurfers",
-            "version": "3.21.1",
+            "version": "3.24.0",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/SubwaySurf3.21.1.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/SubwaySurfHacked3.24.0.ipa",
             "category": "Hacked Games",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17024968611903-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17066747681822-100x100.jpg",
             "appstore": "com.kiloo.subwaysurfers"
-            
         },
         {
             "name": "Minecraft",
@@ -1281,7 +1345,6 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16951600881056-100x100.jpg",
             "appstore": "com.mojang.minecraftpe"
-
         },
         {
             "name": "Leo's Fortune",
