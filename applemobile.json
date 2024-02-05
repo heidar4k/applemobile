@@ -1161,14 +1161,27 @@
             "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17065642211283-100x100.jpg",
             "appstore": "boomer.Smart-Video"
         },
+        {
+          "name": "Remini Pro (FastAds)",
+          "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
+          "bundleIdentifier": "com.bigwinepot.nwdn.international",
+          "version": "2.9.110",
+          "date": "2024-01-09",
+          "size": 77806042,
+          "downloadURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Remini-FastAds-v2.9.110.ipa",
+          "category": "Tweaked Apps",
+          "developerName": "",
+          "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
+          "appstore": "com.bigwinepot.nwdn.international"
+      },
           {
-            "name": "Remini Pro",
+            "name": "Remini Pro (NoAds)",
             "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
             "bundleIdentifier": "com.bigwinepot.nwdn.international",
-            "version": "2.9.97",
-            "versionDate": "2023-11-18",
-            "size": 165665822,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/11-18-2023/ReminiPro-2.9.97.ipa",
+            "version": "2.9.111",
+            "date": "2024-01-09",
+            "size": 77806042,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-09-2024/ReminiPro-2.9.111.ipa
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
