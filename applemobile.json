@@ -7,6 +7,40 @@
     "Jailbreaks": [
 
         {
+            "name": "همراه بانک سینا",
+            "developerName": "نرم افزار موبایل بانک سینا",
+            "version": "8.5.0",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-16933985781447-100x100.jpeg",
+            "down": "https://dl3.apptrackr.ir/ios/2023/banksina8.5.0.ipa",
+            "category": "Jailbreaks",
+            "description": "هم اکنون نسخه جدید و رسمی همراه بانک سینا با رفع مشکل ورود با FaceID برای آی اواس را میتوانید از اپل اپس به صورت مستقیم نصب نمایید .",
+            "changelog": "به روز رسانی به جدید ترین نسخه رسمی همراه بانک دی عرضه شده در وب سایت بانک",
+            "screenshots": [
+              "https://app.appleapps.ir/storage/2020/05/at-16933986011032.png",
+              "https://app.appleapps.ir/storage/2020/05/at-16933986081171-scaled.jpeg",
+              "https://app.appleapps.ir/storage/2020/05/at-16933986071580.png",
+              "https://app.appleapps.ir/storage/2020/05/at-16933986041295-scaled.jpeg",
+              "https://app.appleapps.ir/storage/2020/05/at-16933986021305-scaled.jpeg"
+       ],
+       },
+        {
+            "name": "همراه بانک دی",
+            "developerName": "موبایل بانک دی",
+            "version": "4.7.12",
+            "icon": "https://cdn.appleapps.ir/2020/05/at-15899405721730-100x100.jpeg",
+            "down": "https://dl2.apptrackr.ir/user1/ios/2020/bankdey-v4.7.12.ipa",
+            "category": "Jailbreaks",
+            "description": "با وارد نمودن نام کاربری و رمز همراه بانک که از شعبه خود دریافت نموده‌اید، می‌توانید به تمامی خدمات همراه بانک دسترسی داشته باشید. نام کاربری همراه بانک با نام کاربری اینترنت بانک و اینترنت بانک همراه یکسان است. رمز همراه بانک به درخواست مشتری می‌تواند با رمز اینترنت بانک و اینترنت بانک همراه یکسان یا متفاوت باشد.",
+            "changelog": "به روز رسانی به جدید ترین نسخه رسمی همراه بانک دی عرضه شده در وب سایت بانک",
+            "screenshots": [
+              "https://cdn.appleapps.ir/2020/05/at-15899405881084-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-15899405921763-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-15899405911362-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-15899405901867-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-15899405901732-250x450.jpeg"
+       ],
+       },
+        {
             "name": "سکه، به پرداخت ملت",
             "developerName": "نرم‌افزار پرداختی سکه",
             "version": "4.15",
