@@ -423,6 +423,22 @@
            ],
            },
            {
+           "name": "پولکی",
+           "developerName": "اپلیکیشن حسابداری شخصی",
+           "version": "2.3.1",
+           "icon": "https://app.appleapps.ir/storage/2022/03/at-16888318791710-100x100.png",
+           "down": "https://dl3.apptrackr.ir/ios/2024/poolaki2.3.1.ipa",
+           "category": "Jailbreaks",
+           "description": "«پولکی» برنامه ای برای حساب کتاب روزانه است. با استفاده از اپلیکیشن حسابداری شخصی پولکی، به سادگی می‌توانید دخل و خرج خود را ثبت کرده و مدیریت هزینه های شخصی و مدیریت مخارج منزل را انجام دهید.",
+           "screenshots": [
+               "https://app.appleapps.ir/storage/2022/03/at-16888320141965.png",
+               "https://app.appleapps.ir/storage/2022/03/at-16888320131314.png",
+               "https://app.appleapps.ir/storage/2022/03/at-16888320131607.png",
+               "https://app.appleapps.ir/storage/2022/03/at-16888320121241.png",
+               "https://app.appleapps.ir/storage/2022/03/at-16888320161382.png"
+           ],
+           },
+           {
            "name": "سرچ فور | Search4",
            "developerName": "آموزش زبان با فیلم!",
            "version": "3.0.1.3",
@@ -431,11 +447,12 @@
            "category": "Jailbreaks",
            "description": "سرچ فور (Search4) یک سرویس آنلاین و بر پایه‌ی هوش مصنوعی است که به شما این امکان رو میده تا با جست و جو کلمات و اصطلاحات انگلیسی، چندین سکانس‌ از فیلم‌ها و انیمیشن‌‌های مختلف رو به همراه زیرنویس فارسی و انگلیسی ببینید تا لغات و اصطلاحات جدید رو با لهجه‌ی صحیح یاد بگیرید و مهارت شنیداری خود را تقویت کنید. امکانات اپلیکیشن سرچ فور:  دارای بیش از ۱۰ میلیون سکانس فیلم و انیمیشن • لغات و اصطلاحات انگلیسی را در بیش از ۱۰ میلیون سکانس‌ در فیلم‌ها و انیمیشن‌های مختلف می‌توانید جستجو کنید و به حافظه بسپارید. • نمایش همزمان زیرنویس فارسی و انگلیسی • در تمامی سکانس‌ها، به طور همزمان زیرنویس فارسی و انگلیسی نمایش داده می‌شود. • نمایش سکانس‌ها براساس سطح زبان شما • تمامی سکانس‌ها براساس استاندارد CEFR LEVELS سطح‌بندی شده اند، با انتخاب سطح زبان خود، سکانس‌ها براساس سطح دانش شما نمایش داده می شوند. • قابلیت تغییر سرعت پخش • اگر به نظر شما سرعت حرف زدن در فیلم‌ها زیاد است، می‌توانید سرعت پخش فیلم را کمتر کنید تا راحت‌تر یاد بگیرید. • امکان ذخیره کردن سکانس‌ها • هر سکانس مربوط به لغت یا اصطلاحی که جستجو کردید را می‌توانید ذخیره کنید تا بعداً آن را دوباره ببینید و مرور کنید. • در صورت نیاز به راهنمایی از طریق چت آنلاین سایت به نشانی https://Search4.ir با پشتیبانی ما در ارتباط باشید.",
            "screenshots": [
-             "https://app.appleapps.ir/storage/2024/01/at-17054775231969-250x450.png",
-             "https://app.appleapps.ir/storage/2024/01/at-17054775221507-250x450.png",
-             "https://app.appleapps.ir/storage/2024/01/at-17054775211253-250x450.png",
-             "https://app.appleapps.ir/storage/2024/01/at-17054775251593-250x450.png",
-             "https://app.appleapps.ir/storage/2024/01/at-17054775261577-250x450.png"           ],
+               "https://app.appleapps.ir/storage/2024/01/at-17054775231969-250x450.png",
+               "https://app.appleapps.ir/storage/2024/01/at-17054775221507-250x450.png",
+               "https://app.appleapps.ir/storage/2024/01/at-17054775211253-250x450.png",
+               "https://app.appleapps.ir/storage/2024/01/at-17054775251593-250x450.png",
+               "https://app.appleapps.ir/storage/2024/01/at-17054775261577-250x450.png"
+           ],
            },
            {
            "name": "Story Font | استوری فونت",
@@ -541,10 +558,11 @@
           {
            "name": "دیجیکالا",
            "developerName": "فروشگاهی بزرگ در جیب شما",
-           "version": "2.9.4.1",
-           "icon": "https://cdn.appleapps.ir/2020/05/at-16114098281632-100x100.jpg",
-           "down": "https://dl3.apptrackr.ir/ios/2023/digikala2.9.4.1.ipa",
+           "version": "2.11.1",
+           "icon": "https://app.appleapps.ir/storage/2020/05/at-17000171301610-100x100.png",
+           "down": "https://dl3.apptrackr.ir/ios/2024/digikala2.11.1.ipa",
            "category": "Jailbreaks",
+           "changelog": "رفع مشکلات جزئی و خطاهای گزارش شده",
            "description": "از خرید کردن لذت می‌برید؟ پس همین الان اپلیکیشن دیجی کالا برای آیفون ، بزرگترین فروشگاه آنلاین خاورمیانه را به صورت مستقیم نصب نمایید و از خرید لذت ببریددانلود برنامه دیجی کالا | فروشگاه خرید آنلاین |Digikala  برای آیفون - اپلیکیشن دیجی کالا فروشگاه خرید آنلاین است که به راحتی میتوانید در کمترین زمان ممکن سفارشات داده شده خود را تحویل بگیرید و در صورت عدم رضایت آن را مرجوع کنید. هم اکنون میتوانید برنامه دیجی کالا را از اپ استور ایرانی و معتبر سیب ایرانی دانلود نمایید..",
            "screenshots": [
              "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/1654076678-sibapp-DK-R1.jpg",
@@ -850,6 +868,32 @@
     "Tweaked Apps": [
         
         {
+            "name": "CamScanner Pro",
+            "developerName": "نسخه آنلاک شده قدرتمند ترین برنامه اسکنر",
+            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "version": "6.59.0",
+            "date": "2024-02-15",
+            "size": 125089710,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/CamScannerPremium-6.59.0.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.intsig.CamScannerLite.png",
+            "appstore": "com.intsig.CamScannerLite"
+        },
+        {
+           "name": "ScannerProPlus",
+           "developerName": "نسخه پریمیوم اسکنری پیشرفته در جیب شما",
+           "bundleIdentifier": "com.readdle.Scanner",
+           "version": "8.17.1",
+           "date": "2024-02-17",
+           "size": 112858637,
+           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-17-2024/ScannerProPlus-8.17.1.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.Scanner.png",
+           "appstore": "com.readdle.Scanner"
+        },
+        {
            "name": "FLTR ++",
            "developerName": "فیلتر های آماده برای لایت روم Lightroom",
            "bundleIdentifier": "com.feelty",
@@ -1029,17 +1073,6 @@
            "appstore": "co.bazaart.app"
         },
         {
-            "name": "CamScanner Pro",
-            "developerName": "نسخه آنلاک شده قدرتمند ترین برنامه اسکنر",
-            "bundleIdentifier": "com.intsig.CamScannerLite",
-            "version": "6.55.0",
-            "downloadURL": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/hY1Ni0IaF0rDXuajMjiNNA.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17025517311588-100x100.jpg",
-            "appstore": "com.intsig.CamScannerLite"
-        },
-        {
             "name": "CapCut Pro",
             "developerName": "نسخه پرو محبوب ترین اپ ویرایش ویدیو",
             "bundleIdentifier": "com.lemon.lvoverseas",
@@ -1099,10 +1132,10 @@
             "name": "Facetune 2 Pro",
             "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
             "bundleIdentifier": "com.lightricks.Facetune2",
-            "version": "3.44",
-            "date": "2024-01-21",
-            "size": 478327305,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-21-2024/FacetunePro-3.44.ipa",
+            "version": "3.46.1",
+            "date": "2024-02-16",
+            "size": 480823932,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-16-2024/FacetunePro-3.46.1.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png",
@@ -1129,10 +1162,10 @@
             "name": "Instagram Rocket",
             "developerName": "اینستاگرام پیشرفته راکت - آنلاک شده",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "316.1.8-3.8.21",
-            "date": "2024-02-01",
-            "size": 141501358,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-01-2024/InstaRocketCracked-316.1.8-3.8.21.ipa",
+            "version": "318.0.7-3.8.21",
+            "date": "2024-02-13",
+            "size": 145357097,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-13-2024/InstaRocketCracked-318.0.7-3.8.21.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
@@ -1263,20 +1296,32 @@
 
         },
         {
+            "name": "Spotilife",
+            "developerName": "اسپاتیفای پریمیوم با قابلیت پخش بدون محدودیت",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.9.14",
+            "date": "2024-02-15",
+            "size": 65271430,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/Spotilife-8.9.14.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
+            "appstore": "com.spotify.client"
+
+        },
+        {
             "name": "YouTube Music Ultimate",
             "developerName": "نسخه توییک شده بدون محدودیت پخش یوتیوب موزیک",
             "bundleIdentifier": "com.google.ios.youtubemusic",
-            "version": "2.0.1-6.37.1",
-            "date": "2024-02-03",
-            "size": 81039462,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-03-2024/YTMusicUltimate-2.0.1-6.37.1.ipa",
+            "version": "2.0.1-6.39.4",
+            "date": "2024-02-15",
+            "size": 96145477,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-15-2024/YTMusicUltimate-2.0.1-6.39.4.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
             "appstore": "com.google.ios.youtubemusic"
-
-        },
-        
+         },
          {
             "name": "Picsart++",
             "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
@@ -1295,16 +1340,15 @@
             "developerName": "نسخه پریمیوم نسل هفتم",
             "bundleIdentifier": "com.firecore.infuse",
             "appstore": "com.firecore.infuse",
-            "version": "7.6.7",
-            "date": "2024-01-30",
-            "size": 40197875,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/01-30-2024/InfusePro-7.6.7.ipaa",
+            "version": "7.7-1.1.4",
+            "date": "2024-02-14",
+            "size": 40306052,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-14-2024/InfusePro-7.7-1.1.4.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
         },
-
-           {
+        {
             "name": "Speedtest Premium",
             "developerName": "پیداکردن سرعت واقعی اینترنت و دانلود",
             "bundleIdentifier": "com.ookla.speedtest",
@@ -1318,7 +1362,7 @@
             "localizedDescription": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
         },
-    ],
+        ],
     
     "Games": [
         
