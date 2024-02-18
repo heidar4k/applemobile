@@ -775,6 +775,24 @@
            ],
            },
            {
+           "name": "رمزینکس تریدر",
+           "developerName": "سرویس خرید و فروش ارز دیجیتال",
+           "version": "4.0.1",
+           "icon": "https://cdn.appleapps.ir/2021/02/at-16124456291926-100x100.jpg",
+           "down": "https://dl3.apptrackr.ir/ios/2022/ramzinex-v4.0.1-appleapps.ir.ipa",
+           "category": "Jailbreaks",
+           "description": "با رمزینکس تریدر به راحتی و بدون هیچ‌گونه پیچیدگی با کارت بانکی خود ارز دیجیتال بخرید و وارد دنیای خرید و فروش ارزهای دیجیتال شوید. پلتفرم رمزینکس تریدر این امکان را فراهم می‌کند که مستقیماً با خریداران و فروشندگان انواع ارزهای دیجیتال نظیر بیتکوین، اتریوم، ترون، چین‌لینک، تتر، ریپل و... معامله کنید. برای شروع خرید و فروش ارزهای دیجیتال در اپلیکیشن رمزینکس تریدر ابتدا می بایست مدارک احراز هویت خود را از قسمت میزکار کامل کنید.",
+           "screenshots": [
+             "https://cdn.appleapps.ir/2021/02/at-16124455521439-scaled.jpg",
+             "https://cdn.appleapps.ir/2021/02/at-16124455491420-scaled.jpg",
+             "https://cdn.appleapps.ir/2021/02/at-16124455551155-scaled.jpg",
+             "https://cdn.appleapps.ir/2021/02/at-16124455341190-scaled.jpg",
+             "https://cdn.appleapps.ir/2021/02/at-16124455411714-scaled.jpg",
+             "https://cdn.appleapps.ir/2021/02/at-16124455451435-scaled.jpg",
+             "https://cdn.appleapps.ir/2021/02/at-16124455491420-scaled.jpg"
+           ],
+           },
+           {
            "name": "بیت 24 | Bit24",
            "developerName": "خرید و فروش بیت کوین و ارزدیجیتال",
            "version": "8.1.4",
