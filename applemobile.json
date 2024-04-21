@@ -664,6 +664,17 @@
     "Tweaked Apps": [
         
         {
+            "name": "Captions Pro",
+            "developerName": "زیرنویس خودکار و ویرایش ویدیو",
+            "bundleIdentifier": "boomer.Smart-Video",
+            "version": "11.35",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/xSmartVideo11.35.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/03/at-17106120101177-100x100.jpg",
+            "appstore": "boomer.Smart-Video"
+        },
+        {
             "name": "YouTube Music Ultimate",
             "developerName": "نسخه توییک شده بدون محدودیت پخش یوتیوب موزیک",
             "bundleIdentifier": "com.google.ios.youtubemusic",
@@ -674,17 +685,6 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
             "appstore": "com.google.ios.youtubemusic"
          },
-        {
-            "name": "Captions Pro",
-            "developerName": "زیرنویس خودکار و ویرایش ویدیو",
-            "bundleIdentifier": "boomer.Smart-Video",
-            "version": "11.34",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/xCaptions11.34.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/03/at-17106120101177-100x100.jpg",
-            "appstore": "boomer.Smart-Video"
-        },
         {
             "name": "Aloha Browser Premium",
             "developerName": "مرورگر، فایل منیجر، دانلودر",
@@ -1060,10 +1060,10 @@
           "name": "Remini (NoAds)",
           "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
           "bundleIdentifier": "com.bigwinepot.nwdn.international",
-          "version": "2.9.82",
+          "version": "2.10.22",
           "date": "2023-10-14",
           "size": 180582739,
-          "downloadURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Remini-NoAds-2.9.82.1.ipa",
+          "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Remini2.10.22.ipa",
           "category": "Tweaked Apps",
           "developerName": "",
           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
@@ -1543,6 +1543,58 @@
     "Emulators": [
         
         {
+            "name": "Hitman: Blood Money — Reprisal",
+            "developerName": "بازی هیتمن: خون‌بها",
+            "bundleIdentifier": "com.feralinteractive.hitmanbloodmoney-ios",
+            "version": "1.273.0",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/HitmanBloodMoneyReprisalv1.2.ipa",
+            "category": "Emulators",
+            "description": "⚠️بازی را حتما در حالت آفلاین و بدون اینترنت اجرا کنید. (در غیر اینصورت کنترل بازی درست کار نمیکند.)\nبازی به 3.9گیگابایت حجم خالی نیاز دارد و توسط توسعه دهنده توصیه شده است دو برابر این حجم را خالی داشتبه باشید تا هنگام نصب به مشکلی بر نخورید.\nدستگاه های پشتیبانی شده را در آخر میتوانید مشاهده کنید.\nHitman: Blood Money Reprisal پورتی از نسخه اصلی Hitman: Blood Money که یکی از بهترین بازی‌های مخفی کاری است که در سال 2006 عرضه شده و  اکنون برای iOS با ویژگی‌های جدیدی مانند حالت غریزی، مینی‌مپ و بهبود گیم‌پلی و کیفیت گرافیکی بازسازی شده عرضه شده است.\nمامور 47. ماشین کشتار خونسرد مورد علاقه همه که به هیچ وجه نمی‌توانید از آن سر کچل زیبا و عادت او به قتل های قراردادی را فراموش کنید.\nگیم پلی بازی به اندازه ای است که شما انتظار دارید. شما قراردادی می گیرید، در یک مکان ورود میکنید، و یواشکی به اطراف می روید تا نگهبانان، سرسپردگان و هدف اصلی را ببینید و بکشید. این بازی تفاوت کمی با بازی اصلی از نظر تجربه اصلی گیم پلی دارد و فقط برای راحتی بازی با دستگاه های لمسی بهبود یافته است و هنوز هم بسیار نوستالژیک و کلاسک است.\nآیفون های پشتیبانی شده:\n• آیفون 8 پلاس و جدیدتر\n• iPhone SE 2 (2020) و جدیدتر\nآیپدهای پشتیبانی شده:\n• iPad mini 5 (2019) و جدیدتر\n• iPad Air 3 (2019) و جدیدتر\n• iPad 7 (2019) و جدیدتر\n• iPad Pro نسل اول (2015)، فقط مدل 12.9 اینچی\n• آیپد پرو نسل دوم (2017) به بعد",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17135930571505-100x100.jpg",
+            "appstore": "com.feralinteractive.hitmanbloodmoney-ios"
+        },
+        {
+            "name": "GTA: San Andreas",
+            "developerName": "Definitive Edition",
+            "bundleIdentifier": "com.netflix.NGP.GTASanAndreasDefinitiveEdition",
+            "version": "1.86",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/GTASanAndreasDefinitivev1.86.44544238.ipa",
+            "category": "Emulators",
+            "description": "امکان وارد کردن چیت کد در منو Accessibility و Enter Cheat Code وجود دارد\n📲پشتیبانی از دستگاه های دارای چیپست A12 به بالا (iPhone XS)\nℹ️بازی دارای 6.22GB دیتای نیاز به دانلود است.\nپنج سال پیش، کارل «سی‌جی» جانسون از لوس سانتوس مه‌آلود، سن آندریاس فرار کرد... شهری که خود را با مشکلات گروه‌ها، مواد مخدر و فساد از هم می‌پاشید. حالا اوایل دهه 90 است. سی جی باید به خانه برود - مادرش به قتل رسیده است، خانواده اش از هم پاشیده شده است و دوستان دوران کودکی اش همگی به سمت فاجعه پیش می روند. در بازگشت به محله، چند پلیس او را به قتل متهم می‌کنند و سی‌جی را مجبور به سفری می‌کنند که او را در سراسر ایالت سن آندریاس می‌برد تا خانواده‌اش را نجات دهد و در تکرار بعدی سریال کنترل خیابان‌ها را در دست بگیرد. که همه چیز را تغییر می دهد.\nتجربه کلاسیکی که ژانر اختصاص خود را تعریف میکند, هم اکنون برای نسل جدید به‌روز شده است با بهبودهای گسترده که شامل نورپردازی جدید و ارتقاءهای محیطی برجسته, با تکسچرهای با کیفیت بالا, فاصله دید بیشتر, کنترل‌ها و هدف‌گیری همانند GTA V و خیلی چیزهای دیگر است.",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17135926591396-100x100.jpg",
+            "appstore": "com.netflix.NGP.GTASanAndreasDefinitiveEdition"
+        },
+        {
+            "name": "GTA: Vice City",
+            "developerName": "Definitive Edition",
+            "bundleIdentifier": "com.rockstargames.gtavc.de",
+            "version": "1.83",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/GTAViceCityDefinitivev1.83.44255649.ipa",
+            "category": "Emulators",
+            "description": "امکان وارد کردن چیت کد در منو Accessibility و Enter Cheat Code وجود دارد\n📲پشتیبانی از دستگاه های دارای چیپست A12 به بالا\nℹ️بازی دارای 1.27GB دیتای نیاز به دانلود است.\nتجربه کلاسیکی که ژانر اختصاص خود را تعریف میکند, هم اکنون برای نسل جدید به‌روز شده است با بهبودهای گسترده که شامل نورپردازی جدید و ارتقاءهای محیطی برجسته, با تکسچرهای با کیفیت بالا, فاصله دید بیشتر, کنترل‌ها و هدف‌گیری همانند GTA V و خیلی چیزهای دیگر است.\nبه دهه 1980 خوش آمدید. از دهه موهای بزرگ و لباس های رنگارنگ، داستان صعود یک مرد به بالای انبوهی از جنایتکاران را دنبال کنید. Grand Theft Auto با داستان خیانت و انتقام تامی ورسیتی در یک شهر گرمسیری آغشته به نئون و مملو ازجنایتها و فرصتها باز می‌گردد.",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17135924991346-100x100.jpg",
+            "appstore": "com.rockstargames.gtavc.de"
+        },
+        {
+            "name": "GTA III",
+            "developerName": "Definitive Edition",
+            "bundleIdentifier": "com.rockstargames.gta3.de",
+            "version": "1.83",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/GTAIIIDefinitivev1.83.44255649.ipa",
+            "category": "Emulators",
+            "description": "امکان وارد کردن چیت کد در منو Accessibility و Enter Cheat Code وجود دارد\n📲پشتیبانی از دستگاه های دارای چیپست A12 به بالا\nبه لیبرتی سیتی خوش آمدید. جایی که همه چیز شروع شد.\nهمه چیز از لیبرتی سیتی شروع می شود. با آزادی انقلابی برای رفتن به هرجایی و خقت کردن هر کسی، Grand Theft Auto III مرکز دنیای جنایتکار زیرزمینی را در دستان شما قرار می دهد، اگر جرات کافی برای گرفتن آن را دارید.",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17135921711370-100x100.jpg",
+            "appstore": "com.rockstargames.gta3.de"
+        },
+        {
             "name": "Candy Crush Saga",
             "developerName": "نسخه هک شده",
             "bundleIdentifier": "com.midasplayer.apps.candycrushsaga",
@@ -1588,40 +1640,6 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/03/at-17099310881116-100x100.jpg",
             "appstore": "com.ea.nfs2014.bv"
-        },
-        {
-            "name": "GTA: San Andreas",
-            "developerName": "Definitive Edition",
-            "bundleIdentifier": "com.netflix.NGP.GTASanAndreasDefinitiveEdition",
-            "version": "1.72",
-            "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xGTASAdev1.72.4.ipa",
-            "category": "Emulators",
-            "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17027229701837-100x100.jpg",
-            "appstore": "com.netflix.NGP.GTASanAndreasDefinitiveEdition"
-        },
-        {
-            "name": "GTA: Vice City",
-            "developerName": "Definitive Edition",
-            "bundleIdentifier": "store.ipa.gtavc.de",
-            "version": "1.72",
-            "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xGTAViceCitydev1.72.4.ipa",
-            "category": "Emulators",
-            "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17027204511197-100x100.jpg"
-        },
-        {
-            "name": "GTA III",
-            "developerName": "Definitive Edition",
-            "bundleIdentifier": "store.ipa.gta3.de",
-            "version": "1.72",
-            "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xGTAIIIdev1.72.4.ipa",
-            "category": "Emulators",
-            "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17027159941607-100x100.jpg"
         },
         {
             "name": "Subway Surfers Hack",
