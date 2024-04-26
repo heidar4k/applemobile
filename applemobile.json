@@ -5,15 +5,23 @@
         "repoIcon": "https://i.postimg.cc/Z5kTTkjG/temp-Image35-CBu-R.jpg"
     },
     
-    "Scarlet": [
+    "Developer": [
 
+        {
+         "name": "GBox",
+         "developerName": "iOS signing and testing tool",
+         "version": "5.2.1",
+         "icon": "https://gbox.run/Public/resources/icon256.png",
+         "down": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios%2Fdeveloper%2FGBox_v5.2.1.ipa",
+         "category": "Developer"
+        },
         {
          "name": "ScarletAplpha - Farsi",
          "developerName": "نسخه فارسی شده فروشگاه اسکارلت",
          "version": "2.0",
          "icon": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios%2Ficons%2Fcom.DebianArch.Scarlet.png",
          "down": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios%2Fdeveloper%2FScarletAlpha-FA.ipa",
-         "category": "Scarlet"
+         "category": "Developer"
         },
         ],
         
