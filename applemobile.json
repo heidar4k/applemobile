@@ -28,6 +28,21 @@
     "Jailbreaks": [
 
         {
+         "name": "آپ - آسان پرداخت",
+         "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
+         "version": "6.8.0",
+         "icon": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
+         "down": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios%2Fipa%2Fmobilebanking%2Fasanpardakht6.4.1.ipa",
+         "category": "Jailbreaks",
+         "description": "",
+         "screenshots": [
+           "https://app.appleapps.ir/storage/2020/05/at-16924605451382.jpg",
+           "https://app.appleapps.ir/storage/2020/05/at-16924605461693.jpg",
+           "https://app.appleapps.ir/storage/2020/05/at-16924605461607.jpg",
+           "https://app.appleapps.ir/storage/2020/05/at-16924605481201.jpg"
+         ],
+         },
+        {
          "name": "ماکسیم",
          "developerName": "درخواست آنلاین تاكسی ماکسیم",
          "version": "3.175",
