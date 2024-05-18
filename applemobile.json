@@ -795,6 +795,137 @@
     "Tweaked Apps": [
         
         {
+            "name": "Captions Pro",
+            "developerName": "زیرنویس خودکار و ویرایش ویدیو",
+            "bundleIdentifier": "boomer.Smart-Video",
+            "version": "11.39.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Captions11.39.1.ipa",
+            "category": "Tweaked Apps",
+            "description": "👑💲نسخه پریمیوم Pro برنامه را بدون نیاز به پرداخت اشتراک سالیانه 65$ بصورت رایگان استفاده کنید.\n🇮🇷با پشتیبانی از تشخیص زبان فارسی\nاین برنامه به کاربران اجازه می دهد تا با استفاده از ابزار گفتار به نوشتار openAI , زیرنویس های پویا کلمه به کلمه و چشم نواز را به راحتی اضافه کنند.\nاین ویرایشگر به طور خاص برای ویدیوهای مکالمه طراحی شده است و ویرایش ویدیو را با ابزارهایی مانند ویرایش کلمات، حذف کلمات پرکننده و ایجاد برش ها و پرش تنها با یک کلیک آسان می کند. همچنین می‌توانید تصاویر و گیف‌هایی را که هنگام صحبت ظاهر می‌شوند، اضافه کنید. زیرنویس ها با ده ها سبک از پیش تعیین شده کاملاً قابل تنظیم هستند. این برنامه همچنین دارای ویژگی است که از هوش مصنوعی برای تولید اسکریپت های ویدیویی شما با استفاده از مدل های زبان بزرگ مانند GPT-3 در چند ثانیه استفاده می کند. و ویژگی تله پرومتر ضبط فیلم را بسیار آسان می کند.آموزش توییک اپ : \nبا جمیل خود وارد برنامه شوید\nاین اپ به شدت به IP شما حساس هست و باید و پ ان های مختلف تست کنید تا لاگین بشید\nبرنامه بصورت پیش فرض آنلاک شده است",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17158490701512-100x100.jpg",
+            "appstore": "boomer.Smart-Video"
+        },
+        {
+            "name": "Nicegram Premium",
+            "developerName": "تلگرام با امکانات پیشرفته",
+            "bundleIdentifier": "app.nicegram",
+            "version": "1.6.2",
+            "date": "2024-05-06",
+            "size": 109610074,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-06-2024/Nicegram-1.6.2.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png",
+            "appstore": "app.nicegram"
+        },
+        {
+            "name": "Facetune 2 Pro",
+            "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
+            "bundleIdentifier": "com.lightricks.Facetune2",
+            "version": "3.55",
+            "date": "2024-05-15",
+            "size": 415431924,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-15-2024/FacetunePro-3.55.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png",
+            "appstore": "com.lightricks.Facetune2"
+        },
+        {
+            "name": "Infuse Pro",
+            "developerName": "نسخه پریمیوم نسل هفتم",
+            "bundleIdentifier": "com.firecore.infuse",
+            "appstore": "com.firecore.infuse",
+            "version": "7.7.5-1.1.6",
+            "date": "2024-05-17",
+            "size": 43610271,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-17-2024/InfusePro-7.7.5-1.1.6.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
+        },
+        {
+            "name": "Aloha Browser Premium",
+            "developerName": "مرورگر، فایل منیجر، دانلودر",
+            "bundleIdentifier": "com.alohabrowser.alohabrowser",
+            "version": "5.8.1",
+            "date": "2024-05-13",
+            "size": 95621170,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/AlohaBrowserPremium-5.8.1.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png",
+            "appstore": "com.alohabrowser.alohabrowser"
+        },
+        {
+            "name": "BeautyPlus Pro",
+            "developerName": "دوربین سلفی، اپلیکیشن چهره و استودیو تصاویر",
+            "bundleIdentifier": "com.commsource.BeautyPlus",
+            "version": "7.7.103",
+            "date": "2024-05-13",
+            "size": 238124043,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/BeautyPlusPremium-7.7.103.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
+            "appstore": "com.commsource.BeautyPlus"
+        },
+        {
+           "name": "Picsart++",
+           "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
+           "bundleIdentifier": "com.picsart.studio",
+           "appstore": "com.picsart.studio",
+           "version": "24.9.1",
+           "date": "2024-05-13",
+           "size": 102429621,
+           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-13-2024/PicsArtPlusPlus-24.9.1.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
+       },
+        {
+            "name": "Spotify Premium",
+            "developerName": "اسپاتیفای پریمیوم با قابلیت پخش بدون محدودیت",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "8.9.38-3.0",
+            "date": "2024-05-10",
+            "size": 72660511,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/05-10-2024/EeveeSpotify-8.9.38-3.0.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
+            "appstore": "com.spotify.client"
+
+        },
+        {
+            "name": "InShot Pro",
+            "developerName": "اینشات بهترین برنامه ویرایش ویدیو و ابزار ادمین پیج ها",
+            "bundleIdentifier": "com.camerasideas.InstaShot",
+            "version": "1.77.1",
+            "date": "2024-04-23",
+            "size": 149778320,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/InShotPro-1.77.1.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
+            "appstore": "com.camerasideas.InstaShot"
+        },
+        {
+           "name": "Documents Pro",
+           "developerName": "بهترین فایل منیجر و دانلودر آی او اس",
+           "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+           "version": "8.11",
+           "date": "2024-04-23",
+           "size": 156715888,
+           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-23-2024/DocumentsPlus-8.11.ipa",
+           "category": "Tweaked Apps",
+           "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
+           "developerName": "",
+           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png",
+           "appstore": "com.readdle.ReaddleDocsIPad"
+        },
+        {
             "name": "Instagram Rocket",
             "developerName": "اینستاگرام پیشرفته راکت - آنلاک شده",
             "bundleIdentifier": "com.burbn.instagram",
@@ -832,18 +963,6 @@
             "appstore": "com.lemon.lvoverseas"
         },
         {
-            "name": "Captions Pro",
-            "developerName": "زیرنویس خودکار و ویرایش ویدیو",
-            "bundleIdentifier": "boomer.Smart-Video",
-            "version": "11.37",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/caption-pro-v11.37.ipa",
-            "category": "Tweaked Apps",
-            "description": "👑💲نسخه پریمیوم Pro برنامه را بدون نیاز به پرداخت اشتراک سالیانه 65$ بصورت رایگان استفاده کنید.\n🇮🇷با پشتیبانی از تشخیص زبان فارسی\nاین برنامه به کاربران اجازه می دهد تا با استفاده از ابزار گفتار به نوشتار openAI , زیرنویس های پویا کلمه به کلمه و چشم نواز را به راحتی اضافه کنند.\nاین ویرایشگر به طور خاص برای ویدیوهای مکالمه طراحی شده است و ویرایش ویدیو را با ابزارهایی مانند ویرایش کلمات، حذف کلمات پرکننده و ایجاد برش ها و پرش تنها با یک کلیک آسان می کند. همچنین می‌توانید تصاویر و گیف‌هایی را که هنگام صحبت ظاهر می‌شوند، اضافه کنید. زیرنویس ها با ده ها سبک از پیش تعیین شده کاملاً قابل تنظیم هستند. این برنامه همچنین دارای ویژگی است که از هوش مصنوعی برای تولید اسکریپت های ویدیویی شما با استفاده از مدل های زبان بزرگ مانند GPT-3 در چند ثانیه استفاده می کند. و ویژگی تله پرومتر ضبط فیلم را بسیار آسان می کند.",
-            "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17149361481832-100x100.jpg",
-            "appstore": "boomer.Smart-Video"
-        },
-        {
             "name": "YouTube Music Ultimate",
             "developerName": "نسخه توییک شده بدون محدودیت پخش یوتیوب موزیک",
             "bundleIdentifier": "com.google.ios.youtubemusic",
@@ -854,19 +973,6 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtubemusic.png",
             "appstore": "com.google.ios.youtubemusic"
          },
-        {
-            "name": "Aloha Browser Premium",
-            "developerName": "مرورگر، فایل منیجر، دانلودر",
-            "bundleIdentifier": "com.alohabrowser.alohabrowser",
-            "version": "5.6.1",
-            "date": "2024-03-27",
-            "size": 91269062,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/AlohaBrowserPremium-5.6.1.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png",
-            "appstore": "com.alohabrowser.alohabrowser"
-        },
         {
             "name": "ToonMe++",
             "developerName": "فیلترهای صورت کارتونی",
@@ -999,18 +1105,6 @@
            "appstore": "com.newin.nplayer"
         },
         {
-           "name": "Documents Pro",
-           "developerName": "بهترین فایل منیجر و دانلودر آی او اس",
-           "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-           "version": "8.10.2",
-           "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Documentsv8.10.2.ipa",
-           "category": "Tweaked Apps",
-           "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
-           "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17040352331279-100x100.jpg",
-           "appstore": "com.readdle.ReaddleDocsIPad"
-        },
-        {
            "name": "AnkiMobile Flashcards",
            "developerName": "فلش کارت هوشمند و قدرتمند",
            "bundleIdentifier": "net.ichi2.anki",
@@ -1124,19 +1218,6 @@
             "appstore": "com.nextgen.reelsapp"
         },
         {
-            "name": "Facetune 2 Pro",
-            "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
-            "bundleIdentifier": "com.lightricks.Facetune2",
-            "version": "3.49.2",
-            "date": "2024-03-28",
-            "size": 434328517,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/FacetunePro-3.49.2.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png",
-            "appstore": "com.lightricks.Facetune2"
-        },
-        {
             "name": "Facetune Pro",
             "developerName": "ویرایشگر عکس های سلفی قدرتمند",
             "bundleIdentifier": "com.lightricks.Facetune",
@@ -1176,19 +1257,6 @@
             "appstore": "com.avcr.Funimate"
         },
         {
-            "name": "BeautyPlus Pro",
-            "developerName": "دوربین سلفی، اپلیکیشن چهره و استودیو تصاویر",
-            "bundleIdentifier": "com.commsource.BeautyPlus",
-            "version": "7.7.071",
-            "date": "2024-03-27",
-            "size": 230547103,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-27-2024/BeautyPlusPremium-7.7.071.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
-            "appstore": "com.commsource.BeautyPlus"
-        },
-        {
           "name": "Remini (NoAds)",
           "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
           "bundleIdentifier": "com.bigwinepot.nwdn.international",
@@ -1200,19 +1268,6 @@
           "developerName": "",
           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
           "appstore": "com.bigwinepot.nwdn.international"
-        },
-        {
-            "name": "InShot Pro",
-            "developerName": "اینشات بهترین برنامه ویرایش ویدیو و ابزار ادمین پیج ها",
-            "bundleIdentifier": "com.camerasideas.InstaShot",
-            "version": "1.76.3",
-            "date": "2024-03-26",
-            "size": 142988975,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-26-2024/InShotPro-1.76.3.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
-            "appstore": "com.camerasideas.InstaShot"
         },
         {
             "name": "Photoshop Express Pro",
@@ -1241,46 +1296,6 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
             "appstore": "com.google.ios.youtube"
 
-        },
-        {
-            "name": "Spotify Premium",
-            "developerName": "اسپاتیفای پریمیوم با قابلیت پخش بدون محدودیت",
-            "bundleIdentifier": "com.spotify.client",
-            "version": "8.9.26",
-            "date": "2024-04-02",
-            "size": 68787297,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/Spotilife-8.9.26.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
-            "appstore": "com.spotify.client"
-
-        },
-         {
-            "name": "Picsart++",
-            "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
-            "bundleIdentifier": "com.picsart.studio",
-            "appstore": "com.picsart.studio",
-            "version": "24.5.1",
-            "date": "2024-03-28",
-            "size": 102319502,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-28-2024/PicsArtPlusPlus-24.5.1.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
-        },
-        {
-            "name": "Infuse Pro",
-            "developerName": "نسخه پریمیوم نسل هفتم",
-            "bundleIdentifier": "com.firecore.infuse",
-            "appstore": "com.firecore.infuse",
-            "version": "7.7.1-1.1.4",
-            "date": "2024-02-28",
-            "size": 40129004,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/02-28-2024/InfusePro-7.7.1-1.1.4.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
         },
         {
             "name": "Speedtest Premium",
