@@ -28,6 +28,15 @@
     "Jailbreaks": [
 
         {
+         "name": "ساد24",
+         "developerName": "خدمات مدیریت چک و امور مالی",
+         "version": "1.0",
+         "icon": "https://app.appleapps.ir/storage/2024/04/at-17138576531268-100x100.png",
+         "down": "https://dl3.apptrackr.ir/ios/2024/sad24v1.0.ipa",
+         "category": "Jailbreaks",
+         "description": ""
+         },
+        {
          "name": "آپ - آسان پرداخت",
          "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
          "version": "6.8.0",
