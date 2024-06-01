@@ -20,6 +20,38 @@
     "Jailbreaks": [
 
         {
+            "name": "Zaban",
+            "developerName": " در اپلیکیشن زبان‌ تماشا کن و زبان یاد بگیر!",
+            "version": "1.0.20",
+            "icon": "https://app.appleapps.ir/storage/2024/05/at-17157742791606-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/zaban1.0.20.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+              "https://app.appleapps.ir/storage/2024/05/at-17157743301972-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2024/05/at-17157743271970-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2024/05/at-17157743231850-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2024/05/at-17157743191574-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2024/05/at-17157743411879-250x450.jpeg",
+              "https://app.appleapps.ir/storage/2024/05/at-17157743381197-250x450.jpeg"
+        ],
+        },
+        {
+            "name": "AppAhang Pro",
+            "developerName": "اپآهنگ دنیای موسیقی",
+            "version": "39.0.0",
+            "icon": "https://app.appleapps.ir/storage/2023/06/at-17124835251504-100x100.jpg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/AppAhangProV39.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+              "https://app.appleapps.ir/storage/2023/06/at-16872698681053.png",
+              "https://app.appleapps.ir/storage/2023/06/at-16872698711037.jpg",
+              "https://app.appleapps.ir/storage/2023/06/at-16872698711013.png",
+              "https://app.appleapps.ir/storage/2023/06/at-16872698701673.png",
+              "https://app.appleapps.ir/storage/2023/06/at-16872698691805.png",
+              "https://app.appleapps.ir/storage/2023/06/at-16872698681258.png"
+        ],
+        },
+        {
          "name": "جاباما",
          "developerName": "به راحت ترین شکل ویلا،هتل و اقامتگاه رزرو کنید !",
          "version": "3.0.2",
@@ -83,22 +115,6 @@
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_6.jpg",
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_7.jpg",
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_8.jpg"
-        ],
-        },
-        {
-            "name": "AppAhang Pro",
-            "developerName": "اپآهنگ دنیای موسیقی",
-            "version": "37.0.0",
-            "icon": "https://app.appleapps.ir/storage/2023/06/at-17124835251504-100x100.jpg",
-            "down": "https://dl3.apptrackr.ir/ios/2024/AppAhangPro37.0.0.ipa",
-            "category": "Jailbreaks",
-            "screenshots": [
-              "https://app.appleapps.ir/storage/2023/06/at-16872698681053.png",
-              "https://app.appleapps.ir/storage/2023/06/at-16872698711037.jpg",
-              "https://app.appleapps.ir/storage/2023/06/at-16872698711013.png",
-              "https://app.appleapps.ir/storage/2023/06/at-16872698701673.png",
-              "https://app.appleapps.ir/storage/2023/06/at-16872698691805.png",
-              "https://app.appleapps.ir/storage/2023/06/at-16872698681258.png"
         ],
         },
         {
@@ -758,6 +774,17 @@
     
     "Tweaked Apps": [
         
+        {
+          "name": "Logo Maker ++",
+          "developerName": "ساخت و طراحی لوگو",
+          "bundleIdentifier": "com.mkapps.logoMakerApp",
+          "version": "5.5",
+          "downloadURL": "https://dl3.apptrackr.ir/ios/2024/com.mkapps.logoMakerApp5.5.ipa",
+          "category": "Tweaked Apps",
+          "developerName": "",
+          "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17171567141630-100x100.jpg",
+          "appstore": "com.mkapps.logoMakerApp"
+        },
         {
           "name": "Remini (FastAds)",
           "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
