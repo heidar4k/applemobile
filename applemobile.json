@@ -20,6 +20,36 @@
     "Jailbreaks": [
 
         {
+         "name": "رمز ساز ریما",
+         "developerName": "تولید رمز یکبار مصرف صادرات ( رمز ساز ریما )",
+         "version": "1.8.0",
+         "icon": "https://app.appleapps.ir/storage/2020/05/at-16894495501633-100x100.png",
+         "down": "https://dl3.apptrackr.ir/ios/2024/rima1.8.0.ipa",
+         "category": "Jailbreaks",
+         "description": "",
+         "screenshots": [
+           "https://cdn.appleapps.ir/2020/05/at-15896286141158-250x450.jpg",
+           "https://cdn.appleapps.ir/2020/05/at-15896286131993-250x450.jpg",
+           "https://cdn.appleapps.ir/2020/05/at-15896286121577-250x450.jpg",
+           "https://cdn.appleapps.ir/2020/05/at-15896286151081-250x450.jpg",
+           "https://cdn.appleapps.ir/2020/05/at-15896286141498-250x450.jpg"
+         ],
+         },
+        {
+        "name": "پیام رسان ایتا",
+        "developerName": "برنامه‌ای برای همه نیازهای کاربران ایرانی",
+        "version": "4.1.0",
+        "icon": "https://app.appleapps.ir/storage/2020/05/at-16871008981717-100x100.jpg",
+        "down": "https://dl3.apptrackr.ir/ios/2024/eitaa4.1.0.ipa",
+        "category": "Jailbreaks",
+        "screenshots": [
+          "https://cdn.appleapps.ir/2020/05/at-16692705641895-250x450.png",
+          "https://cdn.appleapps.ir/2020/05/at-16692705621700-250x450.png",
+          "https://cdn.appleapps.ir/2020/05/at-16692705601806-250x450.png",
+          "https://cdn.appleapps.ir/2020/05/at-15896282851732-250x450.jpg"
+     ],
+     },
+        {
          "name": "آپارات",
          "developerName": "آپارات - سرویس اشتراک ویدیو",
          "version": "5.8.0",
@@ -169,22 +199,6 @@
            "https://cdn.appleapps.ir/2020/05/at-15896274961294-250x450.png",
            "https://cdn.appleapps.ir/2020/05/at-15896274941099-250x450.png",
            "https://cdn.appleapps.ir/2020/05/at-15896274991983-250x450.png"
-         ],
-         },
-        {
-         "name": "رمز ساز ریما",
-         "developerName": "تولید رمز یکبار مصرف صادرات ( رمز ساز ریما )",
-         "version": "1.7.0.1",
-         "icon": "https://app.appleapps.ir/storage/2020/05/at-16894495501633-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2023/rima1.7.0.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://cdn.appleapps.ir/2020/05/at-15896286141158-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-15896286131993-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-15896286121577-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-15896286151081-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-15896286141498-250x450.jpg"
          ],
          },
         {
@@ -520,20 +534,6 @@
                   "https://app.appleapps.ir/storage/2020/05/at-16941279121688.jpeg"
              ],
              },
-             {
-             "name": "پیام رسان ایتا",
-             "developerName": "eitaa Messenger",
-             "version": "4.0.2",
-             "icon": "https://app.appleapps.ir/storage/2020/05/at-16871008981717-100x100.jpg",
-             "down": "https://dl3.apptrackr.ir/ios/2023/eitaa4.0.2.ipa",
-             "category": "Jailbreaks",
-             "screenshots": [
-               "https://cdn.appleapps.ir/2020/05/at-16692705641895-250x450.png",
-               "https://cdn.appleapps.ir/2020/05/at-16692705621700-250x450.png",
-               "https://cdn.appleapps.ir/2020/05/at-16692705601806-250x450.png",
-               "https://cdn.appleapps.ir/2020/05/at-15896282851732-250x450.jpg"
-          ],
-          },
            {
            "name": "علی بابا | Alibaba.ir",
            "developerName": "مرجع خرید بلیط هواپیما ، قطار و رزرو هتل و ...",
@@ -790,6 +790,17 @@
     "Tweaked Apps": [
         
         {
+          "name": "PDF Expert Pro",
+          "developerName": "ویرایش، امضا، حاشیه نویسی اسناد",
+          "bundleIdentifier": "com.readdle.PDFExpert5",
+          "version": "7.22",
+          "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PDFExpert7.22.ipa",
+          "category": "Tweaked Apps",
+          "developerName": "",
+          "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16969184101898-100x100.jpg",
+          "appstore": "com.readdle.PDFExpert5"
+        },
+        {
           "name": "Logo Maker ++",
           "developerName": "ساخت و طراحی لوگو",
           "bundleIdentifier": "com.mkapps.logoMakerApp",
@@ -954,10 +965,10 @@
             "name": "Instagram Rocket",
             "developerName": "اینستاگرام پیشرفته راکت - آنلاک شده",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "336.0.8-3.8.25",
-            "date": "2024-06-17",
+            "version": "336.1.8",
+            "date": "2024-06-25",
             "size": 158959114,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-17-2024/InstaRocketCracked-336.0.8-3.8.25.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/InstaRocket336.1.8.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
@@ -967,8 +978,8 @@
             "name": "Instagarm Rocket Duplicate",
             "developerName": "اینستاگرام پیشرفته مود شده ( نسخه مجزا ، داپلیکیت )",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "335.1.8",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Rocket335.1.8.ipa",
+            "version": "336.1.8",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Rocket336.1.8.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
@@ -1315,6 +1326,23 @@
     "Games": [
         
         {
+            "name": "همراه بام ملی",
+            "developerName": "همراه بام ملی ( همراه بانک ملی )",
+            "version": "4.4.1",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-17011157511255-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/hamrahbam4.4.1.ipa",
+            "category": "Hacked Games",
+            "screenshots": [
+              "https://cdn.appleapps.ir/2020/05/at-16030995271444-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995231683-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995221651-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995201889-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995181558-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995151754-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995281018-250x450.jpeg"
+        ],
+        },
+        {
             "name": "های بانک | Hibank",
             "developerName": "پلتفرم دیجیتال بانک کارآفرین",
             "version": "3.3",
@@ -1329,23 +1357,6 @@
               "https://app.appleapps.ir/storage/2023/05/at-16834974021782.jpg",
               "https://app.appleapps.ir/storage/2023/05/at-16834974021782.jpg",
               "https://app.appleapps.ir/storage/2023/05/at-16834974021713.jpg"
-        ],
-        },
-        {
-            "name": "همراه بام ملی",
-            "developerName": "همراه بام ملی ( همراه بانک ملی )",
-            "version": "4.4.0",
-            "icon": "https://app.appleapps.ir/storage/2020/05/at-17011157511255-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/hamrahbam4.4.0.ipa",
-            "category": "Hacked Games",
-            "screenshots": [
-              "https://cdn.appleapps.ir/2020/05/at-16030995271444-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995231683-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995221651-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995201889-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995181558-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995151754-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995281018-250x450.jpeg"
         ],
         },
         {
