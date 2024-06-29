@@ -790,6 +790,17 @@
     "Tweaked Apps": [
         
         {
+          "name": "Remini Pro",
+          "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
+          "bundleIdentifier": "com.bigwinepot.nwdn.international",
+          "version": "2.10.43",
+          "downloadURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios%2Fipa%2Ftweaked%2FRemini%20Pro%20%282.10.43%29.ipa",
+          "category": "Tweaked Apps",
+          "developerName": "",
+          "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
+          "appstore": "com.bigwinepot.nwdn.international"
+        },
+        {
           "name": "PDF Expert Pro",
           "developerName": "ویرایش، امضا، حاشیه نویسی اسناد",
           "bundleIdentifier": "com.readdle.PDFExpert5",
@@ -810,17 +821,6 @@
           "developerName": "",
           "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17171567141630-100x100.jpg",
           "appstore": "com.mkapps.logoMakerApp"
-        },
-        {
-          "name": "Remini (FastAds)",
-          "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
-          "bundleIdentifier": "com.bigwinepot.nwdn.international",
-          "version": "2.10.32",
-          "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Remini2.10.32.ipa",
-          "category": "Tweaked Apps",
-          "developerName": "",
-          "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.bigwinepot.nwdn.international.png",
-          "appstore": "com.bigwinepot.nwdn.international"
         },
         {
             "name": "Reelsapp Pro",
