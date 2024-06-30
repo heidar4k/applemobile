@@ -572,9 +572,9 @@
            {
            "name": "اسپارس | ‌Sparse",
            "developerName": "سرویس دانلود و استریم موزیک",
-           "version": "10.7.4",
+           "version": "10.8.1",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15896269041389-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2023/Sparsev10.7.4.ipa",
+           "down": "https://dl3.apptrackr.ir/ios/2024/sparse10.8.1.ipa",
            "category": "Jailbreaks",
            "screenshots": [
              "https://cdn.appleapps.ir/2020/05/at-16033687051281.jpg",
@@ -790,6 +790,17 @@
     "Tweaked Apps": [
         
         {
+            "name": "Captions Pro",
+            "developerName": "زیرنویس خودکار و ویرایش ویدیو",
+            "bundleIdentifier": "boomer.Smart-Video",
+            "version": "11.45.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Captions11.45.3.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17158490701512-100x100.jpg",
+            "appstore": "boomer.Smart-Video"
+        },
+        {
           "name": "Remini Pro",
           "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
           "bundleIdentifier": "com.bigwinepot.nwdn.international",
@@ -832,17 +843,6 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17160246291497-100x100.jpg",
             "appstore": "com.nextgen.reelsapp"
-        },
-        {
-            "name": "Captions Pro",
-            "developerName": "زیرنویس خودکار و ویرایش ویدیو",
-            "bundleIdentifier": "boomer.Smart-Video",
-            "version": "11.39.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Captions11.39.1.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17158490701512-100x100.jpg",
-            "appstore": "boomer.Smart-Video"
         },
         {
             "name": "Nicegram Premium",
@@ -1011,12 +1011,11 @@
             "name": "ToonMe++",
             "developerName": "فیلترهای صورت کارتونی",
             "bundleIdentifier": "com.informelab.toonme",
-            "version": "0.10.74",
-            "date": "2024-02-25",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ToonMe0.10.74.ipa",
+            "version": "0.11.10",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ToonMe0.11.10.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/02/at-17087413391845-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17172667271181-100x100.jpg",
             "appstore": "com.informelab.toonme"
         },
         {
@@ -1261,11 +1260,11 @@
             "name": "VN Video Editor Pro",
             "developerName": "ویرایش ویدیو برای حرفه ای ها آماتور ها",
             "bundleIdentifier": "com.frontrow.vlog",
-            "version": "1.75.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/xvlog1.75.1.ipa",
+            "version": "1.82.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/VlogNow1.82.1.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16975010901595-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17168838191602-100x100.jpg",
             "appstore": "com.frontrow.vlog"
         },
         {
@@ -1326,6 +1325,23 @@
     "Games": [
         
         {
+            "name": "همراه بام ملی",
+            "developerName": "همراه بام ملی ( همراه بانک ملی )",
+            "version": "4.4.2",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-17011157511255-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/hamrahbam4.4.2.ipa",
+            "category": "Hacked Games",
+            "screenshots": [
+              "https://cdn.appleapps.ir/2020/05/at-16030995271444-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995231683-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995221651-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995201889-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995181558-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995151754-250x450.jpeg",
+              "https://cdn.appleapps.ir/2020/05/at-16030995281018-250x450.jpeg"
+        ],
+        },
+        {
         "name": "موبایلت",
         "developerName": "همراه بانک سامان",
         "bundleIdentifier": "com.mobillet.application",
@@ -1342,23 +1358,6 @@
           "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot5_Wg-hvWd6e_2022_12_08_13_48_20.jpeg"
          ],
          },
-        {
-            "name": "همراه بام ملی",
-            "developerName": "همراه بام ملی ( همراه بانک ملی )",
-            "version": "4.4.1",
-            "icon": "https://app.appleapps.ir/storage/2020/05/at-17011157511255-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/hamrahbam4.4.1.ipa",
-            "category": "Hacked Games",
-            "screenshots": [
-              "https://cdn.appleapps.ir/2020/05/at-16030995271444-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995231683-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995221651-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995201889-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995181558-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995151754-250x450.jpeg",
-              "https://cdn.appleapps.ir/2020/05/at-16030995281018-250x450.jpeg"
-        ],
-        },
         {
             "name": "های بانک | Hibank",
             "developerName": "پلتفرم دیجیتال بانک کارآفرین",
@@ -1695,12 +1694,12 @@
             "name": "Need for Speed No Limits VIP Hack",
             "developerName": "نسخه هک شده",
             "bundleIdentifier": "com.ea.nfs2014.bv",
-            "version": "7.6.01",
+            "version": "7.7.21",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/NeedforSpeedNoLimitsViPHack7.6.01.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/NoLimits7.7.21.ipa",
             "category": "Emulators",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/03/at-17099310881116-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17185530191389-100x100.jpg",
             "appstore": "com.ea.nfs2014.bv"
         },
         {
@@ -1719,12 +1718,12 @@
             "name": "Subway Surfers Hack",
             "developerName": "تا بی نهایت بدوید ! نسخه هک شده",
             "bundleIdentifier": "com.kiloo.subwaysurfers",
-            "version": "3.28.0",
+            "version": "3.30.2",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/SubwaySurf3.28.0.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/SubwaySurf3.30.2.ipa",
             "category": "Emulators",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17139571201106-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17185527471461-100x100.jpg",
             "appstore": "com.kiloo.subwaysurfers"
         },
         {
