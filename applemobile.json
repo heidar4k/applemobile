@@ -1667,6 +1667,18 @@
     "Emulators": [
         
         {
+            "name": "Streets of Rage 4",
+            "developerName": "قسمت چهارم بازی شورش در شهر",
+            "bundleIdentifier": "com.playdigious.streetsofrage4",
+            "version": "1.09",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/StreetsofRage4v1.4.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/04/at-16826819931532-100x100.jpg",
+            "appstore": "com.playdigious.streetsofrage4"
+        },
+        {
             "name": "Playdeads Inside Full Game",
             "developerName": "نسخه کامل و هک شده این بازی معمایی",
             "bundleIdentifier": "com.playdeadgames.inside.ios",
