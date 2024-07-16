@@ -790,6 +790,17 @@
     "Tweaked Apps": [
         
         {
+            "name": "Persona Pro",
+            "developerName": "فیلتر روتوش و آرایش صورت",
+            "bundleIdentifier": "com.tickettothemoon.video.persona",
+            "version": "1.9.12",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Persona1.9.12.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/02/at-17069607131705-100x100.jpg",
+            "appstore": "com.tickettothemoon.video.persona"
+        },
+        {
             "name": "WebSSH Pro",
             "developerName": "یک سرویس گیرنده SSH، SFTP و Port Forwarding عالی",
             "bundleIdentifier": "com.itimeteo.webssh",
