@@ -20,6 +20,39 @@
     "Jailbreaks": [
 
         {
+         "name": "آبان تتر",
+         "developerName": "صرافی ارز دیجیتال",
+         "version": "2.1.8",
+         "icon": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
+         "down": "https://dl3.apptrackr.ir/ios/2024/abantether2.1.8.ipa",
+         "category": "Jailbreaks",
+         "description": "",
+         "screenshots": [
+           "https://app.appleapps.ir/storage/2024/06/at-17172675511792-250x450.jpeg",
+           "https://app.appleapps.ir/storage/2024/06/at-17172675571417-250x450.jpeg",
+           "https://app.appleapps.ir/storage/2024/06/at-17172675561266-250x450.jpeg",
+           "https://app.appleapps.ir/storage/2024/06/at-17172675551128-250x450.jpeg",
+           "https://app.appleapps.ir/storage/2024/06/at-17172675541212-250x450.jpeg",
+           "https://app.appleapps.ir/storage/2024/06/at-17172675531866-250x450.jpeg",
+           "https://app.appleapps.ir/storage/2024/06/at-17172675531308-250x450.jpeg"
+         ],
+         },
+        {
+         "name": "زیتونیکس",
+         "developerName": "دزدگیر و ردیاب هوشمند خودرو",
+         "version": "5.5",
+         "icon": "https://cdn.appleapps.ir/2020/05/at-16225608081794-100x100.png",
+         "down": "https://dl3.apptrackr.ir/ios/2023/xitonix5.5.ipa",
+         "category": "Jailbreaks",
+         "description": "",
+         "screenshots": [
+           "https://cdn.appleapps.ir/2020/05/at-16267294941876-250x450.jpg",
+           "https://cdn.appleapps.ir/2020/05/at-16267294921142-250x450.jpg",
+           "https://cdn.appleapps.ir/2020/05/at-16267294911326-250x450.jpg",
+           "https://cdn.appleapps.ir/2020/05/at-16267294891597-250x450.jpg"
+         ],
+         },
+        {
          "name": "آپ - آسان پرداخت",
          "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
          "version": "7.1.2",
