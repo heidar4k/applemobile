@@ -10,9 +10,9 @@
         {
          "name": "GBox",
          "developerName": "iOS signing and testing tool",
-         "version": "5.2.1",
+         "version": "5.6.1",
          "icon": "https://gbox.run/Public/resources/icon256.png",
-         "down": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios%2Fdeveloper%2FGBox_v5.2.1.ipa",
+         "down": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios%2Fdeveloper%2FGBoxTS_v5.6.1.ipa",
          "category": "Developer"
         },
         ],
@@ -22,9 +22,9 @@
         {
          "name": "آبان تتر",
          "developerName": "صرافی ارز دیجیتال",
-         "version": "2.1.8",
+         "version": "2.1.10",
          "icon": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/abantether2.1.8.ipa",
+         "down": "https://dl3.apptrackr.ir/ios/2024/abantether2.1.10.ipa",
          "category": "Jailbreaks",
          "description": "",
          "screenshots": [
@@ -70,9 +70,9 @@
         {
          "name": "شمار",
          "developerName": "دفتر حساب، انبار، فاکتور، حسابداری",
-         "version": "1.0.44",
+         "version": "1.0.45",
          "icon": "https://app.appleapps.ir/storage/2024/05/at-17151085241053-100x100.jpeg",
-         "down": "https://dl3.apptrackr.ir/ios/2024/shomar1.0.44.ipa",
+         "down": "https://dl3.apptrackr.ir/ios/2024/shomar1.0.45.ipa",
          "category": "Jailbreaks",
          "description": "",
          "screenshots": [
@@ -1385,6 +1385,22 @@
     "Games": [
         
         {
+        "name": "آبانک | Abank",
+        "developerName": "آبانک ، بانک دیجیتال آینده",
+        "version": "1.8.0",
+        "icon": "https://app.appleapps.ir/storage/2022/05/at-16847851311517-100x100.png",
+        "down": "https://dl3.apptrackr.ir/ios/2024/abank1.8.0.ipa",
+        "category": "Hacked Games",
+        "screenshots": [
+          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/93bc829f37fa44298020cec701d71c00.png%20copy.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/722c0e1d08cf45f383ba3a220cb57329.png%20copy.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/e1dd585f76324b7ab945e580b52ace23.png%20copy.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/5f1ae967117646a1afb541169e7d5510.png%20copy.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/e9d60a1890a64c37a8b349d1f71aae37.png%20copy.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/8d40c6ae5cc54686b5ccb4a7e50676ad.png%20copy.jpg"
+        ],
+        },
+        {
             "name": "همراه بام ملی",
             "developerName": "همراه بام ملی ( همراه بانک ملی )",
             "version": "4.4.2",
@@ -1703,22 +1719,6 @@
         "screenshots": [
         "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677355166-1.jpg",
         "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677355174-2.jpg"
-        ],
-        },
-        {
-        "name": "آبانک | Abank",
-        "developerName": "آبانک ، بانک دیجیتال آینده",
-        "version": "1.7.62",
-        "icon": "https://app.appleapps.ir/storage/2022/05/at-16847851311517-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2023/abank1.7.62.ipa",
-        "category": "Hacked Games",
-        "screenshots": [
-          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/93bc829f37fa44298020cec701d71c00.png%20copy.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/722c0e1d08cf45f383ba3a220cb57329.png%20copy.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/e1dd585f76324b7ab945e580b52ace23.png%20copy.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/5f1ae967117646a1afb541169e7d5510.png%20copy.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/e9d60a1890a64c37a8b349d1f71aae37.png%20copy.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2022/12/6/8d40c6ae5cc54686b5ccb4a7e50676ad.png%20copy.jpg"
         ],
         },
     ],
