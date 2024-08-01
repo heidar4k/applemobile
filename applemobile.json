@@ -29,6 +29,43 @@
     "Jailbreaks": [
 
         {
+        "name": "دیوار",
+        "developerName": "محل انتشار رایگان انواع آگهی",
+        "version": "11.24.2",
+        "icon": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
+        "down": "https://dl3.apptrackr.ir/ios/2024/divar11.24.2.ipa",
+        "category": "Jailbreaks",
+        "screenshots": [
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_1.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_2.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_3.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_4.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_5.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_6.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_7.jpg",
+          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_8.jpg"
+        ],
+        },
+        {
+        "name": "نشان |‌ Neshan",
+        "developerName": "نقشه و مسیریاب سخن‌گوی فارسی",
+        "version": "6.1.0",
+        "icon": "https://app.appleapps.ir/storage/2020/05/at-16873926291816-100x100.jpeg",
+        "down": "https://dl3.apptrackr.ir/ios/2024/neshan6.1.0.ipa",
+        "category": "Jailbreaks",
+  "screenshots": [
+       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/8.jpg",
+       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/7.jpg",
+       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327850-6.jpg",
+       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327726-5.jpg",
+       "https://sandbox.sibirani.ir/statics_public/attachments/2021/1/31/سرعتگیر.jpg",
+       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327381-4.jpg",
+       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327253-3.jpg",
+       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327175-2.jpg",
+       "hhttps://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327076-1.jpg"
+        ],
+        },
+        {
         "name": "پولکی",
         "developerName": "اپلیکیشن حسابداری شخصی",
         "version": "3.0.0",
@@ -183,24 +220,6 @@
            "https://app.appleapps.ir/storage/2020/05/at-17181340611464-250x450.jpeg"
          ],
          },
-        {
-        "name": "دیوار",
-        "developerName": "محل انتشار رایگان انواع آگهی",
-        "version": "11.21.4",
-        "icon": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/divar11.21.4.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_1.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_2.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_3.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_4.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_5.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_6.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_7.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_8.jpg"
-        ],
-        },
         {
             "name": "AppAhang Pro",
             "developerName": "اپآهنگ دنیای موسیقی",
@@ -705,25 +724,6 @@
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1644426790-balad-7.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1644426825-balad-8.jpg",
              "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1644426850-balad-9.jpg"
-           ],
-           },
-           {
-           "name": "نشان |‌ Neshan",
-           "developerName": "نقشه و مسیریاب سخن‌گوی فارسی",
-           "version": "6.0.0",
-           "icon": "https://app.appleapps.ir/storage/2020/05/at-16873926291816-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2024/neshan6.0.0.ipa",
-           "category": "Jailbreaks",
-     "screenshots": [
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/8.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/7.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327850-6.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327726-5.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2021/1/31/سرعتگیر.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327381-4.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327253-3.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327175-2.jpg",
-          "hhttps://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327076-1.jpg"
            ],
            },
            {
@@ -1393,6 +1393,37 @@
     
     "Games": [
         
+        {
+        "name": "سپینو",
+        "developerName": "نئوبانک صادرات ایران",
+        "bundleIdentifier": "com.rahand.qbank",
+        "version": "6.7.1",
+        "icon": "https://app.appleapps.ir/storage/2024/07/at-17221753071621-100x100.jpeg",
+        "down": "https://dl3.apptrackr.ir/ios/2024/sepino1.29.17.ipa",
+        "category": "Hacked Games",
+        "screenshots": [
+          "https://app.appleapps.ir/storage/2024/07/at-17221754761468-250x450.jpeg",
+          "https://app.appleapps.ir/storage/2024/07/at-17221754771136-250x450.jpeg",
+          "https://app.appleapps.ir/storage/2024/07/at-17221754711175-250x450.jpeg",
+          "https://app.appleapps.ir/storage/2024/07/at-17221754721730-250x450.jpeg",
+          "https://app.appleapps.ir/storage/2024/07/at-17221754721918-250x450.jpeg",
+          "https://app.appleapps.ir/storage/2024/07/at-17221754731382-250x450.jpeg"
+         ],
+         },
+        {
+        "name": "کیوبانک",
+        "developerName": "بانک تمام دیجیتال مهرایران",
+        "bundleIdentifier": "com.rahand.qbank",
+        "version": "6.7.1",
+        "icon": "https://app.appleapps.ir/storage/2023/07/at-16882337221906-100x100.jpg",
+        "down": "https://dl3.apptrackr.ir/ios/2024/qbank6.7.1.ipa",
+        "category": "Hacked Games",
+        "screenshots": [
+          "https://app.appleapps.ir/storage/2023/07/at-17130188241639.jpg",
+          "https://app.appleapps.ir/storage/2023/07/at-17130188241345.jpg",
+          "https://app.appleapps.ir/storage/2023/07/at-17130188251397.jpg"
+         ],
+         },
         {
         "name": "موبایلت",
         "developerName": "همراه بانک سامان",
