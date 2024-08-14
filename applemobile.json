@@ -29,11 +29,28 @@
     "Jailbreaks": [
 
         {
+         "name": "مدیریت فروشگاه",
+         "developerName": "اشخاص، انبار، امور مالی و گزارش‌ها",
+         "version": "1.6.0",
+         "icon": "https://app.appleapps.ir/storage/2023/07/at-16903569431355-100x100.jpeg",
+         "down": "https://dl3.apptrackr.ir/ios/2024/supermarket1.6.0.ipa",
+         "category": "Jailbreaks",
+         "changelog": "",
+         "screenshots": [
+         "https://app.appleapps.ir/storage/2023/07/at-16903569961243-250x450.jpeg",
+         "https://app.appleapps.ir/storage/2023/07/at-16903569961899-250x450.jpeg",
+         "https://app.appleapps.ir/storage/2023/07/at-16903569951485-250x450.jpeg",
+         "https://app.appleapps.ir/storage/2023/07/at-16903570001768-250x450.jpeg",
+         "https://app.appleapps.ir/storage/2023/07/at-16903569991813-250x450.jpeg",
+         "https://app.appleapps.ir/storage/2023/07/at-16903569981422-250x450.jpeg"
+        ],
+        },
+        {
         "name": "دیوار",
         "developerName": "محل انتشار رایگان انواع آگهی",
-        "version": "11.24.2",
+        "version": "11.25.3",
         "icon": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/divar11.24.2.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/divar11.25.3.ipa",
         "category": "Jailbreaks",
         "screenshots": [
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_1.jpg",
@@ -44,6 +61,69 @@
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_6.jpg",
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_7.jpg",
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_8.jpg"
+        ],
+        },
+        {
+         "name": "شمار",
+         "developerName": "دفتر حساب، انبار، فاکتور، حسابداری",
+         "version": "1.0.53",
+         "icon": "https://app.appleapps.ir/storage/2024/05/at-17151085241053-100x100.jpeg",
+         "down": "https://dl3.apptrackr.ir/ios/2024/shomar1.0.53.ipa",
+         "category": "Jailbreaks",
+         "description": "",
+         "screenshots": [
+           "https://app.appleapps.ir/storage/2024/05/at-17151086431256-250x450.jpeg",
+           "https://app.appleapps.ir/storage/2024/05/at-17151086412000-250x450.jpeg",
+           "https://app.appleapps.ir/storage/2024/05/at-17151086391462-250x450.jpeg",
+           "https://app.appleapps.ir/storage/2024/05/at-17151086461493-250x450.jpeg",
+           "https://app.appleapps.ir/storage/2024/05/at-17151086441949-250x450.jpeg"
+         ],
+         },
+        {
+        "name": "هامون | Hamoon",
+        "developerName": "هویت الکترونیکی موبایلی نوین",
+        "bundleIdentifier": "app.hamoon.ios",
+        "version": "3.6.0",
+        "icon": "https://app.appleapps.ir/storage/2024/03/at-17107676931138-100x100.png",
+        "down": "https://dl3.apptrackr.ir/ios/2024/hamoon3.6.0.ipa",
+        "category": "Jailbreaks",
+        "screenshots": [
+          "https://app.appleapps.ir/storage/2024/03/at-17107677341702-250x450.png",
+          "https://app.appleapps.ir/storage/2024/03/at-17107677331161-250x450.png",
+          "https://app.appleapps.ir/storage/2024/03/at-17107677321351-250x450.png",
+          "https://app.appleapps.ir/storage/2024/03/at-17107677351163-250x450.png",
+          "https://app.appleapps.ir/storage/2024/03/at-17107677351715-250x450.png"
+        ],
+        },
+        {
+         "name": "ایرانیکارت",
+         "developerName": "پلتفرم تبادلات مالی بین‌المللی",
+         "version": "2.3.6",
+         "icon": "https://app.appleapps.ir/storage/2024/04/at-17126630491097-100x100.png",
+         "down": "https://dl3.apptrackr.ir/ios/2024/iranicard2.3.6.ipa",
+         "category": "Jailbreaks",
+         "screenshots": [
+         "https://app.appleapps.ir/storage/2024/04/at-17126631581032-250x450.jpg",
+         "https://app.appleapps.ir/storage/2024/04/at-17126631581730-250x450.jpg",
+         "https://app.appleapps.ir/storage/2024/04/at-17126631571441-250x450.jpg",
+         "https://app.appleapps.ir/storage/2024/04/at-17126631561570-250x450.jpg",
+         "https://app.appleapps.ir/storage/2024/04/at-17126631551768-250x450.jpg",
+         "https://app.appleapps.ir/storage/2024/04/at-17126631541907-250x450.jpg"
+        ],
+        },
+        {
+        "name": "اسپارس | ‌Sparse",
+        "developerName": "سرویس دانلود و استریم موزیک",
+        "version": "10.8.2",
+        "icon": "https://cdn.appleapps.ir/2020/05/at-15896269041389-100x100.jpeg",
+        "down": "https://dl3.apptrackr.ir/ios/2024/sparce10.8.2.ipa",
+        "category": "Jailbreaks",
+        "screenshots": [
+          "https://cdn.appleapps.ir/2020/05/at-16033687051281.jpg",
+          "https://cdn.appleapps.ir/2020/05/at-16033687071548.jpg",
+          "https://cdn.appleapps.ir/2020/05/at-16033687091037.jpg",
+          "https://cdn.appleapps.ir/2020/05/at-16033687101892.jpg",
+          "https://cdn.appleapps.ir/2020/05/at-16033687111629.jpg"
         ],
         },
         {
@@ -65,6 +145,21 @@
        "hhttps://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327076-1.jpg"
         ],
         },
+        {
+         "name": "آپ - آسان پرداخت",
+         "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
+         "version": "7.1.3",
+         "icon": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
+         "down": "https://dl3.apptrackr.ir/ios/2024/asanpardakht7.1.3.ipa",
+         "category": "Jailbreaks",
+         "description": "",
+         "screenshots": [
+           "https://app.appleapps.ir/storage/2020/05/at-16924605451382.jpg",
+           "https://app.appleapps.ir/storage/2020/05/at-16924605461693.jpg",
+           "https://app.appleapps.ir/storage/2020/05/at-16924605461607.jpg",
+           "https://app.appleapps.ir/storage/2020/05/at-16924605481201.jpg"
+         ],
+         },
         {
         "name": "پولکی",
         "developerName": "اپلیکیشن حسابداری شخصی",
@@ -99,9 +194,9 @@
         {
          "name": "جاباما",
          "developerName": "به راحت ترین شکل ویلا،هتل و اقامتگاه رزرو کنید !",
-         "version": "3.0.4",
+         "version": "3.0.7",
          "icon": "https://app.appleapps.ir/storage/2020/05/at-16894482531019-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/jabama3.0.4.ipa",
+         "down": "https://dl3.apptrackr.ir/ios/2024/jabama3.0.7.ipa",
          "category": "Jailbreaks",
          "description": "",
          "screenshots": [
@@ -142,37 +237,6 @@
            "https://cdn.appleapps.ir/2020/05/at-16267294921142-250x450.jpg",
            "https://cdn.appleapps.ir/2020/05/at-16267294911326-250x450.jpg",
            "https://cdn.appleapps.ir/2020/05/at-16267294891597-250x450.jpg"
-         ],
-         },
-        {
-         "name": "آپ - آسان پرداخت",
-         "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
-         "version": "7.1.2",
-         "icon": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/asanpardakht7.1.2.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://app.appleapps.ir/storage/2020/05/at-16924605451382.jpg",
-           "https://app.appleapps.ir/storage/2020/05/at-16924605461693.jpg",
-           "https://app.appleapps.ir/storage/2020/05/at-16924605461607.jpg",
-           "https://app.appleapps.ir/storage/2020/05/at-16924605481201.jpg"
-         ],
-         },
-        {
-         "name": "شمار",
-         "developerName": "دفتر حساب، انبار، فاکتور، حسابداری",
-         "version": "1.0.45",
-         "icon": "https://app.appleapps.ir/storage/2024/05/at-17151085241053-100x100.jpeg",
-         "down": "https://dl3.apptrackr.ir/ios/2024/shomar1.0.45.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://app.appleapps.ir/storage/2024/05/at-17151086431256-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/05/at-17151086412000-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/05/at-17151086391462-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/05/at-17151086461493-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/05/at-17151086441949-250x450.jpeg"
          ],
          },
         {
@@ -234,23 +298,6 @@
               "https://app.appleapps.ir/storage/2023/06/at-16872698701673.png",
               "https://app.appleapps.ir/storage/2023/06/at-16872698691805.png",
               "https://app.appleapps.ir/storage/2023/06/at-16872698681258.png"
-        ],
-        },
-        {
-         "name": "مدیریت فروشگاه",
-         "developerName": "اشخاص، انبار، امور مالی و گزارش‌ها",
-         "version": "1.5.7",
-         "icon": "https://app.appleapps.ir/storage/2023/07/at-16903569431355-100x100.jpeg",
-         "down": "https://dl3.apptrackr.ir/ios/2024/shopmanger1.5.7.ipa",
-         "category": "Jailbreaks",
-         "changelog": "",
-         "screenshots": [
-         "https://app.appleapps.ir/storage/2023/07/at-16903569961243-250x450.jpeg",
-         "https://app.appleapps.ir/storage/2023/07/at-16903569961899-250x450.jpeg",
-         "https://app.appleapps.ir/storage/2023/07/at-16903569951485-250x450.jpeg",
-         "https://app.appleapps.ir/storage/2023/07/at-16903570001768-250x450.jpeg",
-         "https://app.appleapps.ir/storage/2023/07/at-16903569991813-250x450.jpeg",
-         "https://app.appleapps.ir/storage/2023/07/at-16903569981422-250x450.jpeg"
         ],
         },
         {
@@ -372,22 +419,6 @@
         ],
         },
         {
-         "name": "ایرانیکارت",
-         "developerName": "پلتفرم تبادلات مالی بین‌المللی",
-         "version": "2.0.1",
-         "icon": "https://app.appleapps.ir/storage/2024/04/at-17126630491097-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/iranicard2.0.1.ipa",
-         "category": "Jailbreaks",
-         "screenshots": [
-         "https://app.appleapps.ir/storage/2024/04/at-17126631581032-250x450.jpg",
-         "https://app.appleapps.ir/storage/2024/04/at-17126631581730-250x450.jpg",
-         "https://app.appleapps.ir/storage/2024/04/at-17126631571441-250x450.jpg",
-         "https://app.appleapps.ir/storage/2024/04/at-17126631561570-250x450.jpg",
-         "https://app.appleapps.ir/storage/2024/04/at-17126631551768-250x450.jpg",
-         "https://app.appleapps.ir/storage/2024/04/at-17126631541907-250x450.jpg"
-        ],
-        },
-        {
          "name": "هفـ‌هشتاد (#780*)",
          "developerName": "خرید شارژ ، بسته اینترنتی ، کارت به کارت",
          "version": "4.1.6",
@@ -432,22 +463,6 @@
           "https://app.appleapps.ir/storage/2023/10/at-16985666171545-250x450.png",
           "https://app.appleapps.ir/storage/2023/10/at-16985666161318-250x450.png",
           "https://app.appleapps.ir/storage/2023/10/at-16985666151378-250x450.png"
-        ],
-        },
-        {
-        "name": "هامون | Hamoon",
-        "developerName": "هویت الکترونیکی موبایلی نوین",
-        "bundleIdentifier": "app.hamoon.ios",
-        "version": "3.5.0",
-        "icon": "https://app.appleapps.ir/storage/2024/03/at-17107676931138-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/hamoon3.5.0.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://app.appleapps.ir/storage/2024/03/at-17107677341702-250x450.png",
-          "https://app.appleapps.ir/storage/2024/03/at-17107677331161-250x450.png",
-          "https://app.appleapps.ir/storage/2024/03/at-17107677321351-250x450.png",
-          "https://app.appleapps.ir/storage/2024/03/at-17107677351163-250x450.png",
-          "https://app.appleapps.ir/storage/2024/03/at-17107677351715-250x450.png"
         ],
         },
          {
@@ -631,21 +646,6 @@
            ],
            },
            {
-           "name": "اسپارس | ‌Sparse",
-           "developerName": "سرویس دانلود و استریم موزیک",
-           "version": "10.8.1",
-           "icon": "https://cdn.appleapps.ir/2020/05/at-15896269041389-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2024/sparse10.8.1.ipa",
-           "category": "Jailbreaks",
-           "screenshots": [
-             "https://cdn.appleapps.ir/2020/05/at-16033687051281.jpg",
-             "https://cdn.appleapps.ir/2020/05/at-16033687071548.jpg",
-             "https://cdn.appleapps.ir/2020/05/at-16033687091037.jpg",
-             "https://cdn.appleapps.ir/2020/05/at-16033687101892.jpg",
-             "https://cdn.appleapps.ir/2020/05/at-16033687111629.jpg"
-           ],
-           },
-           {
            "name": "آنتن",
            "developerName": "تلوزیون اینترنتی آنتن : پخش زنده مسابقات ورزشی",
            "version": "4.1.0",
@@ -763,9 +763,9 @@
            {
            "name": "Nobitex | نوبیتکس",
            "developerName": "صرافی آنلاین - خرید فروش ارز دیجیتال",
-           "version": "2.4.0",
+           "version": "3.1.0",
            "icon": "https://app.appleapps.ir/storage/2022/02/at-16839460771868-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2024/nubitex2.4.0.ipa",
+           "down": "https://dl3.apptrackr.ir/ios/2024/nobitex3.1.0.ipa",
            "changelog": "تغییرات آخرین نسخه ( 2.4.0 ) - اضافه شدن دفتر آدرس و برداشت امن - رفع مشکلات گزارش شده و بهبود عملکرد برنامه",
            "category": "Jailbreaks",
            "screenshots": [
@@ -835,8 +835,8 @@
             "name": "Captions Pro",
             "developerName": "زیرنویس خودکار و ویرایش ویدیو",
             "bundleIdentifier": "boomer.Smart-Video",
-            "version": "11.49.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Captions11.49.0.ipa",
+            "version": "11.51.2",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Captions11.51.2.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/07/at-17220070961444-100x100.jpg",
@@ -852,6 +852,135 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/02/at-17069607131705-100x100.jpg",
             "appstore": "com.tickettothemoon.video.persona"
+        },
+        {
+            "name": "Instagram Rocket",
+            "developerName": "اینستاگرام پیشرفته راکت - آنلاک شده",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "344.0.9-3.8.27",
+            "date": "2024-08-13",
+            "size": 167194415,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-13-2024/InstaRocketCracked-344.0.9-3.8.27.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+            "appstore": "com.burbn.instagram"
+        },
+         {
+            "name": "Instagarm Rocket Duplicate",
+            "developerName": "اینستاگرام پیشرفته مود شده ( نسخه مجزا ، داپلیکیت )",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "342.0.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Rocket342.0.3.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
+            "appstore": "com.burbn.instagram"
+        },
+         {
+             "name": "CamScanner Pro",
+             "developerName": "نسخه آنلاک شده قدرتمند ترین برنامه اسکنر",
+             "bundleIdentifier": "com.intsig.CamScannerLite",
+             "version": "6.70.0",
+             "date": "2024-08-11",
+             "size": 139889789,
+             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2024/CamScannerPremium-6.70.0.ipa",
+             "category": "Tweaked Apps",
+             "developerName": "",
+             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.intsig.CamScannerLite.png",
+             "appstore": "com.intsig.CamScannerLite"
+         },
+         {
+            "name": "Documents Pro",
+            "developerName": "بهترین فایل منیجر و دانلودر آی او اس",
+            "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
+            "version": "8.12.5",
+            "date": "2024-08-11",
+            "size": 161297484,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2024/DocumentsPlus-8.12.5.ipa",
+            "category": "Tweaked Apps",
+            "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png",
+            "appstore": "com.readdle.ReaddleDocsIPad"
+         },
+         {
+             "name": "Facetune 2 Pro",
+             "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
+             "bundleIdentifier": "com.lightricks.Facetune2",
+             "version": "3.63.3",
+             "date": "2024-08-11",
+             "size": 317506233,
+             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-11-2024/FacetunePro-3.63.3.ipa",
+             "category": "Tweaked Apps",
+             "developerName": "",
+             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png",
+             "appstore": "com.lightricks.Facetune2"
+         },
+         {
+             "name": "Infuse Pro",
+             "developerName": "نسخه پریمیوم نسل هفتم",
+             "bundleIdentifier": "com.firecore.infuse",
+             "appstore": "com.firecore.infuse",
+             "version": "7.8.1-1.2.0",
+             "date": "2024-08-09",
+             "size": 42456684,
+             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-09-2024/InfusePro-7.8.1-1.2.0.ipa",
+             "category": "Tweaked Apps",
+             "developerName": "",
+             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
+         },
+         {
+             "name": "Spotify Premium",
+             "developerName": "اسپاتیفای پریمیوم با قابلیت پخش بدون محدودیت",
+             "bundleIdentifier": "com.spotify.client",
+             "version": "8.9.64-4.7",
+             "date": "2024-08-11",
+             "size": 77441278,
+             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-10-2024/EeveeSpotify-8.9.64-4.7.ipa",
+             "category": "Tweaked Apps",
+             "developerName": "",
+             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
+             "appstore": "com.spotify.client"
+
+         },
+         {
+             "name": "BeautyPlus Pro",
+             "developerName": "دوربین سلفی، اپلیکیشن چهره و استودیو تصاویر",
+             "bundleIdentifier": "com.commsource.BeautyPlus",
+             "version": "7.7.130",
+             "date": "2024-08-08",
+             "size": 255162039,
+             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-08-2024/BeautyPlusPremium-7.7.130.ipa",
+             "category": "Tweaked Apps",
+             "developerName": "",
+             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
+             "appstore": "com.commsource.BeautyPlus"
+         },
+         {
+             "name": "InShot Pro",
+             "developerName": "اینشات بهترین برنامه ویرایش ویدیو و ابزار ادمین پیج ها",
+             "bundleIdentifier": "com.camerasideas.InstaShot",
+             "version": "1.79.1",
+             "date": "2024-08-06",
+             "size": 164993226,
+             "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-06-2024/InShotPro-1.79.1.ipa",
+             "category": "Tweaked Apps",
+             "developerName": "",
+             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
+             "appstore": "com.camerasideas.InstaShot"
+         },
+         {
+            "name": "Picsart++",
+            "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
+            "bundleIdentifier": "com.picsart.studio",
+            "version": "25.4.2",
+            "date": "2024-08-04",
+            "size": 104037825,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-04-2024/PicsArtPlusPlus-25.4.2.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
         },
         {
             "name": "WebSSH Pro",
@@ -881,27 +1010,14 @@
             "name": "Nicegram Premium",
             "developerName": "تلگرام با امکانات پیشرفته",
             "bundleIdentifier": "app.nicegram",
-            "version": "1.6.5",
-            "date": "2024-07-13",
-            "size": 104911945,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-13-2024/Nicegram-1.6.5.ipa",
+            "version": "1.6.9",
+            "date": "2024-08-05",
+            "size": 103531729,
+            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-05-2024/Nicegram-1.6.9.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/app.nicegram.png",
             "appstore": "app.nicegram"
-        },
-        {
-            "name": "InShot Pro",
-            "developerName": "اینشات بهترین برنامه ویرایش ویدیو و ابزار ادمین پیج ها",
-            "bundleIdentifier": "com.camerasideas.InstaShot",
-            "version": "1.79.0",
-            "date": "2024-07-12",
-            "size": 161103425,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-12-2024/InShotPro-1.79.0.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.camerasideas.InstaShot.png",
-            "appstore": "com.camerasideas.InstaShot"
         },
         {
             "name": "Aloha Browser Premium",
@@ -916,58 +1032,6 @@
             "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.alohabrowser.alohabrowser.png",
             "appstore": "com.alohabrowser.alohabrowser"
         },
-        {
-            "name": "BeautyPlus Pro",
-            "developerName": "دوربین سلفی، اپلیکیشن چهره و استودیو تصاویر",
-            "bundleIdentifier": "com.commsource.BeautyPlus",
-            "version": "7.7.121",
-            "date": "2024-07-11",
-            "size": 256785626,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/BeautyPlusPremium-7.7.121.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.commsource.BeautyPlus.png",
-            "appstore": "com.commsource.BeautyPlus"
-        },
-        {
-            "name": "Spotify Premium",
-            "developerName": "اسپاتیفای پریمیوم با قابلیت پخش بدون محدودیت",
-            "bundleIdentifier": "com.spotify.client",
-            "version": "8.9.58-4.5",
-            "date": "2024-07-21",
-            "size": 76177478,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-21-2024/EeveeSpotify-8.9.58-4.5.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
-            "appstore": "com.spotify.client"
-
-        },
-        {
-            "name": "Facetune 2 Pro",
-            "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
-            "bundleIdentifier": "com.lightricks.Facetune2",
-            "version": "3.60.1",
-            "date": "2024-07-11",
-            "size": 340466594,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-11-2024/FacetunePro-3.60.1.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.lightricks.Facetune2.png",
-            "appstore": "com.lightricks.Facetune2"
-        },
-        {
-           "name": "Picsart++",
-           "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
-           "bundleIdentifier": "com.picsart.studio",
-           "version": "25.3.2",
-           "date": "2024-07-09",
-           "size": 102428835,
-           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-09-2024/PicsArtPlusPlus-25.3.2.ipa",
-           "category": "Tweaked Apps",
-           "developerName": "",
-           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.picsart.studio.png",
-       },
         {
             "name": "Reelsapp Pro",
             "developerName": "ساخت ریلز و ادیتور استوری",
@@ -1015,57 +1079,6 @@
           "developerName": "",
           "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17171567141630-100x100.jpg",
           "appstore": "com.mkapps.logoMakerApp"
-        },
-        {
-            "name": "Infuse Pro",
-            "developerName": "نسخه پریمیوم نسل هفتم",
-            "bundleIdentifier": "com.firecore.infuse",
-            "appstore": "com.firecore.infuse",
-            "version": "7.8-1.2.0",
-            "date": "2024-06-19",
-            "size": 39678930,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-19-2024/InfusePro-7.8-1.2.0.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.firecore.infuse.png"
-        },
-        {
-           "name": "Documents Pro",
-           "developerName": "بهترین فایل منیجر و دانلودر آی او اس",
-           "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-           "version": "8.12",
-           "date": "2024-06-29",
-           "size": 158832943,
-           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/06-29-2024/DocumentsPlus-8.12.ipa",
-           "category": "Tweaked Apps",
-           "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
-           "developerName": "",
-           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.ReaddleDocsIPad.png",
-           "appstore": "com.readdle.ReaddleDocsIPad"
-        },
-        {
-            "name": "Instagram Rocket",
-            "developerName": "اینستاگرام پیشرفته راکت - آنلاک شده",
-            "bundleIdentifier": "com.burbn.instagram",
-            "version": "341.0.1-1.0b8",
-            "date": "2024-07-23",
-            "size": 169827398,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/07-23-2024/InstagramRegramCracked-341.0.1-1.0b8.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-            "appstore": "com.burbn.instagram"
-        },
-         {
-            "name": "Instagarm Rocket Duplicate",
-            "developerName": "اینستاگرام پیشرفته مود شده ( نسخه مجزا ، داپلیکیت )",
-            "bundleIdentifier": "com.burbn.instagram",
-            "version": "336.1.8",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Rocket336.1.8.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.burbn.instagram.png",
-            "appstore": "com.burbn.instagram"
         },
         {
             "name": "CapCut Pro",
@@ -1122,17 +1135,6 @@
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/07/at-16883391671762-100x100.jpg"
-        },
-        {
-            "name": "CamScanner Pro",
-            "developerName": "نسخه آنلاک شده قدرتمند ترین برنامه اسکنر",
-            "bundleIdentifier": "com.intsig.CamScannerLite",
-            "version": "6.67.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/CamScanner6.67.1.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.intsig.CamScannerLite.png",
-            "appstore": "com.intsig.CamScannerLite"
         },
         {
            "name": "Scanner Pro",
@@ -1221,8 +1223,8 @@
            "name": "AnkiMobile Flashcards",
            "developerName": "فلش کارت هوشمند و قدرتمند",
            "bundleIdentifier": "net.ichi2.anki",
-           "version": "24.04",
-           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/AnkiMobileFlashcardsv24.04.ipa",
+           "version": "24.08",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/AnkiMobileFlashcardsv24.08.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17132461261303-100x100.jpg",
@@ -1792,12 +1794,12 @@
             "name": "Need for Speed No Limits VIP Hack",
             "developerName": "نسخه هک شده",
             "bundleIdentifier": "com.ea.nfs2014.bv",
-            "version": "7.7.21",
+            "version": "7.8.01",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/NoLimits7.7.21.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/NoLimits7.8.01.ipa",
             "category": "Emulators",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17185530191389-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/08/at-17227071301633-100x100.jpg",
             "appstore": "com.ea.nfs2014.bv"
         },
         {
