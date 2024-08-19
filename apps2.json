@@ -13,32 +13,32 @@
     ],
     "apps": [
         {
-            "id": "MovieBoxPro",
-            "name": "MovieBoxPro",
+            "id": "BluBank",
+            "name": "بلوبانک",
             "bundleIdentifier": "com.xd.mbp31",
-            "developerName": "MovieBoxPro Team",
-            "filename": "MovieBoxPro (Normal).ipa",
+            "developerName": "BluBank",
+            "filename": "بلو",
             "skipPrerelease": false,
-            "subtitle": "Watch movies for free. this will update straight from their source!",
-            "localizedDescription": "Watch movies for free. this will update straight from their source!",
-            "iconURL": "https:\/\/apps.nabzclan.vip\/images\/1688883976.webp",
+            "subtitle": "بلو بانک، یک بانک تمام دیجیتال",
+            "localizedDescription": "بلو بانک، یک بانک تمام دیجیتال۲",
+            "iconURL": "https://app.appleapps.ir/storage/2021/04/at-16841450241269-100x100.jpg",
             "tintColor": "FFC300",
             "screenshotURLs": [
                 "https:\/\/apps.nabzclan.vip\/screenshots\/"
             ],
             "version": "Auto Update",
-            "category": "Nabzclan",
+            "category": "همراه بانک",
             "versionDate": "2024-08-19 02:34:34",
             "versionDescription": "Full changelog: \nhttps:\/\/apps.nabzclan.vip\/apps\/movieboxpro-normal",
             "information": [
                 {
-                    "item": "MovieBoxPro (Normal)",
+                    "item": "بلو۳",
                     "version": "Auto Update",
                     "authors": "MovieBoxPro Team",
                     "url": "https:\/\/apps.nabzclan.vip\/apps\/movieboxpro-normal"
                 }
             ],
-            "downloadURL": "https:\/\/apps.nabzclan.vip\/download\/73",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/blu3.1.0.ipa",
             "size": "131.14 B"
         },
         {
