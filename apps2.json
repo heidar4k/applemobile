@@ -13,8 +13,8 @@
     ],
     "apps": [
         {
-            "id": "MovieBoxPro (Normal)",
-            "name": "MovieBoxPro (Normal)",
+            "id": "MovieBoxPro",
+            "name": "MovieBoxPro",
             "bundleIdentifier": "com.xd.mbp31",
             "developerName": "MovieBoxPro Team",
             "filename": "MovieBoxPro (Normal).ipa",
@@ -28,7 +28,7 @@
             ],
             "version": "Auto Update",
             "category": "Nabzclan",
-            "versionDate": "2023-07-21 02:34:34",
+            "versionDate": "2024-08-19 02:34:34",
             "versionDescription": "Full changelog: \nhttps:\/\/apps.nabzclan.vip\/apps\/movieboxpro-normal",
             "information": [
                 {
