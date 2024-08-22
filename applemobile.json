@@ -29,6 +29,36 @@
     "Jailbreaks": [
 
         {
+        "name": "فیلیمو",
+        "developerName": "فیلم و سریال ایرانی و خارجی با دوبله",
+        "version": "5.13.14",
+        "icon": "https://cdn.appleapps.ir/2020/05/at-15896268521401-100x100.png",
+        "down": "https://dl3.apptrackr.ir/ios/2024/filimo5.13.14.ipa",
+        "category": "Jailbreaks",
+        "screenshots": [
+          "https://app.appleapps.ir/storage/2020/05/at-16973646891885.jpeg",
+          "https://app.appleapps.ir/storage/2020/05/at-16973646891163.jpeg",
+          "https://app.appleapps.ir/storage/2020/05/at-16973646881459.jpeg",
+          "https://app.appleapps.ir/storage/2020/05/at-16973646911437.jpeg",
+          "https://app.appleapps.ir/storage/2020/05/at-16973646901437.jpeg"
+        ],
+        },
+        {
+         "name": "جاباما",
+         "developerName": "به راحت ترین شکل ویلا،هتل و اقامتگاه رزرو کنید !",
+         "version": "3.0.9",
+         "icon": "https://app.appleapps.ir/storage/2020/05/at-16894482531019-100x100.png",
+         "down": "https://dl3.apptrackr.ir/ios/2024/jabama3.0.9.ipa",
+         "category": "Jailbreaks",
+         "description": "",
+         "screenshots": [
+           "https://cdn.appleapps.ir/2020/05/at-16371923171427-250x450.jpeg",
+           "https://cdn.appleapps.ir/2020/05/at-16371923131989-250x450.jpeg",
+           "https://cdn.appleapps.ir/2020/05/at-16371923091198-250x450.jpeg",
+           "https://cdn.appleapps.ir/2020/05/at-16371923091198-250x450.jpeg"
+         ],
+         },
+        {
          "name": "مدیریت فروشگاه",
          "developerName": "اشخاص، انبار، امور مالی و گزارش‌ها",
          "version": "1.6.0",
@@ -191,21 +221,6 @@
               "https://app.appleapps.ir/storage/2024/05/at-17157743381197-250x450.jpeg"
         ],
         },
-        {
-         "name": "جاباما",
-         "developerName": "به راحت ترین شکل ویلا،هتل و اقامتگاه رزرو کنید !",
-         "version": "3.0.7",
-         "icon": "https://app.appleapps.ir/storage/2020/05/at-16894482531019-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/jabama3.0.7.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://cdn.appleapps.ir/2020/05/at-16371923171427-250x450.jpeg",
-           "https://cdn.appleapps.ir/2020/05/at-16371923131989-250x450.jpeg",
-           "https://cdn.appleapps.ir/2020/05/at-16371923091198-250x450.jpeg",
-           "https://cdn.appleapps.ir/2020/05/at-16371923091198-250x450.jpeg"
-         ],
-         },
         {
          "name": "آبان تتر",
          "developerName": "صرافی ارز دیجیتال",
@@ -432,21 +447,6 @@
          "https://app.appleapps.ir/storage/2022/05/at-16966877311076.png",
          "https://app.appleapps.ir/storage/2022/05/at-16966877301909.jpeg",
          "https://app.appleapps.ir/storage/2022/05/at-16966877331866.png"
-        ],
-        },
-        {
-        "name": "فیلیمو",
-        "developerName": "فیلم و سریال ایرانی و خارجی با دوبله",
-        "version": "5.11.5",
-        "icon": "https://cdn.appleapps.ir/2020/05/at-15896268521401-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/filimo5.11.5555.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://app.appleapps.ir/storage/2020/05/at-16973646891885.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-16973646891163.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-16973646881459.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-16973646911437.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-16973646901437.jpeg"
         ],
         },
         {
@@ -831,6 +831,17 @@
     
     "Tweaked Apps": [
         
+        {
+           "name": "YouCam Perfect Pro",
+           "developerName": "دوربین حرفه ی با افکت های گذاری بر روی فیلم و عکس به صورت زنده",
+           "bundleIdentifier": "com.cyberlink.youperfect",
+           "version": "5.97.4",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/YouCamPerfect5.97.4.ipa",
+           "category": "Tweaked Apps",
+           "developerName": "",
+           "iconURL": "https://app.appleapps.ir/storage/2024/08/at-17242225231857-100x100.jpg",
+           "appstore": "com.cyberlink.youperfect"
+        },
         {
             "name": "Captions Pro",
             "developerName": "زیرنویس خودکار و ویرایش ویدیو",
@@ -1243,17 +1254,6 @@
            "appstore": "one4studio.wallpaper.one4wall"
         },
         {
-           "name": "YouCam Perfect Pro",
-           "developerName": "دوربین حرفه ی با افکت های گذاری بر روی فیلم و عکس به صورت زنده",
-           "bundleIdentifier": "com.cyberlink.youperfect",
-           "version": "5.76.1",
-           "downloadURL": "https://dl3.apptrackr.ir/ios/2022/YouCamPerfect_5.76.1.ipa",
-           "category": "Tweaked Apps",
-           "developerName": "",
-           "iconURL": "https://cdn.appleapps.ir/2023/01/at-16751255051606-100x100.jpg",
-           "appstore": "com.cyberlink.youperfect"
-        },
-        {
            "name": "Perfect365 (Unlocked)",
            "developerName": "ویرایشگر و آرایش عکس",
            "bundleIdentifier": "com.arcsoft.Perfect365",
@@ -1396,6 +1396,22 @@
     "Games": [
         
         {
+        "name": "موبایلت",
+        "developerName": "همراه بانک سامان",
+        "bundleIdentifier": "com.mobillet.application",
+        "version": "5.3.5",
+        "icon": "https://app.appleapps.ir/storage/2020/05/at-17005028251255-100x100.png",
+        "down": "https://dl3.apptrackr.ir/ios/2024/mobillet5.3.5.ipa",
+        "category": "Hacked Games",
+        "screenshots": [
+          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot1_Wg-hvWd6e_2022_12_08_13_48_19.jpeg",
+          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot2_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
+          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot3_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
+          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot4_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
+          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot5_Wg-hvWd6e_2022_12_08_13_48_20.jpeg"
+         ],
+         },
+        {
         "name": "سپینو",
         "developerName": "نئوبانک صادرات ایران",
         "bundleIdentifier": "com.rahand.qbank",
@@ -1424,22 +1440,6 @@
           "https://app.appleapps.ir/storage/2023/07/at-17130188241639.jpg",
           "https://app.appleapps.ir/storage/2023/07/at-17130188241345.jpg",
           "https://app.appleapps.ir/storage/2023/07/at-17130188251397.jpg"
-         ],
-         },
-        {
-        "name": "موبایلت",
-        "developerName": "همراه بانک سامان",
-        "bundleIdentifier": "com.mobillet.application",
-        "version": "5.3.1",
-        "icon": "https://app.appleapps.ir/storage/2020/05/at-17005028251255-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/mobillet5.3.1.ipa",
-        "category": "Hacked Games",
-        "screenshots": [
-          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot1_Wg-hvWd6e_2022_12_08_13_48_19.jpeg",
-          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot2_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
-          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot3_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
-          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot4_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
-          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot5_Wg-hvWd6e_2022_12_08_13_48_20.jpeg"
          ],
          },
         {
@@ -1913,9 +1913,9 @@
             "name": "Minecraft",
             "developerName": "بسازید، کشف کنید و زنده بمانید!",
             "bundleIdentifier": "com.mojang.minecraftpe",
-            "version": "1.21.2",
+            "version": "1.21.21",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Minecraftv1.21.2.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Minecraftv1.21.21.ipa",
             "category": "Emulators",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17187373621297-100x100.jpg",
