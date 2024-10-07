@@ -119,9 +119,9 @@
         "name": "هامون | Hamoon",
         "developerName": "هویت الکترونیکی موبایلی نوین",
         "bundleIdentifier": "app.hamoon.ios",
-        "version": "3.6.0",
+        "version": "3.7.0",
         "icon": "https://app.appleapps.ir/storage/2024/03/at-17107676931138-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/hamoon3.6.0.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/hamoon3.7.0.ipa",
         "category": "Jailbreaks",
         "screenshots": [
           "https://app.appleapps.ir/storage/2024/03/at-17107677341702-250x450.png",
@@ -150,9 +150,9 @@
         {
         "name": "اسپارس | ‌Sparse",
         "developerName": "سرویس دانلود و استریم موزیک",
-        "version": "10.8.2",
+        "version": "10.8.3",
         "icon": "https://cdn.appleapps.ir/2020/05/at-15896269041389-100x100.jpeg",
-        "down": "https://dl3.apptrackr.ir/ios/2024/sparce10.8.2.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/Sparse-v10.8.3.ipa",
         "category": "Jailbreaks",
         "screenshots": [
           "https://cdn.appleapps.ir/2020/05/at-16033687051281.jpg",
@@ -1093,13 +1093,11 @@
            "name": "Scanner Pro",
            "developerName": "نسخه پریمیوم اسکنری پیشرفته در جیب شما",
            "bundleIdentifier": "com.readdle.Scanner",
-           "version": "8.22.1",
-           "date": "2024-09-07",
-           "size": 181076109,
-           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-07-2024/ScannerProPlus-8.22.1.ipa",
+           "version": "8.19.1",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ScannerPro8.19.1.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.readdle.Scanner.png",
+           "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17178180581389-100x100.jpg",
            "appstore": "com.readdle.Scanner"
         },
         {
@@ -1117,13 +1115,11 @@
            "name": "Lightroom Premium",
            "developerName": "ویرایش قدرتمند تصاویر و عکاسی حرفه ای",
            "bundleIdentifier": "com.adobe.lrmobilephone",
-           "version": "9.5.0",
-           "date": "2024-08-14",
-           "size": 173915997,
-           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-14-2024/LightroomPremium-9.5.0.ipa",
+           "version": "9.5.1",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Lightroom9.5.1.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.lrmobilephone.png",
+           "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17192459891518-100x100.jpg",
            "appstore": "com.adobe.lrmobilephone"
         },
         {
@@ -1164,12 +1160,11 @@
            "developerName": "بهترین پلیر ، پشتیبانی زیرنویس فارسی",
            "bundleIdentifier": "com.newin.nplayer",
            "version": "3.12.17",
-           "date": "2023-12-19",
-           "size": 42439541,
-           "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/12-19-2023/nPlayerPlus-3.12.17.ipa",
+           "version": "3.12.17",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2023/nPlayerPlusv3.12.17.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.newin.nplayer.png",
+           "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16959919051733-100x100.jpg",
            "appstore": "com.newin.nplayer"
         },
         {
@@ -1229,16 +1224,14 @@
            "appstore": "co.bazaart.app"
         },
         {
-            "name": "Duolingo Max",
+            "name": "Duolingo ++",
             "developerName": "آموزش زبان های خارجی ، نسخه بدون نیاز به خرید درونی",
             "bundleIdentifier": "com.duolingo.DuolingoMobile",
             "version": "7.37.1",
-            "date": "2024-09-08",
-            "size": 135865053,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/09-08-2024/DuolingoMax-7.37.1.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/DuolingoMobile_7.31.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.duolingo.DuolingoMobile.png",
+            "iconURL": "https://app.appleapps.ir/storage/2024/09/at-17272962091005-100x100.jpg",
             "appstore": "com.duolingo.DuolingoMobile"
         },
         {
@@ -1295,27 +1288,23 @@
             "name": "Photoshop Express Pro",
             "developerName": "برنامه شماره یک عکاسان و ادیتورهای حرفه ای",
             "bundleIdentifier": "com.adobe.PSMobile",
-            "version": "24.34.1",
-            "date": "2024-08-29",
-            "size": 161823920,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/08-29-2024/PhotoshopExpress-24.34.1.ipa",
+            "version": "24.37.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PSExpress24.37.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.adobe.PSMobile.png",
+            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17051651081292-100x100.jpg",
             "appstore": "com.adobe.PSMobile"
         },
         {
             "name": "YouTubeOLED",
             "developerName": "یوتیوب پیشرفته و حرفه‌ای برای دانلود و پخش",
             "bundleIdentifier": "com.google.ios.youtube",
-            "version": "19.02.1",
-            "versionDate": "2024-01-15",
-            "size": 121664954,
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/YouTubeOLED19.02.1.ipa",
+            "version": "19.12.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/YouTubeOLED19.12.3.ipaa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.google.ios.youtube.png",
+            "iconURL": "https://app.appleapps.ir/storage/2022/04/at-16883484541691-100x100.png",
             "appstore": "com.google.ios.youtube"
 
         },
@@ -1324,19 +1313,33 @@
             "developerName": "پیداکردن سرعت واقعی اینترنت و دانلود",
             "bundleIdentifier": "com.ookla.speedtest",
             "appstore": "com.ookla.speedtest",
-            "version": "5.3.1",
-            "date": "2024-03-31",
-            "size": 59896562,
-            "downloadURL": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/03-31-2024/SpeedTestPremium-5.3.1.ipa",
+            "version": "5.2.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Speedtest5.2.3Premium.ipa",
              "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.ookla.speedtest.png"
+            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17060116051635-100x100.jpg"
         },
         ],
     
     "Games": [
         
+        {
+        "name": "موبایلت",
+        "developerName": "همراه بانک سامان",
+        "bundleIdentifier": "com.mobillet.application",
+        "version": "5.3.6",
+        "icon": "https://app.appleapps.ir/storage/2020/05/at-17005028251255-100x100.png",
+        "down": "https://dl3.apptrackr.ir/ios/2024/mobillet5.3.6.ipa",
+        "category": "Hacked Games",
+        "screenshots": [
+          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot1_Wg-hvWd6e_2022_12_08_13_48_19.jpeg",
+          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot2_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
+          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot3_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
+          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot4_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
+          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot5_Wg-hvWd6e_2022_12_08_13_48_20.jpeg"
+         ],
+         },
         {
             "name": "همراه بام ملی",
             "developerName": "همراه بام ملی ( همراه بانک ملی )",
@@ -1382,22 +1385,6 @@
          "https://s3.anardoni.com/applications/2022/11/16/photos/PT2tHc4D7/screenshot3_PT2tHc4D7_2022_11_16_06_24_42.jpeg",
          "https://s3.anardoni.com/applications/2022/11/16/photos/PT2tHc4D7/screenshot2_PT2tHc4D7_2022_11_16_06_24_42.jpeg",
          "https://s3.anardoni.com/applications/2022/11/16/photos/PT2tHc4D7/screenshot1_PT2tHc4D7_2022_11_16_06_24_42.jpeg"
-         ],
-         },
-        {
-        "name": "موبایلت",
-        "developerName": "همراه بانک سامان",
-        "bundleIdentifier": "com.mobillet.application",
-        "version": "5.3.5",
-        "icon": "https://app.appleapps.ir/storage/2020/05/at-17005028251255-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/mobillet5.3.5.ipa",
-        "category": "Hacked Games",
-        "screenshots": [
-          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot1_Wg-hvWd6e_2022_12_08_13_48_19.jpeg",
-          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot2_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
-          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot3_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
-          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot4_Wg-hvWd6e_2022_12_08_13_48_20.jpeg",
-          "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot5_Wg-hvWd6e_2022_12_08_13_48_20.jpeg"
          ],
          },
         {
@@ -1736,12 +1723,12 @@
             "name": "Need for Speed No Limits VIP Hack",
             "developerName": "نسخه هک شده",
             "bundleIdentifier": "com.ea.nfs2014.bv",
-            "version": "7.8.01",
+            "version": "7.9.01",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/NoLimits7.8.01.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/NoLimits7.9.01.ipa",
             "category": "Emulators",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/08/at-17227071301633-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/09/at-17266973641656-100x100.jpg",
             "appstore": "com.ea.nfs2014.bv"
         },
         {
