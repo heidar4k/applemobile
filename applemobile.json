@@ -10,9 +10,9 @@
         {
          "name": "GBox",
          "developerName": "iOS signing and testing tool",
-         "version": "5.6.1",
+         "version": "5.6.6",
          "icon": "https://gbox.run/Public/resources/icon256.png",
-         "down": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios%2Fdeveloper%2FGBoxTS_v5.6.1.ipa",
+         "down": "https://ts.gbox.run/TS2/GBoxTS_v5.6.6.ipa",
          "category": "Developer"
         },
         ],
