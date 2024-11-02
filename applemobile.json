@@ -20,6 +20,22 @@
     "Jailbreaks": [
 
         {
+        "name": "Bama | باما",
+        "developerName": "بازار خودرو",
+        "version": "4.0.0",
+        "icon": "https://app.appleapps.ir/storage/2020/05/at-17302269921221-100x100.jpeg",
+        "down": "https://dl3.apptrackr.ir/ios/2024/bama4.0.0.ipa",
+        "category": "Jailbreaks",
+        "screenshots": [
+          "https://app.appleapps.ir/storage/2020/05/at-17302270481737.jpeg",
+          "https://app.appleapps.ir/storage/2020/05/at-17302270471259.jpeg",
+          "https://app.appleapps.ir/storage/2020/05/at-17302270461414.jpeg",
+          "https://app.appleapps.ir/storage/2020/05/at-17302270461112.jpeg",
+          "https://app.appleapps.ir/storage/2020/05/at-17302270491952.jpeg",
+          "https://app.appleapps.ir/storage/2020/05/at-17302270491784.jpeg"
+        ],
+        },
+        {
         "name": "Asa Trader | کارگزاری آگاه",
         "developerName": "معاملات آنلاین کارگزاری آگاه",
         "version": "3.42.3",
@@ -83,9 +99,9 @@
         {
         "name": "دیوار",
         "developerName": "محل انتشار رایگان انواع آگهی",
-        "version": "11.29.6",
+        "version": "12.0.1",
         "icon": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/divar11.29.6.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/divar12.0.1.ipa",
         "category": "Jailbreaks",
         "screenshots": [
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_1.jpg",
@@ -179,9 +195,9 @@
         {
         "name": "نشان |‌ Neshan",
         "developerName": "نقشه و مسیریاب سخن‌گوی فارسی",
-        "version": "6.3.0",
+        "version": "6.3.1",
         "icon": "https://app.appleapps.ir/storage/2020/05/at-16873926291816-100x100.jpeg",
-        "down": "https://dl3.apptrackr.ir/ios/2024/neshan6.3.0.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/neshan6.3.1.ipa",
         "category": "Jailbreaks",
   "screenshots": [
        "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/8.jpg",
@@ -198,9 +214,9 @@
         {
          "name": "آپ - آسان پرداخت",
          "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
-         "version": "7.1.3",
+         "version": "7.3.0",
          "icon": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/asanpardakht7.1.3.ipa",
+         "down": "https://dl3.apptrackr.ir/ios/2024/asanpardakht7.3.0.ipa",
          "category": "Jailbreaks",
          "description": "",
          "screenshots": [
@@ -213,9 +229,9 @@
         {
         "name": "پولکی",
         "developerName": "اپلیکیشن حسابداری شخصی",
-        "version": "3.2.0",
+        "version": "3.3.1",
         "icon": "https://app.appleapps.ir/storage/2022/03/at-16888318791710-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/poolaki3.2.0.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/poolaki3.3.1.ipa",
         "category": "Jailbreaks",
         "screenshots": [
             "https://app.appleapps.ir/storage/2022/03/at-16888320141965.png",
@@ -244,9 +260,9 @@
         {
          "name": "آبان تتر",
          "developerName": "صرافی ارز دیجیتال",
-         "version": "4.0.0",
+         "version": "4.0.1",
          "icon": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/abanthter4.0.0.ipa",
+         "down": "https://dl3.apptrackr.ir/ios/2024/abantether4.0.1.ipa",
          "category": "Jailbreaks",
          "description": "",
          "screenshots": [
@@ -277,9 +293,9 @@
         {
          "name": "رمز ساز ریما",
          "developerName": "تولید رمز یکبار مصرف صادرات ( رمز ساز ریما )",
-         "version": "1.8.0",
+         "version": "1.8.2",
          "icon": "https://app.appleapps.ir/storage/2020/05/at-16894495501633-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/rima1.8.0.ipa",
+         "down": "https://dl3.apptrackr.ir/ios/2024/rima1.8.2.ipa",
          "category": "Jailbreaks",
          "description": "",
          "screenshots": [
@@ -393,34 +409,6 @@
            "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R7.jpg"
          ],
          },
-        {
-            "name": "دبرنا (آنلاین)",
-            "developerName": "یک بازی اعتیاد آور!",
-            "version": "3.2.0",
-            "icon": "https://app.appleapps.ir/storage/2020/05/at-17016970931259-100x100.jpeg",
-            "down": "https://dl3.apptrackr.ir/d7c9062ba6f1d4679086a5cdca0e8caa/lrKIW6dCIxFenjGY6fezYf.ipa",
-            "category": "Jailbreaks",
-            "screenshots": [
-                "https://app.appleapps.ir/storage/2020/05/at-17107970951080-250x450.jpeg",
-                "https://app.appleapps.ir/storage/2020/05/at-17107970931009-250x450.jpeg",
-                "https://app.appleapps.ir/storage/2020/05/at-17107970921831-250x450.png",
-                "https://app.appleapps.ir/storage/2020/05/at-17107970911622-250x450.jpeg",
-                "https://app.appleapps.ir/storage/2020/05/at-17107970901365-250x450.jpeg"        ],
-        },
-        {
-            "name": "گیم باکس آنلاین",
-            "developerName": "حکم و شلم آنلاین",
-            "version": "1.0",
-            "icon": "https://app.appleapps.ir/storage/2024/04/at-17139914971597-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/gamebox1.ipa",
-            "category": "Jailbreaks",
-            "screenshots": [
-                "https://app.appleapps.ir/storage/2024/04/at-17139915731386-250x450.jpeg",
-                "https://app.appleapps.ir/storage/2024/04/at-17139915731114-250x450.jpeg",
-                "https://app.appleapps.ir/storage/2024/04/at-17139915721642-250x450.jpeg",
-                "https://app.appleapps.ir/storage/2024/04/at-17139915751019-250x450.jpeg",
-                "https://app.appleapps.ir/storage/2024/04/at-17139915741028-250x450.jpeg"        ],
-        },
         {
             "name": "فرهاد اکسچنج",
             "developerName": "صرافی ارز دیجیتال",
@@ -754,9 +742,9 @@
            {
            "name": "Nobitex | نوبیتکس",
            "developerName": "صرافی آنلاین - خرید فروش ارز دیجیتال",
-           "version": "3.2.0",
+           "version": "3.3.0",
            "icon": "https://app.appleapps.ir/storage/2022/02/at-16839460771868-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2024/nobitex3.2.0.ipa",
+           "down": "https://dl3.apptrackr.ir/ios/2024/nobitex3.3.0.ipa",
            "category": "Jailbreaks",
            "screenshots": [
            "https://app.appleapps.ir/storage/2022/02/at-16839460991610-250x450.jpeg",
@@ -872,29 +860,29 @@
             "developerName": "فیلتر روتوش و آرایش صورت",
             "bundleIdentifier": "com.tickettothemoon.video.persona",
             "version": "1.11.14",
-            "downloadURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios%2Fipa%2Ftweaked%2FPersona1.11.14.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/dfef0ee4cf6724d4bb8475bc652b32f4.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/02/at-17069607131705-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17301703841305-100x100.jpg",
             "appstore": "com.tickettothemoon.video.persona"
         },
         {
-            "name": "Instagram Rocket",
+            "name": "Instagram Rocket Cracked",
             "developerName": "اینستاگرام پیشرفته راکت - آنلاک شده",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "352.2.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Instagram352.2.0Rocket.ipa",
+            "version": "355.0.0.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Instagramx355.0.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2020/06/at-16930276561236-100x100.png",
             "appstore": "com.burbn.instagram"
         },
          {
-            "name": "Instagarm Rocket Duplicate",
+            "name": "Instagram Rocket Cracked Duplicate",
             "developerName": "اینستاگرام پیشرفته مود شده ( نسخه مجزا ، داپلیکیت )",
             "bundleIdentifier": "com.burbn.instagram",
-            "version": "352.2.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Rocket352.2.0.ipa",
+            "version": "355.0.0.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Rocketx355.0.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2020/06/at-16930276561236-100x100.png",
@@ -935,15 +923,15 @@
              "appstore": "com.lightricks.Facetune2"
          },
          {
-             "name": "Infuse Pro",
-             "developerName": "نسخه پریمیوم نسل هفتم",
+             "name": "Infuse 8 Pro",
+             "developerName": "نسخه پریمیوم نسل هشتم",
              "bundleIdentifier": "com.firecore.infuse",
              "appstore": "com.firecore.infuse",
-             "version": "7.8.3",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Infuse7.8.3.ipa",
+             "version": "8.0.2",
+             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Infuse8.0.2.ipa",
              "category": "Tweaked Apps",
              "developerName": "",
-             "iconURL": "https://app.appleapps.ir/storage/2024/09/at-17268529091815-100x100.jpg"
+             "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17293473171467-100x100.jpg"
          },
          {
              "name": "Spotify Premium",
@@ -972,8 +960,8 @@
             "name": "Picsart++",
             "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
             "bundleIdentifier": "com.picsart.studio",
-            "version": "25.9.3",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/752c79968a62929ec1870792798c7f1e.ipa",
+            "version": "26.1.2",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PicsArt26.1.2.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17286067231368-100x100.jpg",
@@ -993,8 +981,8 @@
             "name": "Aloha Browser Premium",
             "developerName": "مرورگر، فایل منیجر، دانلودر",
             "bundleIdentifier": "com.alohabrowser.alohabrowser",
-            "version": "6.2.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Aloha6.2.0.ipa",
+            "version": "6.2.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Aloha6.2.1.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/09/at-17255698861389-100x100.jpg",
@@ -1037,11 +1025,11 @@
             "name": "CapCut Pro",
             "developerName": "نسخه پرو محبوب ترین اپ ویرایش ویدیو",
             "bundleIdentifier": "com.lemon.lvoverseas",
-            "version": "9.3.3.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/capcut-v9.3.3-fix.ipa",
+            "version": "12.0",
+            "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/jbU3yeLtujQsvZO2B8dw83.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/icons/capcut.png",
+            "iconURL": "https://app.appleapps.ir/storage/2024/07/at-17219119371834-100x100.jpg",
             "appstore": "com.lemon.lvoverseas"
         },
         {
@@ -1093,8 +1081,8 @@
            "name": "Scanner Pro",
            "developerName": "نسخه پریمیوم اسکنری پیشرفته در جیب شما",
            "bundleIdentifier": "com.readdle.Scanner",
-           "version": "8.19.1",
-           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ScannerPro8.19.1.ipa",
+           "version": "8.24.2",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ScannerPro8.24.2.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
            "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17178180581389-100x100.jpg",
@@ -1383,9 +1371,9 @@
         "name": "موبایلت",
         "developerName": "همراه بانک سامان",
         "bundleIdentifier": "com.mobillet.application",
-        "version": "5.3.6",
+        "version": "5.3.7",
         "icon": "https://app.appleapps.ir/storage/2020/05/at-17005028251255-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/mobillet5.3.6.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/mobillet5.3.7.ipa",
         "category": "Hacked Games",
         "screenshots": [
           "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot1_Wg-hvWd6e_2022_12_08_13_48_19.jpeg",
@@ -1398,9 +1386,9 @@
           {
             "name": "همراه بام ملی",
             "developerName": "همراه بام ملی ( همراه بانک ملی )",
-            "version": "4.4.4",
+            "version": "4.4.6",
             "icon": "https://app.appleapps.ir/storage/2020/05/at-17011157511255-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/baam4.4.4.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2024/baam4.4.6.ipa",
             "category": "Hacked Games",
             "screenshots": [
               "https://cdn.appleapps.ir/2020/05/at-16030995271444-250x450.jpeg",
@@ -1778,9 +1766,9 @@
             "name": "Hitman Sniper",
             "developerName": "بازی محبوب هیتمن",
             "bundleIdentifier": "com.squareenixmontreal.hitmansniper",
-            "version": "1.10",
+            "version": "1.11",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/HitmanSniperv1.10.277097.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/HitmanSniperv1.11.ipa",
             "category": "Emulators",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17194214601256-100x100.jpg",
@@ -1873,9 +1861,9 @@
             "name": "Minecraft",
             "developerName": "بسازید، کشف کنید و زنده بمانید!",
             "bundleIdentifier": "com.mojang.minecraftpe",
-            "version": "1.21.31",
+            "version": "1.21.43",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Minecraft1.21.31.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Minecraft1.21.43.ipa",
             "category": "Emulators",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17187373621297-100x100.jpg",
