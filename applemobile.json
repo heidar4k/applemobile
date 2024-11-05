@@ -1284,15 +1284,15 @@
             "appstore": "com.adobe.PSMobile"
         },
         {
-            "name": "YouTubeOLED",
-            "developerName": "یوتیوب پیشرفته و حرفه‌ای برای دانلود و پخش",
+            "name": "YouTube++ Killer",
+            "developerName": "یوتیوب پیشرفته با قابلیت دانلود",
             "bundleIdentifier": "com.google.ios.youtube",
             "version": "19.12.3",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/YouTubeOLED19.12.3.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/YouTube19.22.6.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://app.appleapps.ir/storage/2022/04/at-16883484541691-100x100.png",
+            "iconURL": "https://cdn.appleapps.ir/2020/05/at-15900721831369-100x100.png",
             "appstore": "com.google.ios.youtube"
 
         },
