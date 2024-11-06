@@ -20,6 +20,18 @@
     "Jailbreaks": [
 
         {
+        "name": "کاست | Cassett",
+        "developerName": " دانلود و پخش به صورت آنلاین موزیک‌های ایرانی و خارجی",
+        "version": "1.0.6",
+        "icon": "https://app.appleapps.ir/storage/2024/10/at-17291606861850-100x100.png",
+        "down": "https://dl3.apptrackr.ir/ios/2024/cassett1.0.6.ipa",
+        "category": "Jailbreaks",
+        "screenshots": [
+          "https://app.appleapps.ir/storage/2024/10/at-17291607091309-250x450.png",
+          "https://app.appleapps.ir/storage/2024/10/at-17291607101221-250x450.png"
+        ],
+        },
+        {
         "name": "Bama | باما",
         "developerName": "بازار خودرو",
         "version": "4.0.0",
@@ -52,9 +64,9 @@
         {
         "name": "فیلیمو",
         "developerName": "فیلم و سریال ایرانی و خارجی با دوبله",
-        "version": "5.13.14",
+        "version": "5.14.17",
         "icon": "https://cdn.appleapps.ir/2020/05/at-15896268521401-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/filimo5.13.14.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/aparatfilimo5.14.17.ipa",
         "category": "Jailbreaks",
         "screenshots": [
           "https://app.appleapps.ir/storage/2020/05/at-16973646891885.jpeg",
@@ -810,6 +822,32 @@
     "Tweaked Apps": [
         
         {
+            "name": "Mondly ++",
+            "developerName": "آموزش زبان های خارجی آنلاک شده",
+            "bundleIdentifier": "com.atistudios.MondlyLanguages",
+            "version": "10.36.0",
+            "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/ip1sjrfqyaL4xGWNw8l8qx.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17160680631212-100x100.jpg",
+            "appstore": "com.atistudios.MondlyLanguages"
+
+        },
+        {
+            "name": "YouTube YTLite",
+            "developerName": "یوتیوب پیشرفته با قابلیت دانلود",
+            "bundleIdentifier": "com.google.ios.youtube",
+            "version": "19.43.2",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/122youtube.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2020/10/at-17041843351386-100x100.png",
+            "appstore": "com.google.ios.youtube"
+
+        },
+        {
             "name": "InShot Pro",
             "developerName": "اینشات بهترین برنامه ویرایش ویدیو و ابزار ادمین پیج ها",
             "bundleIdentifier": "com.camerasideas.InstaShot",
@@ -915,8 +953,8 @@
              "name": "Facetune 2 Pro",
              "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
              "bundleIdentifier": "com.lightricks.Facetune2",
-             "version": "3.70",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Facetune3.70.ipa",
+             "version": "3.71.3",
+             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Facetune3.71.3.ipa",
              "category": "Tweaked Apps",
              "developerName": "",
              "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17126806831020-100x100.jpg",
@@ -949,8 +987,8 @@
              "name": "BeautyPlus Pro",
              "developerName": "دوربین سلفی، اپلیکیشن چهره و استودیو تصاویر",
              "bundleIdentifier": "com.commsource.BeautyPlus",
-             "version": "7.7.142",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/BeautyPlus7.7.142.ipa",
+             "version": "7.7.163",
+             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/BeautyPlus7.7.163.ipa",
              "category": "Tweaked Apps",
              "developerName": "",
              "iconURL": "https://app.appleapps.ir/storage/2024/08/at-17238992471847-100x100.jpg",
@@ -1003,8 +1041,8 @@
           "name": "PDF Expert Pro",
           "developerName": "ویرایش، امضا، حاشیه نویسی اسناد",
           "bundleIdentifier": "com.readdle.PDFExpert5",
-          "version": "7.22.11",
-          "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PDFExpert7.22.11.ipa",
+          "version": "7.22.12",
+          "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PDFExpert7.22.12.ipa",
           "category": "Tweaked Apps",
           "developerName": "",
           "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16969184101898-100x100.jpg",
@@ -1092,8 +1130,8 @@
            "name": "FLTR ++",
            "developerName": "فیلتر های آماده برای لایت روم Lightroom",
            "bundleIdentifier": "com.feelty",
-           "version": "4.16.1",
-           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/FLTR4.16.1.ipa",
+           "version": "4.18.1",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/FLTR4.18.1.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17063798161762-100x100.jpg",
@@ -1226,8 +1264,8 @@
             "name": "Mojo Pro",
             "developerName": "ویرایش حرفه ای استوری های اینستاگرام",
             "bundleIdentifier": "archery.storify",
-            "version": "1.198.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Mojo1.198.0.ipa",
+            "version": "1.201.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Mojo1.201.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17154202961599-100x100.jpg",
@@ -1282,19 +1320,6 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17051651081292-100x100.jpg",
             "appstore": "com.adobe.PSMobile"
-        },
-        {
-            "name": "YouTube++ Killer",
-            "developerName": "یوتیوب پیشرفته با قابلیت دانلود",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "version": "19.12.3",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/YouTube19.22.6.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://cdn.appleapps.ir/2020/05/at-15900721831369-100x100.png",
-            "appstore": "com.google.ios.youtube"
-
         },
         {
             "name": "Speedtest Premium",
