@@ -7,251 +7,265 @@
     
     "Developer": [
 
-        {
-         "name": "GBox",
-         "developerName": "iOS signing and testing tool",
-         "version": "5.6.6",
-         "icon": "https://gbox.run/Public/resources/icon256.png",
-         "down": "https://ts.gbox.run/TS2/GBoxTS_v5.6.6.ipa",
-         "category": "Developer"
-        },
-        ],
+            {
+            "name": "GBox",
+            "developerName": "iOS signing and testing tool",
+            "version": "5.6.6",
+            "icon": "https://gbox.run/Public/resources/icon256.png",
+            "down": "https://ts.gbox.run/TS2/GBoxTS_v5.6.6.ipa",
+            "category": "Developer"
+            },
+            ],
         
-    "Jailbreaks": [
+            "Jailbreaks": [
 
-       {
-        "name": "همیاب24 | hamyab24",
-        "developerName": "استعلام رجیستری/سرقتی گوشی",
-        "version": "1.0",
-        "icon": "https://cdn.appleapps.ir/2021/04/at-16193946601072-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/hamyab24v1.0.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://app.appleapps.ir/storage/2021/04/at-17312209671668-250x450.jpeg",
-          "https://app.appleapps.ir/storage/2021/04/at-17312209691885-250x450.png",
-          "https://app.appleapps.ir/storage/2021/04/at-17312209711466-250x450.png",
-          "https://app.appleapps.ir/storage/2021/04/at-17312209721687-250x450.png"
-        ],
-        },
-        {
-        "name": "کاست | Cassett",
-        "developerName": " دانلود و پخش به صورت آنلاین موزیک‌های ایرانی و خارجی",
-        "version": "1.0.6",
-        "icon": "https://app.appleapps.ir/storage/2024/10/at-17291606861850-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/cassett1.0.6.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://app.appleapps.ir/storage/2024/10/at-17291607091309-250x450.png",
-          "https://app.appleapps.ir/storage/2024/10/at-17291607101221-250x450.png"
-        ],
-        },
-        {
-        "name": "Bama | باما",
-        "developerName": "بازار خودرو",
-        "version": "4.0.0",
-        "icon": "https://app.appleapps.ir/storage/2020/05/at-17302269921221-100x100.jpeg",
-        "down": "https://dl3.apptrackr.ir/ios/2024/bama4.0.0.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://app.appleapps.ir/storage/2020/05/at-17302270481737.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-17302270471259.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-17302270461414.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-17302270461112.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-17302270491952.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-17302270491784.jpeg"
-        ],
-        },
-        {
-        "name": "Asa Trader | کارگزاری آگاه",
-        "developerName": "معاملات آنلاین کارگزاری آگاه",
-        "version": "3.42.3",
-        "icon": "https://cdn.appleapps.ir/2020/05/at-15896283281386-100x100.png",
-        "down": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/JoJbTAu9ndPsOzcohKYwpo.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://cdn.appleapps.ir/2020/05/at-15896283281981-250x450.jpeg",
-          "https://cdn.appleapps.ir/2020/05/at-15896283231335-250x450.jpeg",
-          "https://cdn.appleapps.ir/2020/05/at-15896283211647-250x450.jpeg",
-          "https://cdn.appleapps.ir/2020/05/at-15896283211415-250x450.jpeg"
-        ],
-        },
-        {
-        "name": "فیلیمو",
-        "developerName": "فیلم و سریال ایرانی و خارجی با دوبله",
-        "version": "5.14.17",
-        "icon": "https://cdn.appleapps.ir/2020/05/at-15896268521401-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/aparatfilimo5.14.17.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://app.appleapps.ir/storage/2020/05/at-16973646891885.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-16973646891163.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-16973646881459.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-16973646911437.jpeg",
-          "https://app.appleapps.ir/storage/2020/05/at-16973646901437.jpeg"
-        ],
-        },
-        {
-         "name": "جاباما",
-         "developerName": "به راحت ترین شکل ویلا،هتل و اقامتگاه رزرو کنید !",
-         "version": "3.1.0",
-         "icon": "https://app.appleapps.ir/storage/2020/05/at-16894482531019-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/jabama3.1.0.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://cdn.appleapps.ir/2020/05/at-16371923171427-250x450.jpeg",
-           "https://cdn.appleapps.ir/2020/05/at-16371923131989-250x450.jpeg",
-           "https://cdn.appleapps.ir/2020/05/at-16371923091198-250x450.jpeg",
-           "https://cdn.appleapps.ir/2020/05/at-16371923091198-250x450.jpeg"
-         ],
-         },
-        {
-         "name": "مدیریت فروشگاه",
-         "developerName": "اشخاص، انبار، امور مالی و گزارش‌ها",
-         "version": "1.6.3",
-         "icon": "https://app.appleapps.ir/storage/2023/07/at-16903569431355-100x100.jpeg",
-         "down": "https://dl3.apptrackr.ir/ios/2024/shopmanger1.6.3.ipa",
-         "category": "Jailbreaks",
-         "changelog": "",
-         "screenshots": [
-         "https://app.appleapps.ir/storage/2023/07/at-16903569961243-250x450.jpeg",
-         "https://app.appleapps.ir/storage/2023/07/at-16903569961899-250x450.jpeg",
-         "https://app.appleapps.ir/storage/2023/07/at-16903569951485-250x450.jpeg",
-         "https://app.appleapps.ir/storage/2023/07/at-16903570001768-250x450.jpeg",
-         "https://app.appleapps.ir/storage/2023/07/at-16903569991813-250x450.jpeg",
-         "https://app.appleapps.ir/storage/2023/07/at-16903569981422-250x450.jpeg"
-        ],
-        },
-        {
-        "name": "دیوار",
-        "developerName": "محل انتشار رایگان انواع آگهی",
-        "version": "12.1.3",
-        "icon": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/divar12.1.3.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_1.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_2.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_3.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_4.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_5.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_6.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_7.jpg",
-          "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_8.jpg"
-        ],
-        },
-        {
-        "name": "سرچ فور | Search4",
-        "developerName": "آموزش زبان با فیلم!",
-        "version": "3.5.2",
-        "icon": "https://app.appleapps.ir/storage/2024/01/at-17054775471606-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/search4v3.5.2.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
+            {
+            "name": "Gap Messenger",
+            "developerName": "پیام رسانی مطابق با بروزترین فناوری‌های جهان",
+            "version": "10.5",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-16849022931341-100x100.jpeg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/gap10.5.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://cdn.appleapps.ir/2020/05/at-15896273311732-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/05/at-15896273341268-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/05/at-15896273331006-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/05/at-15896273331164-250x450.jpeg"
+            ],
+            },
+            {
+            "name": "همیاب24 | hamyab24",
+            "developerName": "استعلام رجیستری/سرقتی گوشی",
+            "version": "1.0",
+            "icon": "https://cdn.appleapps.ir/2021/04/at-16193946601072-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/hamyab24v1.0.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2021/04/at-17312209671668-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2021/04/at-17312209691885-250x450.png",
+            "https://app.appleapps.ir/storage/2021/04/at-17312209711466-250x450.png",
+            "https://app.appleapps.ir/storage/2021/04/at-17312209721687-250x450.png"
+            ],
+            },
+            {
+            "name": "کاست | Cassett",
+            "developerName": " دانلود و پخش به صورت آنلاین موزیک‌های ایرانی و خارجی",
+            "version": "1.0.6",
+            "icon": "https://app.appleapps.ir/storage/2024/10/at-17291606861850-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/cassett1.0.6.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2024/10/at-17291607091309-250x450.png",
+            "https://app.appleapps.ir/storage/2024/10/at-17291607101221-250x450.png"
+            ],
+            },
+            {
+            "name": "Bama | باما",
+            "developerName": "بازار خودرو",
+            "version": "4.0.0",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-17302269921221-100x100.jpeg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/bama4.0.0.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2020/05/at-17302270481737.jpeg",
+            "https://app.appleapps.ir/storage/2020/05/at-17302270471259.jpeg",
+            "https://app.appleapps.ir/storage/2020/05/at-17302270461414.jpeg",
+            "https://app.appleapps.ir/storage/2020/05/at-17302270461112.jpeg",
+            "https://app.appleapps.ir/storage/2020/05/at-17302270491952.jpeg",
+            "https://app.appleapps.ir/storage/2020/05/at-17302270491784.jpeg"
+            ],
+            },
+            {
+            "name": "Asa Trader | کارگزاری آگاه",
+            "developerName": "معاملات آنلاین کارگزاری آگاه",
+            "version": "3.42.3",
+            "icon": "https://cdn.appleapps.ir/2020/05/at-15896283281386-100x100.png",
+            "down": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/JoJbTAu9ndPsOzcohKYwpo.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://cdn.appleapps.ir/2020/05/at-15896283281981-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/05/at-15896283231335-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/05/at-15896283211647-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/05/at-15896283211415-250x450.jpeg"
+            ],
+            },
+            {
+            "name": "فیلیمو",
+            "developerName": "فیلم و سریال ایرانی و خارجی با دوبله",
+            "version": "5.14.17",
+            "icon": "https://cdn.appleapps.ir/2020/05/at-15896268521401-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/aparatfilimo5.14.17.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2020/05/at-16973646891885.jpeg",
+            "https://app.appleapps.ir/storage/2020/05/at-16973646891163.jpeg",
+            "https://app.appleapps.ir/storage/2020/05/at-16973646881459.jpeg",
+            "https://app.appleapps.ir/storage/2020/05/at-16973646911437.jpeg",
+            "https://app.appleapps.ir/storage/2020/05/at-16973646901437.jpeg"
+            ],
+            },
+            {
+            "name": "جاباما",
+            "developerName": "به راحت ترین شکل ویلا،هتل و اقامتگاه رزرو کنید !",
+            "version": "3.1.0",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-16894482531019-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/jabama3.1.0.ipa",
+            "category": "Jailbreaks",
+            "description": "",
+            "screenshots": [
+            "https://cdn.appleapps.ir/2020/05/at-16371923171427-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/05/at-16371923131989-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/05/at-16371923091198-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/05/at-16371923091198-250x450.jpeg"
+            ],
+            },
+            {
+            "name": "مدیریت فروشگاه",
+            "developerName": "اشخاص، انبار، امور مالی و گزارش‌ها",
+            "version": "1.6.3",
+            "icon": "https://app.appleapps.ir/storage/2023/07/at-16903569431355-100x100.jpeg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/shopmanger1.6.3.ipa",
+            "category": "Jailbreaks",
+            "changelog": "",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2023/07/at-16903569961243-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2023/07/at-16903569961899-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2023/07/at-16903569951485-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2023/07/at-16903570001768-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2023/07/at-16903569991813-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2023/07/at-16903569981422-250x450.jpeg"
+            ],
+            },
+            {
+            "name": "دیوار",
+            "developerName": "محل انتشار رایگان انواع آگهی",
+            "version": "12.1.3",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/divar12.1.3.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_1.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_2.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_3.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_4.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_5.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_6.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_7.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_8.jpg"
+            ],
+            },
+            {
+            "name": "سرچ فور | Search4",
+            "developerName": "آموزش زبان با فیلم!",
+            "version": "3.5.2",
+            "icon": "https://app.appleapps.ir/storage/2024/01/at-17054775471606-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/search4v3.5.2.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
             "https://app.appleapps.ir/storage/2024/01/at-17054775231969-250x450.png",
             "https://app.appleapps.ir/storage/2024/01/at-17054775221507-250x450.png",
             "https://app.appleapps.ir/storage/2024/01/at-17054775211253-250x450.png",
             "https://app.appleapps.ir/storage/2024/01/at-17054775251593-250x450.png",
             "https://app.appleapps.ir/storage/2024/01/at-17054775261577-250x450.png"
-        ],
-        },
-        {
-         "name": "شمار",
-         "developerName": "دفتر حساب، انبار، فاکتور، حسابداری",
-         "version": "1.0.53",
-         "icon": "https://app.appleapps.ir/storage/2024/05/at-17151085241053-100x100.jpeg",
-         "down": "https://dl3.apptrackr.ir/ios/2024/shomar1.0.53.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://app.appleapps.ir/storage/2024/05/at-17151086431256-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/05/at-17151086412000-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/05/at-17151086391462-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/05/at-17151086461493-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/05/at-17151086441949-250x450.jpeg"
-         ],
-         },
-        {
-        "name": "هامون | Hamoon",
-        "developerName": "هویت الکترونیکی موبایلی نوین",
-        "bundleIdentifier": "app.hamoon.ios",
-        "version": "3.7.0",
-        "icon": "https://app.appleapps.ir/storage/2024/03/at-17107676931138-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/hamoon3.7.0.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://app.appleapps.ir/storage/2024/03/at-17107677341702-250x450.png",
-          "https://app.appleapps.ir/storage/2024/03/at-17107677331161-250x450.png",
-          "https://app.appleapps.ir/storage/2024/03/at-17107677321351-250x450.png",
-          "https://app.appleapps.ir/storage/2024/03/at-17107677351163-250x450.png",
-          "https://app.appleapps.ir/storage/2024/03/at-17107677351715-250x450.png"
-        ],
-        },
-        {
-         "name": "ایرانیکارت",
-         "developerName": "پلتفرم تبادلات مالی بین‌المللی",
-         "version": "2.6.0",
-         "icon": "https://app.appleapps.ir/storage/2024/04/at-17126630491097-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/iranicard2.6.0.ipa",
-         "category": "Jailbreaks",
-         "screenshots": [
-         "https://app.appleapps.ir/storage/2024/04/at-17126631581032-250x450.jpg",
-         "https://app.appleapps.ir/storage/2024/04/at-17126631581730-250x450.jpg",
-         "https://app.appleapps.ir/storage/2024/04/at-17126631571441-250x450.jpg",
-         "https://app.appleapps.ir/storage/2024/04/at-17126631561570-250x450.jpg",
-         "https://app.appleapps.ir/storage/2024/04/at-17126631551768-250x450.jpg",
-         "https://app.appleapps.ir/storage/2024/04/at-17126631541907-250x450.jpg"
-        ],
-        },
-        {
-        "name": "اسپارس | ‌Sparse",
-        "developerName": "سرویس دانلود و استریم موزیک",
-        "version": "10.8.3",
-        "icon": "https://cdn.appleapps.ir/2020/05/at-15896269041389-100x100.jpeg",
-        "down": "https://dl3.apptrackr.ir/ios/2024/Sparse-v10.8.3.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://cdn.appleapps.ir/2020/05/at-16033687051281.jpg",
-          "https://cdn.appleapps.ir/2020/05/at-16033687071548.jpg",
-          "https://cdn.appleapps.ir/2020/05/at-16033687091037.jpg",
-          "https://cdn.appleapps.ir/2020/05/at-16033687101892.jpg",
-          "https://cdn.appleapps.ir/2020/05/at-16033687111629.jpg"
-        ],
-        },
-        {
-        "name": "نشان |‌ Neshan",
-        "developerName": "نقشه و مسیریاب سخن‌گوی فارسی",
-        "version": "6.3.1",
-        "icon": "https://app.appleapps.ir/storage/2020/05/at-16873926291816-100x100.jpeg",
-        "down": "https://dl3.apptrackr.ir/ios/2024/neshan6.3.1.ipa",
-        "category": "Jailbreaks",
-  "screenshots": [
-       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/8.jpg",
-       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/7.jpg",
-       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327850-6.jpg",
-       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327726-5.jpg",
-       "https://sandbox.sibirani.ir/statics_public/attachments/2021/1/31/سرعتگیر.jpg",
-       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327381-4.jpg",
-       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327253-3.jpg",
-       "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327175-2.jpg",
-       "hhttps://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327076-1.jpg"
-        ],
-        },
-        {
-         "name": "آپ - آسان پرداخت",
-         "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
-         "version": "7.3.0",
-         "icon": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/asanpardakht7.3.0.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://app.appleapps.ir/storage/2020/05/at-16924605451382.jpg",
-           "https://app.appleapps.ir/storage/2020/05/at-16924605461693.jpg",
-           "https://app.appleapps.ir/storage/2020/05/at-16924605461607.jpg",
-           "https://app.appleapps.ir/storage/2020/05/at-16924605481201.jpg"
-         ],
-         },
+            ],
+            },
+            {
+            "name": "شمار",
+            "developerName": "دفتر حساب، انبار، فاکتور، حسابداری",
+            "version": "1.0.53",
+            "icon": "https://app.appleapps.ir/storage/2024/05/at-17151085241053-100x100.jpeg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/shomar1.0.53.ipa",
+            "category": "Jailbreaks",
+            "description": "",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2024/05/at-17151086431256-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/05/at-17151086412000-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/05/at-17151086391462-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/05/at-17151086461493-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/05/at-17151086441949-250x450.jpeg"
+            ],
+            },
+            {
+            "name": "هامون | Hamoon",
+            "developerName": "هویت الکترونیکی موبایلی نوین",
+            "bundleIdentifier": "app.hamoon.ios",
+            "version": "3.7.0",
+            "icon": "https://app.appleapps.ir/storage/2024/03/at-17107676931138-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/hamoon3.7.0.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2024/03/at-17107677341702-250x450.png",
+            "https://app.appleapps.ir/storage/2024/03/at-17107677331161-250x450.png",
+            "https://app.appleapps.ir/storage/2024/03/at-17107677321351-250x450.png",
+            "https://app.appleapps.ir/storage/2024/03/at-17107677351163-250x450.png",
+            "https://app.appleapps.ir/storage/2024/03/at-17107677351715-250x450.png"
+            ],
+            },
+            {
+            "name": "ایرانیکارت",
+            "developerName": "پلتفرم تبادلات مالی بین‌المللی",
+            "version": "2.8.0",
+            "icon": "https://app.appleapps.ir/storage/2024/04/at-17126630491097-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/iranicard2.8.0.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2024/04/at-17126631581032-250x450.jpg",
+            "https://app.appleapps.ir/storage/2024/04/at-17126631581730-250x450.jpg",
+            "https://app.appleapps.ir/storage/2024/04/at-17126631571441-250x450.jpg",
+            "https://app.appleapps.ir/storage/2024/04/at-17126631561570-250x450.jpg",
+            "https://app.appleapps.ir/storage/2024/04/at-17126631551768-250x450.jpg",
+            "https://app.appleapps.ir/storage/2024/04/at-17126631541907-250x450.jpg"
+            ],
+            },
+            {
+            "name": "اسپارس | ‌Sparse",
+            "developerName": "سرویس دانلود و استریم موزیک",
+            "version": "10.8.3",
+            "icon": "https://cdn.appleapps.ir/2020/05/at-15896269041389-100x100.jpeg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/Sparse-v10.8.3.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://cdn.appleapps.ir/2020/05/at-16033687051281.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-16033687071548.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-16033687091037.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-16033687101892.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-16033687111629.jpg"
+            ],
+            },
+            {
+            "name": "نشان |‌ Neshan",
+            "developerName": "نقشه و مسیریاب سخن‌گوی فارسی",
+            "version": "6.3.1",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-16873926291816-100x100.jpeg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/neshan6.3.1.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/8.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/7.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327850-6.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327726-5.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2021/1/31/سرعتگیر.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327381-4.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327253-3.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327175-2.jpg",
+            "hhttps://sandbox.sibirani.ir/statics_public/attachments/2023/2/25/1677327076-1.jpg"
+            ],
+            },
+            {
+            "name": "آپ - آسان پرداخت",
+            "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
+            "version": "7.3.0",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/asanpardakht7.3.0.ipa",
+            "category": "Jailbreaks",
+            "description": "",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2020/05/at-16924605451382.jpg",
+            "https://app.appleapps.ir/storage/2020/05/at-16924605461693.jpg",
+            "https://app.appleapps.ir/storage/2020/05/at-16924605461607.jpg",
+            "https://app.appleapps.ir/storage/2020/05/at-16924605481201.jpg"
+            ],
+            },
         {
         "name": "پولکی",
         "developerName": "اپلیکیشن حسابداری شخصی",
@@ -286,9 +300,9 @@
         {
          "name": "آبان تتر",
          "developerName": "صرافی ارز دیجیتال",
-         "version": "4.0.1",
+         "version": "4.1.0",
          "icon": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/abantether4.0.1.ipa",
+         "down": "https://dl3.apptrackr.ir/ios/2024/abantether4.1.0.ipa",
          "category": "Jailbreaks",
          "description": "",
          "screenshots": [
@@ -618,9 +632,9 @@
            {
            "name": "علی بابا | Alibaba.ir",
            "developerName": "مرجع خرید بلیط هواپیما ، قطار و رزرو هتل و ...",
-           "version": "7.14.0",
+           "version": "8.0.4",
            "icon": "https://app.appleapps.ir/storage/2020/05/at-16871073301589-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2022/alibaba-7.14.0-appleapps.ir.ipa",
+           "down": "https://dl3.apptrackr.ir/ios/2024/alibaba8.0.3.ipa",
            "category": "Jailbreaks",
            "screenshots": [
              "https://app.appleapps.ir/storage/2020/05/at-16871073491013-scaled.jpeg",
@@ -682,9 +696,9 @@
            {
            "name": "نماوا - تماشای فیلم",
            "developerName": "تماشای آنلاین فیلم و سریال",
-           "version": "2.13.0",
+           "version": "3.1.0",
            "icon": "https://app.appleapps.ir/storage/2020/05/at-16980695301860-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2023/namava2.13.0.ipa",
+           "down": "https://dl3.apptrackr.ir/ios/2024/namava3.1.0.ipa",
            "category": "Jailbreaks",
            "screenshots": [
              "https://s3.anardoni.com/applications/2023/04/15/photos/c5b524d5-9a99-4118-84a5-ec4ea695377c.jpeg",
@@ -768,9 +782,9 @@
            {
            "name": "Nobitex | نوبیتکس",
            "developerName": "صرافی آنلاین - خرید فروش ارز دیجیتال",
-           "version": "3.3.0",
+           "version": "3.3.1",
            "icon": "https://app.appleapps.ir/storage/2022/02/at-16839460771868-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2024/nobitex3.3.0.ipa",
+           "down": "https://dl3.apptrackr.ir/ios/2024/nobitex3.3.1.ipa",
            "category": "Jailbreaks",
            "screenshots": [
            "https://app.appleapps.ir/storage/2022/02/at-16839460991610-250x450.jpeg",
@@ -782,9 +796,9 @@
            {
            "name": "همراه من | MyMCI",
            "developerName": "همراه من، همراه اول زندگی دیجیتال",
-           "version": "6.0.4",
+           "version": "6.0.6",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15898094781939-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2024/mymci6.0.4.ipa",
+           "down": "https://dl3.apptrackr.ir/ios/2024/mymci6.0.6.ipa",
            "category": "Jailbreaks",
            "screenshots": [
                 "https://s3.anardoni.com/applications/2023/01/10/photos/8UmI4QyK2/screenshot11_8UmI4QyK2_2023_01_10_07_41_28.jpeg",
@@ -835,6 +849,33 @@
     
     "Tweaked Apps": [
         
+        
+        {
+            "name": "SnapEdit++",
+            "developerName": "برنامه ویرایش عکس و ویدئو با هوش مصنوعی",
+            "bundleIdentifier": "com.sfun.snapedit",
+            "version": "5.4.9",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/SnapEdit5.4.9.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/03/at-17096555181022-100x100.jpg",
+            "appstore": "com.sfun.snapedit"
+
+        },
+        {
+            "name": "KineMaster ++",
+            "developerName": "آنلاک بهترین برنامه ویرایش ویدیو با قالب و کلیپ های آماده",
+            "bundleIdentifier": "com.kinemaster.kios",
+            "version": "7.5.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/KineMasterv7.5.3.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17315955491511-100x100.jpg",
+            "appstore": "com.kinemaster.kios"
+
+        },
         {
             "name": "Mondly ++",
             "developerName": "آموزش زبان های خارجی آنلاک شده",
@@ -876,10 +917,8 @@
             "name": "Reelsapp Pro",
             "developerName": "ساخت ریلز و ادیتور استوری",
             "bundleIdentifier": "com.nextgen.reelsapp",
-            "version": "6.2",
-            "date": "2024-06-30",
-            "size": 39988031,
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ReelsApp6.2.ipa",
+            "version": "6.4",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ReelsApp6.4.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/08/at-17228674611387-100x100.jpg",
@@ -900,8 +939,8 @@
             "name": "Captions Pro",
             "developerName": "زیرنویس خودکار و ویرایش ویدیو",
             "bundleIdentifier": "boomer.Smart-Video",
-            "version": "11.64.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/caption11.64.1.ipa",
+            "version": "11.65.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Captions11.65.1.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17309542841380-100x100.jpg",
@@ -979,8 +1018,8 @@
              "developerName": "نسخه پریمیوم نسل هشتم",
              "bundleIdentifier": "com.firecore.infuse",
              "appstore": "com.firecore.infuse",
-             "version": "8.0.2",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Infuse8.0.2.ipa",
+             "version": "8.0.2.1",
+             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/InfusePlus1.3.1v8.0.2.ipa",
              "category": "Tweaked Apps",
              "developerName": "",
              "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17293473171467-100x100.jpg"
@@ -1033,8 +1072,8 @@
             "name": "Aloha Browser Premium",
             "developerName": "مرورگر، فایل منیجر، دانلودر",
             "bundleIdentifier": "com.alohabrowser.alohabrowser",
-            "version": "6.2.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Aloha6.2.1.ipa",
+            "version": "6.3.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Aloha6.3.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/09/at-17255698861389-100x100.jpg",
@@ -1278,8 +1317,8 @@
             "name": "Mojo Pro",
             "developerName": "ویرایش حرفه ای استوری های اینستاگرام",
             "bundleIdentifier": "archery.storify",
-            "version": "1.201.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Mojo1.201.0.ipa",
+            "version": "1.203.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Mojo1.203.1.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17154202961599-100x100.jpg",
@@ -1328,8 +1367,8 @@
             "name": "Photoshop Express Pro",
             "developerName": "برنامه شماره یک عکاسان و ادیتورهای حرفه ای",
             "bundleIdentifier": "com.adobe.PSMobile",
-            "version": "24.37.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PSExpress24.37.0.ipa",
+            "version": "24.45.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PSExpress24.45.1.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17051651081292-100x100.jpg",
@@ -1534,9 +1573,9 @@
         "name": "بلوبانک",
         "developerName": "بلو بانک، یک بانک تمام دیجیتال",
         "bundleIdentifier": "com.samanpr.blu",
-        "version": "3.2.0",
+        "version": "3.3.0",
         "icon": "https://app.appleapps.ir/storage/2021/04/at-16841450241269-100x100.jpg",
-        "down": "https://dl3.apptrackr.ir/ios/2024/blu3.2.0.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/blu3.3.0.ipa",
         "category": "Hacked Games",
         "screenshots": [
           "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/26/1(1).png",
@@ -1565,9 +1604,9 @@
          {
         "name": "همپا | همراه بانک پست بانک",
         "developerName": "موبایل بانک پست بانک",
-        "version": "2.13.27",
+        "version": "2.14.38",
         "icon": "https://app.appleapps.ir/storage/2020/05/at-16905334141911-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/hampa2.13.27.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/hampa2.14.38.ipa",
         "category": "Hacked Games",
         "screenshots": [
         "https://fs.sibapp.net/file/image/application/3d53cf31b7e040a8a2e4cd1af2bebaae.jpeg",
@@ -1757,6 +1796,19 @@
     
     "Emulators": [
         
+ 
+        {
+            "name": "Gangstar Vegas - Mafia action Hack",
+            "developerName": "گنگستر وگاس داستان مافیا",
+            "bundleIdentifier": "com.gameloft.gangstar4",
+            "version": "770",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/GangstarVegasHack7.7.0.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16961585801379-100x100.jpg",
+            "appstore": "com.gameloft.gangstar4"
+        },       
         {
             "name": "Streets of Rage 4",
             "developerName": "قسمت چهارم بازی شورش در شهر",
