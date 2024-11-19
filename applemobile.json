@@ -50,9 +50,9 @@
             {
             "name": "کاست | Cassett",
             "developerName": " دانلود و پخش به صورت آنلاین موزیک‌های ایرانی و خارجی",
-            "version": "1.0.6",
+            "version": "1.0.8",
             "icon": "https://app.appleapps.ir/storage/2024/10/at-17291606861850-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/cassett1.0.6.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2024/cassett1.0.8.ipa",
             "category": "Jailbreaks",
             "screenshots": [
             "https://app.appleapps.ir/storage/2024/10/at-17291607091309-250x450.png",
@@ -269,9 +269,9 @@
         {
         "name": "پولکی",
         "developerName": "اپلیکیشن حسابداری شخصی",
-        "version": "3.3.1",
+        "version": "3.4.0",
         "icon": "https://app.appleapps.ir/storage/2022/03/at-16888318791710-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/poolaki3.3.1.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/poolaki3.4.0.ipa",
         "category": "Jailbreaks",
         "screenshots": [
             "https://app.appleapps.ir/storage/2022/03/at-16888320141965.png",
@@ -284,9 +284,9 @@
         {
             "name": "Zaban",
             "developerName": " در اپلیکیشن زبان‌ تماشا کن و زبان یاد بگیر!",
-            "version": "1.1.4",
+            "version": "1.1.7",
             "icon": "https://app.appleapps.ir/storage/2024/05/at-17157742791606-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/zaban1.1.4.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2024/zaban1.1.7.ipa",
             "category": "Jailbreaks",
             "screenshots": [
               "https://app.appleapps.ir/storage/2024/05/at-17157743301972-250x450.jpeg",
@@ -300,9 +300,9 @@
         {
          "name": "آبان تتر",
          "developerName": "صرافی ارز دیجیتال",
-         "version": "4.1.0",
+         "version": "4.1.1",
          "icon": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/abantether4.1.0.ipa",
+         "down": "https://dl3.apptrackr.ir/ios/2024/abantether4.1.1.ipa",
          "category": "Jailbreaks",
          "description": "",
          "screenshots": [
@@ -796,9 +796,9 @@
            {
            "name": "همراه من | MyMCI",
            "developerName": "همراه من، همراه اول زندگی دیجیتال",
-           "version": "6.0.6",
+           "version": "6.0.7",
            "icon": "https://cdn.appleapps.ir/2020/05/at-15898094781939-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2024/mymci6.0.6.ipa",
+           "down": "https://dl3.apptrackr.ir/ios/2024/mymci6.0.7.ipa",
            "category": "Jailbreaks",
            "screenshots": [
                 "https://s3.anardoni.com/applications/2023/01/10/photos/8UmI4QyK2/screenshot11_8UmI4QyK2_2023_01_10_07_41_28.jpeg",
@@ -848,14 +848,66 @@
     ],
     
     "Tweaked Apps": [
-        
-        
+    
+    
+      {
+            "name": "AI Chatbot - Nova++",
+            "developerName": "ChatGPT و GPT-4o",
+            "bundleIdentifier": "com.apporigins.Nova",
+            "version": "3.5.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Nova2.1.1.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17288093391039-100x100.jpg",
+            "appstore": "com.apporigins.Nova"
+
+       }, 
+       {
+            "name": "ID Photo++ - Passport Photo App",
+            "developerName": "اپلیکیشن عکس پاسپورت",
+            "bundleIdentifier": "com.maximaapps.passportphoto",
+            "version": "3.9.4",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/IDPhoto3.9.4.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16984038871805-100x100.jpg",
+            "appstore": "com.maximaapps.passportphoto"
+
+        }, 
+        {
+            "name": "Story Font++ | استوری فونت آنلاک شده",
+            "developerName": "فونت های فارسی خفن استوری اینستاگرام",
+            "bundleIdentifier": "com.mfapp.storyFontEn",
+            "version": "2.272.1",
+            "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/5x9LHhorfcwLM74xJ9aOKR.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17319212881800-100x100.jpg",
+            "appstore": "com.mfapp.storyFontEn"
+
+        },      
+        {
+            "name": "VivaCut ++",
+            "developerName": "نسخه آنلاک شده ساخت کلیپ های جذاب VFX با قالب های آماده",
+            "bundleIdentifier": "com.vivacut.videoeditor",
+            "version": "3.9.8",
+            "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/Xfom1sAQZDg2on670GzW1n.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/02/at-17076779291945-100x100.jpg",
+            "appstore": "com.vivacut.videoeditor"
+
+        },
         {
             "name": "SnapEdit++",
             "developerName": "برنامه ویرایش عکس و ویدئو با هوش مصنوعی",
             "bundleIdentifier": "com.sfun.snapedit",
-            "version": "5.4.9",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/SnapEdit5.4.9.ipa",
+            "version": "5.5.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/SnapEdit5.5.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
@@ -1051,8 +1103,8 @@
             "name": "Picsart++",
             "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
             "bundleIdentifier": "com.picsart.studio",
-            "version": "26.1.2",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PicsArt26.1.2.ipa",
+            "version": "26.2.4",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PicsArt26.2.4.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17286067231368-100x100.jpg",
@@ -1183,8 +1235,8 @@
            "name": "FLTR ++",
            "developerName": "فیلتر های آماده برای لایت روم Lightroom",
            "bundleIdentifier": "com.feelty",
-           "version": "4.18.1",
-           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/FLTR4.18.1.ipa",
+           "version": "4.18.2",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/FLTR4.18.2.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17063798161762-100x100.jpg",
@@ -1194,8 +1246,8 @@
            "name": "Lightroom Premium",
            "developerName": "ویرایش قدرتمند تصاویر و عکاسی حرفه ای",
            "bundleIdentifier": "com.adobe.lrmobilephone",
-           "version": "9.5.1",
-           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Lightroom9.5.1.ipa",
+           "version": "10.0.2",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Lightroom10.0.2.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
            "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17192459891518-100x100.jpg",
@@ -1317,8 +1369,8 @@
             "name": "Mojo Pro",
             "developerName": "ویرایش حرفه ای استوری های اینستاگرام",
             "bundleIdentifier": "archery.storify",
-            "version": "1.203.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Mojo1.203.1.ipa",
+            "version": "1.204.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Mojov1.204.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17154202961599-100x100.jpg",
@@ -1367,8 +1419,8 @@
             "name": "Photoshop Express Pro",
             "developerName": "برنامه شماره یک عکاسان و ادیتورهای حرفه ای",
             "bundleIdentifier": "com.adobe.PSMobile",
-            "version": "24.45.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PSExpress24.45.1.ipa",
+            "version": "24.46",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PSExpressv24.46.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17051651081292-100x100.jpg",
@@ -1394,9 +1446,9 @@
          "name": "بانکت",
          "developerName": "افتتاح حساب رایگان بانک مهر",
          "bundleIdentifier": "com.ada.mbank.bankette.f",
-         "version": "3.0.1",
+         "version": "3.1.3",
          "icon": "https://app.appleapps.ir/storage/2024/09/at-17263974881894-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/banket3.0.1.ipa",
+         "down": "https://dl3.apptrackr.ir/ios/2024/banket3.1.3.ipa",
          "category": "Hacked Games",
          "changelog": "",
          "screenshots": [
