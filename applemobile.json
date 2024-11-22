@@ -18,7 +18,20 @@
             ],
         
             "Jailbreaks": [
-
+            
+            {
+            "name": "دولت همراه",
+            "developerName": "خدمات دستگاه‏‌های اجرایی",
+            "version": "11.15.11",
+            "icon": "https://cdn.appleapps.ir/2020/05/at-15896314431802-100x100.png",
+            "down": "https://dl2.apptrackr.ir/user1/ios/2022/dolathamrahb-v11.15.11.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://cdn.appleapps.ir/2020/06/at-16375257801472-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/06/at-16375257801472-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/06/at-16375257791942-250x450.jpeg"
+            ],
+            },
             {
             "name": "Gap Messenger",
             "developerName": "پیام رسانی مطابق با بروزترین فناوری‌های جهان",
