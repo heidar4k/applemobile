@@ -20,6 +20,19 @@
             "Jailbreaks": [
             
             {
+            "name": "چک یار اوراش (یادآوری و مدیریت چک)",
+            "developerName": "ابزاری برای کنترل و مدیریت چک",
+            "version": "1.43",
+            "icon": "https://cdn.appleapps.ir/2020/07/at-15937117881411-100x100.png",
+            "down": "https://dl2.apptrackr.ir/user1/ios/2020/OrashChequeAssistant_1.43.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://cdn.appleapps.ir/2020/07/at-15937115381232-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/07/at-15937115371745-250x450.jpeg",
+            "https://cdn.appleapps.ir/2020/07/at-15937115441828-250x450.jpeg"
+            ],
+            },            
+            {
             "name": "دولت همراه",
             "developerName": "خدمات دستگاه‏‌های اجرایی",
             "version": "11.15.11",
