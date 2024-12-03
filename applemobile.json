@@ -165,9 +165,9 @@
             {
             "name": "دیوار",
             "developerName": "محل انتشار رایگان انواع آگهی",
-            "version": "12.1.3",
+            "version": "12.3.1",
             "icon": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/divar12.1.3.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2024/divar12.3.1.ipa",
             "category": "Jailbreaks",
             "screenshots": [
             "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_1.jpg",
@@ -310,9 +310,9 @@
         {
             "name": "Zaban",
             "developerName": " در اپلیکیشن زبان‌ تماشا کن و زبان یاد بگیر!",
-            "version": "1.1.7",
+            "version": "1.1.8",
             "icon": "https://app.appleapps.ir/storage/2024/05/at-17157742791606-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/zaban1.1.7.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2024/zaban1.1.8.ipa",
             "category": "Jailbreaks",
             "screenshots": [
               "https://app.appleapps.ir/storage/2024/05/at-17157743301972-250x450.jpeg",
@@ -875,7 +875,46 @@
     
     "Tweaked Apps": [
     
-    
+
+     {
+            "name": "Oxford Dictionary Pro",
+            "developerName": "دیکشنری جامع زبان‌ها",
+            "bundleIdentifier": "com.mobisystems.OxfordDictionaryOfEnglishFree",
+            "version": "15.11",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/oxforddictionarv15.11.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17328137881314-100x100.jpg",
+            "appstore": "com.mobisystems.OxfordDictionaryOfEnglishFree"
+
+     }, 
+     {
+            "name": "Dict Box Pro",
+            "developerName": "دیکشنری انگلیسی به فارسی نسخه کامل",
+            "bundleIdentifier": "com.gnux.dictboxenpe",
+            "version": "12.14.40",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/DictBox12.14.41.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17329741851422-100x100.jpg",
+            "appstore": "com.gnux.dictboxenpe"
+
+     }, 
+     {
+            "name": "AutoCAD Pro",
+            "developerName": "اتوکد نسخه کامل",
+            "bundleIdentifier": "com.autodesk.autocadws",
+            "version": "6.15.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/AutoCAD6.15.0.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17041970161156-100x100.jpg",
+            "appstore": "com.autodesk.autocadws"
+
+      },     
       {
             "name": "AI Chatbot - Nova++",
             "developerName": "ChatGPT و GPT-4o",
@@ -1328,11 +1367,11 @@
            "name": "AnkiMobile Flashcards",
            "developerName": "فلش کارت هوشمند و قدرتمند",
            "bundleIdentifier": "net.ichi2.anki",
-           "version": "24.08",
-           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/AnkiMobileFlashcardsv24.08.ipa",
+           "version": "24.11",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/AnkiMobileFlashcardsv24.11.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17132461261303-100x100.jpg",
+           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17331245281975-100x100.jpg",
            "appstore": "net.ichi2.anki"
         },
         {
