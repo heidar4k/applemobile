@@ -10,27 +10,30 @@
             {
             "name": "GBox",
             "developerName": "iOS signing and testing tool",
-            "version": "5.6.6",
+            "version": "5.6.9",
             "icon": "https://gbox.run/Public/resources/icon256.png",
-            "down": "https://ts.gbox.run/TS2/GBoxTS_v5.6.6.ipa",
+            "down": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/developer/GBox_v5.6.9.ipa",
             "category": "Developer"
             },
             ],
         
             "Jailbreaks": [
             
-             {
-            "name": "نوت بانک",
-            "developerName": "یادداشت بانکی",
-            "version": "1.1.1",
-            "icon": "https://app.appleapps.ir/storage/2024/12/at-17339956041353-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/notebank1.1.1.ipa",
+            {
+            "name": "آپ - آسان پرداخت",
+            "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
+            "version": "7.3.5",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/asanpardakht7.3.5.ipa",
             "category": "Jailbreaks",
+            "description": "",
             "screenshots": [
-            "https://app.appleapps.ir/storage/2024/12/at-17339956391895-250x450.png",
-            "https://app.appleapps.ir/storage/2024/12/at-17339956401136-250x450.png"
+            "https://app.appleapps.ir/storage/2020/05/at-16924605451382.jpg",
+            "https://app.appleapps.ir/storage/2020/05/at-16924605461693.jpg",
+            "https://app.appleapps.ir/storage/2020/05/at-16924605461607.jpg",
+            "https://app.appleapps.ir/storage/2020/05/at-16924605481201.jpg"
             ],
-            },            
+            },           
             {
             "name": "فوربیکس",
             "developerName": "دستیار کسب و کار فوربیکس",
@@ -303,36 +306,21 @@
             ],
             },
             {
-            "name": "آپ - آسان پرداخت",
-            "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
-            "version": "7.3.0",
-            "icon": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/asanpardakht7.3.0.ipa",
+            "name": "پولکی",
+            "developerName": "اپلیکیشن حسابداری شخصی",
+            "version": "3.5.0",
+            "icon": "https://app.appleapps.ir/storage/2022/03/at-16888318791710-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/poolaki3.5.0.ipa",
             "category": "Jailbreaks",
-            "description": "",
             "screenshots": [
-            "https://app.appleapps.ir/storage/2020/05/at-16924605451382.jpg",
-            "https://app.appleapps.ir/storage/2020/05/at-16924605461693.jpg",
-            "https://app.appleapps.ir/storage/2020/05/at-16924605461607.jpg",
-            "https://app.appleapps.ir/storage/2020/05/at-16924605481201.jpg"
-            ],
-            },
-        {
-        "name": "پولکی",
-        "developerName": "اپلیکیشن حسابداری شخصی",
-        "version": "3.5.0",
-        "icon": "https://app.appleapps.ir/storage/2022/03/at-16888318791710-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/poolaki3.5.0.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
             "https://app.appleapps.ir/storage/2022/03/at-16888320141965.png",
             "https://app.appleapps.ir/storage/2022/03/at-16888320131314.png",
             "https://app.appleapps.ir/storage/2022/03/at-16888320131607.png",
             "https://app.appleapps.ir/storage/2022/03/at-16888320121241.png",
             "https://app.appleapps.ir/storage/2022/03/at-16888320161382.png"
-        ],
-        },
-        {
+            ],
+            },
+            {
             "name": "Zaban",
             "developerName": " در اپلیکیشن زبان‌ تماشا کن و زبان یاد بگیر!",
             "version": "1.1.10",
@@ -340,93 +328,93 @@
             "down": "https://dl3.apptrackr.ir/ios/2024/zaban1.1.10.ipa",
             "category": "Jailbreaks",
             "screenshots": [
-              "https://app.appleapps.ir/storage/2024/05/at-17157743301972-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2024/05/at-17157743271970-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2024/05/at-17157743231850-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2024/05/at-17157743191574-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2024/05/at-17157743411879-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2024/05/at-17157743381197-250x450.jpeg"
-        ],
-        },
-        {
-         "name": "آبان تتر",
-         "developerName": "صرافی ارز دیجیتال",
-         "version": "4.1.1",
-         "icon": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/abantether4.1.1.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://app.appleapps.ir/storage/2024/06/at-17172675511792-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/06/at-17172675571417-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/06/at-17172675561266-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/06/at-17172675551128-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/06/at-17172675541212-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/06/at-17172675531866-250x450.jpeg",
-           "https://app.appleapps.ir/storage/2024/06/at-17172675531308-250x450.jpeg"
-         ],
-         },
-        {
-         "name": "زیتونیکس",
-         "developerName": "دزدگیر و ردیاب هوشمند خودرو",
-         "version": "5.5",
-         "icon": "https://cdn.appleapps.ir/2020/05/at-16225608081794-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2023/xitonix5.5.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://cdn.appleapps.ir/2020/05/at-16267294941876-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-16267294921142-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-16267294911326-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-16267294891597-250x450.jpg"
-         ],
-         },
-        {
-         "name": "رمز ساز ریما",
-         "developerName": "تولید رمز یکبار مصرف صادرات ( رمز ساز ریما )",
-         "version": "1.8.2",
-         "icon": "https://app.appleapps.ir/storage/2020/05/at-16894495501633-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/rima1.8.2.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://cdn.appleapps.ir/2020/05/at-15896286141158-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-15896286131993-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-15896286121577-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-15896286151081-250x450.jpg",
-           "https://cdn.appleapps.ir/2020/05/at-15896286141498-250x450.jpg"
-         ],
-         },
-        {
-        "name": "پیام رسان ایتا",
-        "developerName": "برنامه‌ای برای همه نیازهای کاربران ایرانی",
-        "version": "4.1.0",
-        "icon": "https://app.appleapps.ir/storage/2020/05/at-16871008981717-100x100.jpg",
-        "down": "https://dl3.apptrackr.ir/ios/2024/eitaa4.1.0.ipa",
-        "category": "Jailbreaks",
-        "screenshots": [
-          "https://cdn.appleapps.ir/2020/05/at-16692705641895-250x450.png",
-          "https://cdn.appleapps.ir/2020/05/at-16692705621700-250x450.png",
-          "https://cdn.appleapps.ir/2020/05/at-16692705601806-250x450.png",
-          "https://cdn.appleapps.ir/2020/05/at-15896282851732-250x450.jpg"
-     ],
-     },
-        {
-         "name": "آپارات",
-         "developerName": "آپارات - سرویس اشتراک ویدیو",
-         "version": "5.8.0",
-         "icon": "https://app.appleapps.ir/storage/2020/05/at-16888353121853-100x100.jpeg",
-         "down": "https://dl3.apptrackr.ir/ios/2024/aparat5.8.0.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
+            "https://app.appleapps.ir/storage/2024/05/at-17157743301972-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/05/at-17157743271970-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/05/at-17157743231850-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/05/at-17157743191574-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/05/at-17157743411879-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/05/at-17157743381197-250x450.jpeg"
+            ],
+            },
+            {
+            "name": "آبان تتر",
+            "developerName": "صرافی ارز دیجیتال",
+            "version": "4.1.1",
+            "icon": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/abantether4.1.1.ipa",
+            "category": "Jailbreaks",
+            "description": "",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2024/06/at-17172675511792-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/06/at-17172675571417-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/06/at-17172675561266-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/06/at-17172675551128-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/06/at-17172675541212-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/06/at-17172675531866-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/06/at-17172675531308-250x450.jpeg"
+            ],
+            },
+            {
+            "name": "زیتونیکس",
+            "developerName": "دزدگیر و ردیاب هوشمند خودرو",
+            "version": "5.5",
+            "icon": "https://cdn.appleapps.ir/2020/05/at-16225608081794-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2023/xitonix5.5.ipa",
+            "category": "Jailbreaks",
+            "description": "",
+            "screenshots": [
+            "https://cdn.appleapps.ir/2020/05/at-16267294941876-250x450.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-16267294921142-250x450.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-16267294911326-250x450.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-16267294891597-250x450.jpg"
+            ],
+            },
+            {
+            "name": "رمز ساز ریما",
+            "developerName": "تولید رمز یکبار مصرف صادرات ( رمز ساز ریما )",
+            "version": "1.8.2",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-16894495501633-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/rima1.8.2.ipa",
+            "category": "Jailbreaks",
+            "description": "",
+            "screenshots": [
+            "https://cdn.appleapps.ir/2020/05/at-15896286141158-250x450.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-15896286131993-250x450.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-15896286121577-250x450.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-15896286151081-250x450.jpg",
+            "https://cdn.appleapps.ir/2020/05/at-15896286141498-250x450.jpg"
+            ],
+            },
+            {
+            "name": "پیام رسان ایتا",
+            "developerName": "برنامه‌ای برای همه نیازهای کاربران ایرانی",
+            "version": "4.1.0",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-16871008981717-100x100.jpg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/eitaa4.1.0.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://cdn.appleapps.ir/2020/05/at-16692705641895-250x450.png",
+            "https://cdn.appleapps.ir/2020/05/at-16692705621700-250x450.png",
+            "https://cdn.appleapps.ir/2020/05/at-16692705601806-250x450.png",
+            "https://cdn.appleapps.ir/2020/05/at-15896282851732-250x450.jpg"
+            ],
+            },
+            {
+            "name": "آپارات",
+            "developerName": "آپارات - سرویس اشتراک ویدیو",
+            "version": "5.8.0",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-16888353121853-100x100.jpeg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/aparat5.8.0.ipa",
+            "category": "Jailbreaks",
+            "description": "",
+            "screenshots": [
            "https://app.appleapps.ir/storage/2020/05/at-17181340541765-250x450.jpeg",
            "https://app.appleapps.ir/storage/2020/05/at-17181340551297-250x450.jpeg",
            "https://app.appleapps.ir/storage/2020/05/at-17181340581540-250x450.jpeg",
            "https://app.appleapps.ir/storage/2020/05/at-17181340611464-250x450.jpeg"
-         ],
-         },
-        {
+            ],
+            },
+            {
             "name": "AppAhang Pro",
             "developerName": "اپآهنگ دنیای موسیقی",
             "version": "42.0.0",
@@ -434,73 +422,73 @@
             "down": "https://dl3.apptrackr.ir/ios/2024/AppAhangProV39.ipa",
             "category": "Jailbreaks",
             "screenshots": [
-              "https://app.appleapps.ir/storage/2023/06/at-16872698681053.png",
-              "https://app.appleapps.ir/storage/2023/06/at-16872698711037.jpg",
-              "https://app.appleapps.ir/storage/2023/06/at-16872698711013.png",
-              "https://app.appleapps.ir/storage/2023/06/at-16872698701673.png",
-              "https://app.appleapps.ir/storage/2023/06/at-16872698691805.png",
-              "https://app.appleapps.ir/storage/2023/06/at-16872698681258.png"
-        ],
-        },
-        {
-         "name": "ساد24",
-         "developerName": "خدمات مدیریت چک و امور مالی",
-         "version": "1.0",
-         "icon": "https://app.appleapps.ir/storage/2024/04/at-17138576531268-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/sad24v1.0.ipa",
-         "category": "Jailbreaks",
-         "description": ""
-         },
-        {
-         "name": "ماکسیم",
-         "developerName": "درخواست آنلاین تاكسی ماکسیم",
-         "version": "3.175",
-         "icon": "https://cdn.appleapps.ir/2020/05/at-16061555041620-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2023/taximapp3.175.ipa",
-         "category": "Jailbreaks",
-         "description": "",
-         "screenshots": [
-           "https://cdn.appleapps.ir/2020/05/at-15896274971459-250x450.png",
-           "https://cdn.appleapps.ir/2020/05/at-15896274961294-250x450.png",
-           "https://cdn.appleapps.ir/2020/05/at-15896274941099-250x450.png",
-           "https://cdn.appleapps.ir/2020/05/at-15896274991983-250x450.png"
-         ],
-         },
-        {
-         "name": "we | پیامرسان we",
-         "developerName": "پیامرسانی متمرکز بر سرعت و امنیت",
-         "version": "1.8.6",
-         "icon": "https://cdn.appleapps.ir/2022/04/at-16511379441471-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2022/wegim-v1.8.6-appleappsir.ipa",
-         "category": "Jailbreaks",
-         "description": "پیام رسان We، شبکه پیام رسانی است که تمرکز بر سرعت و امنیت دارد.\nپیام های شما در فضای ابری نگهداری شده و لازم به سینک کردن پیام ها نیست و در تمام پلتفرم ها در دسترس خواهد بود.\nاطلاعات شخصی شما تحت محافظت شدید قرار دارد و حتی کارکنان We هم به آن ها دسترسی نخواهند داشت و پیام ها به صورت رمزنگاری End to End ارسال و نگهداری میشوند",
-         "screenshots": [
+            "https://app.appleapps.ir/storage/2023/06/at-16872698681053.png",
+            "https://app.appleapps.ir/storage/2023/06/at-16872698711037.jpg",
+            "https://app.appleapps.ir/storage/2023/06/at-16872698711013.png",
+            "https://app.appleapps.ir/storage/2023/06/at-16872698701673.png",
+            "https://app.appleapps.ir/storage/2023/06/at-16872698691805.png",
+            "https://app.appleapps.ir/storage/2023/06/at-16872698681258.png"
+            ],
+            },
+            {
+            "name": "ساد24",
+            "developerName": "خدمات مدیریت چک و امور مالی",
+            "version": "1.0",
+            "icon": "https://app.appleapps.ir/storage/2024/04/at-17138576531268-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/sad24v1.0.ipa",
+            "category": "Jailbreaks",
+            "description": ""
+            },
+            {
+            "name": "ماکسیم",
+            "developerName": "درخواست آنلاین تاكسی ماکسیم",
+            "version": "3.175",
+            "icon": "https://cdn.appleapps.ir/2020/05/at-16061555041620-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2023/taximapp3.175.ipa",
+            "category": "Jailbreaks",
+            "description": "",
+            "screenshots": [
+            "https://cdn.appleapps.ir/2020/05/at-15896274971459-250x450.png",
+            "https://cdn.appleapps.ir/2020/05/at-15896274961294-250x450.png",
+            "https://cdn.appleapps.ir/2020/05/at-15896274941099-250x450.png",
+            "https://cdn.appleapps.ir/2020/05/at-15896274991983-250x450.png"
+            ],
+            },
+            {
+            "name": "we | پیامرسان we",
+            "developerName": "پیامرسانی متمرکز بر سرعت و امنیت",
+            "version": "1.8.6",
+            "icon": "https://cdn.appleapps.ir/2022/04/at-16511379441471-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2022/wegim-v1.8.6-appleappsir.ipa",
+            "category": "Jailbreaks",
+            "description": "پیام رسان We، شبکه پیام رسانی است که تمرکز بر سرعت و امنیت دارد.\nپیام های شما در فضای ابری نگهداری شده و لازم به سینک کردن پیام ها نیست و در تمام پلتفرم ها در دسترس خواهد بود.\nاطلاعات شخصی شما تحت محافظت شدید قرار دارد و حتی کارکنان We هم به آن ها دسترسی نخواهند داشت و پیام ها به صورت رمزنگاری End to End ارسال و نگهداری میشوند",
+            "screenshots": [
            "https://cdn.appleapps.ir/2022/04/at-16511378861565-250x450.jpeg",
            "https://cdn.appleapps.ir/2022/04/at-16511378831684-250x450.jpeg",
            "https://cdn.appleapps.ir/2022/04/at-16511378811689-250x450.jpeg",
            "https://cdn.appleapps.ir/2022/04/at-16511378961283-250x450.jpeg",
            "https://cdn.appleapps.ir/2022/04/at-16511378931338-250x450.jpeg",
            "https://cdn.appleapps.ir/2022/04/at-16511378911254-250x450.jpeg"
-         ],
-         },
-        {
-         "name": "دیجیکالا",
-         "developerName": "فروشگاهی بزرگ در جیب شما",
-         "version": "3.1.0",
-         "icon": "https://app.appleapps.ir/storage/2020/05/at-17000171301610-100x100.png",
-         "down": "https://dl3.apptrackr.ir/ios/2024/digikala3.1.0.ipa",
-         "category": "Jailbreaks",
-         "screenshots": [
-           "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/1654076678-sibapp-DK-R1.jpg",
-           "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R2.jpg",
-           "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R3.jpg",
-           "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R4.jpg",
-           "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R5.jpg",
-           "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R6.jpg",
-           "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R7.jpg"
-         ],
-         },
-        {
+            ],
+            },
+            {
+            "name": "دیجیکالا",
+            "developerName": "فروشگاهی بزرگ در جیب شما",
+            "version": "3.1.0",
+            "icon": "https://app.appleapps.ir/storage/2020/05/at-17000171301610-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2024/digikala3.1.0.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/1654076678-sibapp-DK-R1.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R2.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R3.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R4.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R5.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R6.jpg",
+            "https://sandbox.sibirani.ir/statics_public/attachments/2022/6/1/sibapp-DK-R7.jpg"
+            ],
+            },
+            {
             "name": "فرهاد اکسچنج",
             "developerName": "صرافی ارز دیجیتال",
             "version": "1.2.0",
@@ -508,13 +496,13 @@
             "down": "https://dl3.apptrackr.ir/ios/2024/farhadex1.2.0.ipa",
             "category": "Jailbreaks",
             "screenshots": [
-              "https://app.appleapps.ir/storage/2023/05/at-16854770561171.png",
-              "https://app.appleapps.ir/storage/2023/05/at-16854770551586.png",
-              "https://app.appleapps.ir/storage/2023/05/at-16854770541516.png",
-              "https://app.appleapps.ir/storage/2023/05/at-16854770571328.png"
-        ],
-        },
-        {
+            "https://app.appleapps.ir/storage/2023/05/at-16854770561171.png",
+            "https://app.appleapps.ir/storage/2023/05/at-16854770551586.png",
+            "https://app.appleapps.ir/storage/2023/05/at-16854770541516.png",
+            "https://app.appleapps.ir/storage/2023/05/at-16854770571328.png"
+            ],
+            },
+            {
             "name": "قبضینو | Ghabzino",
             "developerName": "استعلام و پرداخت انواع قبض",
             "version": "1.3.1",
@@ -522,32 +510,32 @@
             "down": "https://dl3.apptrackr.ir/ios/2024/ghabzino1.3.1.ipa",
             "category": "Jailbreaks",
             "screenshots": [
-              "https://app.appleapps.ir/storage/2020/06/at-17059252781163-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2020/06/at-17059252861151-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2020/06/at-17059252851978-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2020/06/at-17059252841553-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2020/06/at-17059252831413-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2020/06/at-17059252821471-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2020/06/at-17059252811005-250x450.jpeg",
-              "https://app.appleapps.ir/storage/2020/06/at-17059252801553-250x450.jpeg"
-        ],
-        },
-        {
-         "name": "هفـ‌هشتاد (#780*)",
-         "developerName": "خرید شارژ ، بسته اینترنتی ، کارت به کارت",
-         "version": "4.1.6",
-         "icon": "https://app.appleapps.ir/storage/2022/05/at-16966877041964-100x100.jpeg",
-         "down": "https://dl3.apptrackr.ir/ios/2024/hafhashtaf4.1.6.ipa",
-         "category": "Jailbreaks",
-         "screenshots": [
-         "https://app.appleapps.ir/storage/2022/05/at-16966877391154.png",
-         "https://app.appleapps.ir/storage/2022/05/at-16966877371063.png",
-         "https://app.appleapps.ir/storage/2022/05/at-16966877351640.png",
-         "https://app.appleapps.ir/storage/2022/05/at-16966877311076.png",
-         "https://app.appleapps.ir/storage/2022/05/at-16966877301909.jpeg",
-         "https://app.appleapps.ir/storage/2022/05/at-16966877331866.png"
-        ],
-        },
+            "https://app.appleapps.ir/storage/2020/06/at-17059252781163-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2020/06/at-17059252861151-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2020/06/at-17059252851978-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2020/06/at-17059252841553-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2020/06/at-17059252831413-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2020/06/at-17059252821471-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2020/06/at-17059252811005-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2020/06/at-17059252801553-250x450.jpeg"
+            ],
+            },
+            {
+            "name": "هفـ‌هشتاد (#780*)",
+            "developerName": "خرید شارژ ، بسته اینترنتی ، کارت به کارت",
+            "version": "4.1.6",
+            "icon": "https://app.appleapps.ir/storage/2022/05/at-16966877041964-100x100.jpeg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/hafhashtaf4.1.6.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2022/05/at-16966877391154.png",
+            "https://app.appleapps.ir/storage/2022/05/at-16966877371063.png",
+            "https://app.appleapps.ir/storage/2022/05/at-16966877351640.png",
+            "https://app.appleapps.ir/storage/2022/05/at-16966877311076.png",
+            "https://app.appleapps.ir/storage/2022/05/at-16966877301909.jpeg",
+            "https://app.appleapps.ir/storage/2022/05/at-16966877331866.png"
+            ],
+            },
         {
         "name": "زست | Zest",
         "developerName": "فروش، فاکتور و حسابداری",
@@ -1005,8 +993,8 @@
             "name": "SnapEdit++",
             "developerName": "برنامه ویرایش عکس و ویدئو با هوش مصنوعی",
             "bundleIdentifier": "com.sfun.snapedit",
-            "version": "5.5.5",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/SnapEditv5.5.5Pro.ipa",
+            "version": "5.5.6",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/SnapEditv5.5.6Pro.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
@@ -1044,8 +1032,8 @@
             "name": "YouTube YTLite",
             "developerName": "یوتیوب پیشرفته با قابلیت دانلود",
             "bundleIdentifier": "com.google.ios.youtube",
-            "version": "19.49.5",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/YTLitePlus19.49.5.ipa",
+            "version": "19.49.7",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/YTLitePlus19.49.7.1.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
@@ -1145,8 +1133,8 @@
             "name": "Documents Pro",
             "developerName": "بهترین فایل منیجر و دانلودر آی او اس",
             "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
-            "version": "8.14.7",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Documents_8.14.7.ipa",
+            "version": "8.14.13",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Documentsv8.14.13.ipa",
             "category": "Tweaked Apps",
             "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
             "developerName": "",
@@ -1169,8 +1157,8 @@
              "developerName": "نسخه پریمیوم نسل هشتم",
              "bundleIdentifier": "com.firecore.infuse",
              "appstore": "com.firecore.infuse",
-             "version": "8.0.6",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Infuse8.0.6Plus1.3.2.ipa",
+             "version": "8.0.8",
+             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Infusev8.0.8InfusePlusv1.3.2.ipa",
              "category": "Tweaked Apps",
              "developerName": "",
              "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17293473171467-100x100.jpg"
@@ -1191,8 +1179,8 @@
              "name": "BeautyPlus Pro",
              "developerName": "دوربین سلفی، اپلیکیشن چهره و استودیو تصاویر",
              "bundleIdentifier": "com.commsource.BeautyPlus",
-             "version": "7.8.000",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/BeautyPlus7.8.000.ipa",
+             "version": "7.8.010",
+             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/BeautyPlus7.8.010.ipa",
              "category": "Tweaked Apps",
              "developerName": "",
              "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17342517531397-100x100.jpg",
@@ -1202,8 +1190,8 @@
             "name": "Picsart++",
             "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
             "bundleIdentifier": "com.picsart.studio",
-            "version": "26.5.5",
-            "downloadURL": "hhttps://dl3.apptrackr.ir/ios/2024/PicsArt26.5.5.ipa",
+            "version": "26.5.7",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PicsArt26.5.7.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17286067231368-100x100.jpg",
@@ -1457,8 +1445,8 @@
             "name": "Mojo Pro",
             "developerName": "ویرایش حرفه ای استوری های اینستاگرام",
             "bundleIdentifier": "archery.storify",
-            "version": "1.208.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Mojov1.208.0t.ipa",
+            "version": "1.209.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Mojov1.209.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17154202961599-100x100.jpg",
@@ -1530,6 +1518,22 @@
     
     "Games": [
 
+       {
+         "name": "همراه بانک ملت",
+         "developerName": "اپلیکیشن رسمی همراه بانک ملت",
+         "version": "1.2.4",
+         "icon": "https://app.appleapps.ir/storage/2020/05/at-16865736401056-100x100.jpeg",
+         "down": "https://dl3.apptrackr.ir/ios/2024/melatbank1.2.4.ipa",
+         "category": "Hacked Games",
+          "screenshots": [
+          "https://fs.sibapp.net/file/image/application/1134cbf585604a6daeeb3c5f61333d4f.png",
+          "https://fs.sibapp.net/file/image/application/60143c0fd29e4890b15c5e2b55354854.png",
+          "https://fs.sibapp.net/file/image/application/9d482c6ef6b9449c82f336e0d84453ea.png",
+          "https://fs.sibapp.net/file/image/application/e2139787bbdf493bb5388cd97fa1bc1e.png",
+          "https://fs.sibapp.net/file/image/application/283b349070274922bc93e08f4e9fe66d.png",
+          "https://fs.sibapp.net/file/image/application/71631928e5364c2488f53d6ac29eaa2c.png"
+       ],
+       },
        {
            "name": "همراه کارت",
            "developerName": "سامانه انتقال پول",
@@ -1782,22 +1786,6 @@
         ],
         },
        {
-         "name": "همراه بانک ملت",
-         "developerName": "اپلیکیشن رسمی همراه بانک ملت",
-         "version": "1.2.3",
-         "icon": "https://app.appleapps.ir/storage/2020/05/at-16865736401056-100x100.jpeg",
-         "down": "https://dl3.apptrackr.ir/ios/2024/melatbank1.2.3.ipa",
-         "category": "Hacked Games",
-          "screenshots": [
-          "https://fs.sibapp.net/file/image/application/1134cbf585604a6daeeb3c5f61333d4f.png",
-          "https://fs.sibapp.net/file/image/application/60143c0fd29e4890b15c5e2b55354854.png",
-          "https://fs.sibapp.net/file/image/application/9d482c6ef6b9449c82f336e0d84453ea.png",
-          "https://fs.sibapp.net/file/image/application/e2139787bbdf493bb5388cd97fa1bc1e.png",
-          "https://fs.sibapp.net/file/image/application/283b349070274922bc93e08f4e9fe66d.png",
-          "https://fs.sibapp.net/file/image/application/71631928e5364c2488f53d6ac29eaa2c.png"
-       ],
-       },
-       {
            "name": "همراه‌ بانک مهر ایران",
            "developerName": "بانک مهرایران",
            "version": "7.6.1740",
@@ -2027,9 +2015,9 @@
             "name": "Hitman Sniper",
             "developerName": "بازی محبوب هیتمن",
             "bundleIdentifier": "com.squareenixmontreal.hitmansniper",
-            "version": "1.11",
+            "version": "1.12",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/HitmanSniperv1.11.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/HitmanSniperv1.12.ipa",
             "category": "Emulators",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17194214601256-100x100.jpg",
