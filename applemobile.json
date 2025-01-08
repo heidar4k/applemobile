@@ -18,7 +18,51 @@
             ],
         
             "Jailbreaks": [
-            
+
+            {
+            "name": "دولت من",
+            "developerName": "پنجره ملی خدمات دولت هوشمند",
+            "version": "2.3.3",
+            "icon": "https://app.appleapps.ir/storage/2023/06/at-16862403911060-100x100.jpg",
+            "down": "https://dl3.apptrackr.ir/ios/2025/mygov2.3.3.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2023/06/at-16862405481621.png",
+            "https://app.appleapps.ir/storage/2023/06/at-16862405501761.png",
+            "https://app.appleapps.ir/storage/2023/06/at-16862405511399.png",
+            "https://app.appleapps.ir/storage/2023/06/at-16862405541932.png"
+            ],
+            },
+            {
+            "name": "کپ | Capp",
+            "developerName": "کپ اپلیکیشن حمل و نقل برون شهری مخصوص پایانه های بار",
+            "version": "0.1.9",
+            "icon": "https://app.appleapps.ir/storage/2024/10/at-17281107021181-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2025/capp0.1.9.ipa",
+            "category": "Jailbreaks",
+            "description": "",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2024/10/at-17281107351076-250x450.png",
+            "https://app.appleapps.ir/storage/2024/10/at-17281107351043-250x450.png",
+            "https://app.appleapps.ir/storage/2024/10/at-17281107361254-250x450.png"
+            ],
+            },             
+            {
+            "name": "زرین پال من",
+            "developerName": "درگاه پرداخت اینترنتی",
+            "version": "5.6.06",
+            "icon": "https://app.appleapps.ir/storage/2020/06/at-17233772771780-100x100.jpg",
+            "down": "https://dl3.apptrackr.ir/ios/2025/zarinpal5.6.06.ipa",
+            "category": "Jailbreaks",
+            "description": "",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2020/06/at-17233770171379-250x450.jpg",
+            "https://app.appleapps.ir/storage/2020/06/at-17233770181509-250x450.jpg",
+            "https://app.appleapps.ir/storage/2020/06/at-17233770191998-250x450.jpg",
+            "https://app.appleapps.ir/storage/2020/06/at-17233770201120-250x450.jpg",
+            "https://app.appleapps.ir/storage/2020/06/at-17233770211920-250x450.jpg"
+            ],
+            },            
             {
             "name": "آپ - آسان پرداخت",
             "developerName": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
@@ -60,19 +104,6 @@
             "https://cdn.appleapps.ir/2020/07/at-15937115441828-250x450.jpeg"
             ],
             },            
-            {
-            "name": "دولت همراه",
-            "developerName": "خدمات دستگاه‏‌های اجرایی",
-            "version": "11.15.11",
-            "icon": "https://cdn.appleapps.ir/2020/05/at-15896314431802-100x100.png",
-            "down": "https://dl2.apptrackr.ir/user1/ios/2022/dolathamrahb-v11.15.11.ipa",
-            "category": "Jailbreaks",
-            "screenshots": [
-            "https://cdn.appleapps.ir/2020/06/at-16375257801472-250x450.jpeg",
-            "https://cdn.appleapps.ir/2020/06/at-16375257801472-250x450.jpeg",
-            "https://cdn.appleapps.ir/2020/06/at-16375257791942-250x450.jpeg"
-            ],
-            },
             {
             "name": "Gap Messenger",
             "developerName": "پیام رسانی مطابق با بروزترین فناوری‌های جهان",
@@ -193,9 +224,9 @@
             {
             "name": "دیوار",
             "developerName": "محل انتشار رایگان انواع آگهی",
-            "version": "12.3.1",
+            "version": "12.5.4",
             "icon": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/divar12.3.1.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2024/divar12.5.4.ipa",
             "category": "Jailbreaks",
             "screenshots": [
             "https://sandbox.sibirani.ir/statics_public/attachments/2023/3/7/AppStore_iApps_1.jpg",
@@ -339,9 +370,9 @@
             {
             "name": "آبان تتر",
             "developerName": "صرافی ارز دیجیتال",
-            "version": "4.1.1",
+            "version": "4.3.2",
             "icon": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/abantether4.1.1.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2025/abantether4.3.2.ipa",
             "category": "Jailbreaks",
             "description": "",
             "screenshots": [
@@ -805,9 +836,9 @@
            {
            "name": "Nobitex | نوبیتکس",
            "developerName": "صرافی آنلاین - خرید فروش ارز دیجیتال",
-           "version": "3.3.1",
+           "version": "3.4.0",
            "icon": "https://app.appleapps.ir/storage/2022/02/at-16839460771868-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2024/nobitex3.3.1.ipa",
+           "down": "https://dl3.apptrackr.ir/ios/2025/nobitex3.4.0.ipa",
            "category": "Jailbreaks",
            "screenshots": [
            "https://app.appleapps.ir/storage/2022/02/at-16839460991610-250x450.jpeg",
@@ -872,6 +903,20 @@
     
     "Tweaked Apps": [
 
+
+     {
+            "name": "Duolingo ++",
+            "developerName": "آموزش زبان های خارجی ، نسخه بدون نیاز به خرید درونی",
+            "bundleIdentifier": "com.duolingo.DuolingoMobile",
+            "version": "7.37.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/xDuolingo7.35.0.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2020/06/at-17343745581451-100x100.jpg",
+            "appstore": "com.duolingo.DuolingoMobile"
+
+     },  
      {
             "name": "Loora++",
             "developerName": "تمرین گفتاری و شنیداری انگلیسی",
@@ -915,12 +960,12 @@
             "name": "AirBrush ++",
             "developerName": "یکی از بهترین های روتوش صورت و زیبا سازی عکس های سلفی",
             "bundleIdentifier": "com.magicv.AirBrush",
-            "version": "7.4.2",
-            "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/xgHC8ALCC7K1Blc4YusgB6.ipa",
+            "version": "7.5.300",
+            "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/A0C3svFiJ1zdnDUinM6Iei.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17328105641671-100x100.jpg",
+            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17361717681917-100x100.jpg",
             "appstore": "com.magicv.AirBrush"
 
      }, 
@@ -993,8 +1038,8 @@
             "name": "SnapEdit++",
             "developerName": "برنامه ویرایش عکس و ویدئو با هوش مصنوعی",
             "bundleIdentifier": "com.sfun.snapedit",
-            "version": "5.5.6",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/SnapEditv5.5.6Pro.ipa",
+            "version": "5.5.7",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/SnapEditv5.5.7Pro.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
@@ -1078,8 +1123,8 @@
             "name": "Captions Pro",
             "developerName": "زیرنویس خودکار و ویرایش ویدیو",
             "bundleIdentifier": "boomer.Smart-Video",
-            "version": "11.70.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Captions11.70.0.ipa",
+            "version": "11.70.2",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Captions11.70.2.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17309542841380-100x100.jpg",
@@ -1118,6 +1163,19 @@
             "iconURL": "https://app.appleapps.ir/storage/2020/06/at-16930276561236-100x100.png",
             "appstore": "com.burbn.instagram"
         },
+        {
+            "name": "InstagramBH",
+            "developerName": "اینستاگرام پیشرفنه",
+            "bundleIdentifier": "com.burbn.instagram",
+            "version": "361.0.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/BHInsta361.0.0.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2020/06/at-16930276561236-100x100.png",
+            "appstore": "com.burbn.instagram"
+
+         },         
          {
              "name": "CamScanner Pro",
              "developerName": "نسخه آنلاک شده قدرتمند ترین برنامه اسکنر",
@@ -1311,8 +1369,8 @@
            "name": "Scanner Pro",
            "developerName": "نسخه پریمیوم اسکنری پیشرفته در جیب شما",
            "bundleIdentifier": "com.readdle.Scanner",
-           "version": "8.25",
-           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ScannerPro8.25.ipa",
+           "version": "8.25.2",
+           "downloadURL": "https://dl3.apptrackr.ir/ios/2025/com.readdle.Scanner8.25.2.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17342739081462-100x100.jpg",
@@ -1521,7 +1579,7 @@
        {
          "name": "همراه بانک ملت",
          "developerName": "اپلیکیشن رسمی همراه بانک ملت",
-         "version": "1.2.4.1",
+         "version": "1.2.4",
          "icon": "https://app.appleapps.ir/storage/2020/05/at-16865736401056-100x100.jpeg",
          "down": "https://dl3.apptrackr.ir/ios/2025/mellat1.2.4.ipa",
          "category": "Hacked Games",
@@ -1551,9 +1609,9 @@
        {
            "name": "موبایل بانک سینا",
            "developerName": "نرم افزار موبایل بانک سینا",
-           "version": "2.14.46",
+           "version": "2.14.52",
            "icon": "https://app.appleapps.ir/storage/2024/12/at-17341676751448-100x100.jpeg",
-           "down": "https://dl3.apptrackr.ir/ios/2024/hbsina2.14.46.ipa",
+           "down": "https://dl3.apptrackr.ir/ios/2025/banksina2.14.52.ipa",
            "category": "Hacked Games",
            "screenshots": [
              "https://app.appleapps.ir/storage/2024/12/at-17341677311002.jpeg",
@@ -1776,9 +1834,9 @@
          {
         "name": "همپا | همراه بانک پست بانک",
         "developerName": "موبایل بانک پست بانک",
-        "version": "2.14.38",
+        "version": "2.14.52",
         "icon": "https://app.appleapps.ir/storage/2020/05/at-16905334141911-100x100.png",
-        "down": "https://dl3.apptrackr.ir/ios/2024/hampa2.14.38.ipa",
+        "down": "https://dl3.apptrackr.ir/ios/2024/hampa2.14.52.ipa",
         "category": "Hacked Games",
         "screenshots": [
         "https://fs.sibapp.net/file/image/application/3d53cf31b7e040a8a2e4cd1af2bebaae.jpeg",
