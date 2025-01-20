@@ -1238,7 +1238,9 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2025/PicsArt26.6.2.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17286067231368-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17286067231368-100x100.jpg",
+            "appstore": "com.picsart.studio"
+
         },
         {
             "name": "Nicegram Premium",
@@ -1248,7 +1250,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Nicegram1.7.8.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/09/at-17254689561269-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2024/09/at-17254689561269-100x100.jpg",
+            "appstore": "app.nicegram"
         },
         {
             "name": "Aloha Browser Premium",
@@ -1258,7 +1261,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Alohav6.4.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17337627081670-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17337627081670-100x100.jpg",
+            "appstore": "com.alohabrowser.alohabrowser"
         },
         {
           "name": "Remini++ Fast Ads",
@@ -1268,7 +1272,8 @@
           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/app-v2.10.72.ipa",
           "category": "Tweaked Apps",
           "developerName": "",
-          "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17284953361371-100x100.jpg"
+          "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17284953361371-100x100.jpg",
+          "appstore": "com.bigwinepot.nwdn.international"
         },
         {
           "name": "PDF Expert Pro",
@@ -1278,7 +1283,8 @@
           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PDFExpertv7.22.14.ipa<",
           "category": "Tweaked Apps",
           "developerName": "",
-          "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16969184101898-100x100.jpg"
+          "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16969184101898-100x100.jpg",
+          "appstore": "com.readdle.PDFExpert5"
         },
         {
           "name": "Logo Maker ++",
@@ -1288,7 +1294,8 @@
           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/com.mkapps.logoMakerApp5.5.ipa",
           "category": "Tweaked Apps",
           "developerName": "",
-          "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17171567141630-100x100.jpg"
+          "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17171567141630-100x100.jpg",
+          "appstore": "com.mkapps.logoMakerApp"
         },
         {
             "name": "CapCut Pro",
@@ -1298,7 +1305,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/jbU3yeLtujQsvZO2B8dw83.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/07/at-17219119371834-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2024/07/at-17219119371834-100x100.jpg",
+            "appstore": "com.lemon.lvoverseas"
         },
         {
             "name": "YouTube Music Premium",
@@ -1308,7 +1316,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2025/YTMU2.3.1v7.33.2.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17309531031468-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17309531031468-100x100.jpg",
+            "appstore": "com.google.ios.youtubemusic"
          },
         {
             "name": "ToonMe++",
@@ -1318,7 +1327,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/informelabtoonme0.11.14.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17333333331960-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17333333331960-100x100.jpg",
+            "appstore": "com.informelab.toonme"
         },
         {
             "name": "ToonHub++",
@@ -1329,7 +1339,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ToonHub3.7.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16945139441287-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16945139441287-100x100.jpg",
+            "appstore": "com.risingcabbage.cartoon"
         },
         {
             "name": "Longman Pro",
@@ -1350,7 +1361,8 @@
            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/com.readdle.Scanner8.25.2.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17342739081462-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17342739081462-100x100.jpg",
+           "appstore": "com.readdle.Scanner"
         },
         {
            "name": "FLTR ++",
@@ -1360,7 +1372,8 @@
            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/feeltyv4.18.4.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17337606611412-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17337606611412-100x100.jpg",
+           "appstore": "com.feelty"
         },
         {
            "name": "Lightroom Premium",
@@ -1370,7 +1383,8 @@
            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Lightroom10.1.1.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17192459891518-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17192459891518-100x100.jpg",
+           "appstore": "com.adobe.lrmobilephone"
         },
         {
            "name": "Everlook++",
@@ -1380,7 +1394,8 @@
            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Everlook3.3.19.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17057674311857-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17057674311857-100x100.jpg",
+           "appstore": "com.alphatech.everlook"
         },
         {
            "name": "Photo Lab++",
@@ -1390,7 +1405,8 @@
            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PhotoLab3.12.36.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17328028231322-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17328028231322-100x100.jpg",
+           "appstore": "com.photo"
         },
         {
            "name": "Photo Lab PRO HD",
@@ -1400,7 +1416,8 @@
            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PhotoLabPROHD3.12.35.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16972883961298-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16972883961298-100x100.jpg",
+           "appstore": "com.photoprohd"
         },
         {
            "name": "nPlayer Plus",
@@ -1411,7 +1428,8 @@
            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/nPlayerPlusv3.12.17.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16959919051733-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2023/09/at-16959919051733-100x100.jpg",
+           "appstore": "com.newin.nplayer"
         },
         {
            "name": "AnkiMobile Flashcards",
@@ -1421,7 +1439,8 @@
            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/AnkiMobileFlashcardsv24.11.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17331245281975-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17331245281975-100x100.jpg",
+           "appstore": "net.ichi2.anki"
         },
         {
            "name": "YOne4Wall 4K Wallpapers",
@@ -1432,7 +1451,8 @@
            "category": "Tweaked Apps",
            "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17150571171090-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17150571171090-100x100.jpg",
+           "appstore": "one4studio.wallpaper.one4wall"
         },
         {
            "name": "Perfect365 (Unlocked)",
@@ -1442,7 +1462,8 @@
            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Perfect3659.72.34.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17339109791723-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17339109791723-100x100.jpg",
+           "appstore": "com.arcsoft.Perfect365"
         },
         {
            "name": "InCollage Premium",
@@ -1452,7 +1473,8 @@
            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/InCollage2.0.43.ipa",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17339112761023-100x100.jpg"
+           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17339112761023-100x100.jpg",
+           "appstore": "PhotoEditor.PhotoCollage.inCollage"
         },
         {
            "name": "Bazaart Premium",
@@ -1462,7 +1484,8 @@
            "downloadURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Bazaart-v10.5.1",
            "category": "Tweaked Apps",
            "developerName": "",
-           "iconURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Bazaart.jpg"
+           "iconURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Bazaart.jpg",
+           "appstore": "co.bazaart.app"
         },
         {
             "name": "Mojo Pro",
@@ -1472,7 +1495,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Mojov1.210.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17363203831418-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17363203831418-100x100.jpg",
+            "appstore": "archery.storify"
         },
         {
             "name": "Facetune Pro",
@@ -1499,7 +1523,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2025/VNv1.87.2.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17301681771252-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17301681771252-100x100.jpg",
+            "appstore": "com.frontrow.vlog"
         },
         {
             "name": "Funimate Pro",
@@ -1509,7 +1534,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Funimate15.12.3.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010325791779-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010325791779-100x100.jpg",
+            "appstore": "com.avcr.Funimate"
         },
         {
             "name": "Photoshop Express Pro",
@@ -1519,7 +1545,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PSExpressv25.1.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17051651081292-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17051651081292-100x100.jpg",
+            "appstore": "com.adobe.PSMobile"
         },
         {
             "name": "Speedtest Premium",
