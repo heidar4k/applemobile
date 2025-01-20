@@ -903,7 +903,7 @@
     "Tweaked Apps": [
 
 
-     {
+            {
             "name": "Duolingo ++",
             "developerName": "آموزش زبان های خارجی ، نسخه بدون نیاز به خرید درونی",
             "bundleIdentifier": "com.duolingo.DuolingoMobile",
@@ -914,9 +914,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2020/06/at-17343745581451-100x100.jpg",
             "appstore": "com.duolingo.DuolingoMobile"
-
-     },  
-     {
+            },  
+            {
             "name": "Loora++",
             "developerName": "تمرین گفتاری و شنیداری انگلیسی",
             "bundleIdentifier": "ai.loora.Loora-iOS",
@@ -927,9 +926,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17334085341945-100x100.jpg",
             "appstore": "ai.loora.Loora-iOS"
-
-     },     
-     {
+            },     
+            {
             "name": "MAGIC AI ⋆ Avatar Generator++",
             "developerName": "سازنده آواتار جادویی هوش مصنوعی Ai",
             "bundleIdentifier": "ai.notmagic.magic-avatar",
@@ -940,9 +938,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17334092401276-100x100.jpg",
             "appstore": "ai.notmagic.magic-avatar"
-
-     }, 
-     {
+            }, 
+            {
             "name": "AI Photo Generator: MagicShot++",
             "developerName": "قدرت جادویی هوش مصنوعی در دستان شما Ai",
             "bundleIdentifier": "com.magicshotai",
@@ -953,9 +950,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17361686851060-100x100.jpg",
             "appstore": "com.magicshotai"
-
-     }, 
-     {
+            }, 
+            {
             "name": "AirBrush ++",
             "developerName": "یکی از بهترین های روتوش صورت و زیبا سازی عکس های سلفی",
             "bundleIdentifier": "com.magicv.AirBrush",
@@ -966,9 +962,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17361717681917-100x100.jpg",
             "appstore": "com.magicv.AirBrush"
-
-     }, 
-     {
+            }, 
+            {
             "name": "AutoCAD Pro",
             "developerName": "اتوکد نسخه کامل",
             "bundleIdentifier": "com.autodesk.autocadws",
@@ -979,9 +974,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17041970161156-100x100.jpg",
             "appstore": "com.autodesk.autocadws"
-
-      },     
-      {
+            },     
+            {
             "name": "AI Chatbot - Nova++",
             "developerName": "ChatGPT و GPT-4o",
             "bundleIdentifier": "com.apporigins.Nova",
@@ -992,9 +986,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17288093391039-100x100.jpg",
             "appstore": "com.apporigins.Nova"
-
-       }, 
-       {
+            }, 
+            {
             "name": "ID Photo++ - Passport Photo App",
             "developerName": "اپلیکیشن عکس پاسپورت",
             "bundleIdentifier": "com.maximaapps.passportphoto",
@@ -1005,9 +998,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16984038871805-100x100.jpg",
             "appstore": "com.maximaapps.passportphoto"
-
-        }, 
-        {
+            }, 
+            {
             "name": "Story Font++ | استوری فونت آنلاک شده",
             "developerName": "فونت های فارسی خفن استوری اینستاگرام",
             "bundleIdentifier": "com.mfapp.storyFontEn",
@@ -1018,9 +1010,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17319212881800-100x100.jpg",
             "appstore": "com.mfapp.storyFontEn"
-
-        },      
-        {
+            },      
+            {
             "name": "SnapEdit++",
             "developerName": "برنامه ویرایش عکس و ویدئو با هوش مصنوعی",
             "bundleIdentifier": "com.sfun.snapedit",
@@ -1031,9 +1022,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17364176531260-100x100.jpg",
             "appstore": "com.sfun.snapedit"
-
-        },
-        {
+            },
+            {
             "name": "KineMaster ++",
             "developerName": "آنلاک بهترین برنامه ویرایش ویدیو با قالب و کلیپ های آماده",
             "bundleIdentifier": "com.kinemaster.kios",
@@ -1044,9 +1034,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17334164131719-100x100.jpg",
             "appstore": "com.kinemaster.kios"
-
-        },
-        {
+            },
+            {
             "name": "Mondly ++",
             "developerName": "آموزش زبان های خارجی آنلاک شده",
             "bundleIdentifier": "com.atistudios.MondlyLanguages",
@@ -1057,9 +1046,8 @@
             "localizedDescription": "",
             "iconURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Mondly.jpg",
             "appstore": "com.atistudios.MondlyLanguages"
-
-        },
-        {
+            },
+            {
             "name": "YouTube YTLite",
             "developerName": "یوتیوب پیشرفته با قابلیت دانلود",
             "bundleIdentifier": "com.google.ios.youtube",
@@ -1070,9 +1058,8 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2020/10/at-17041843351386-100x100.png",
             "appstore": "com.google.ios.youtube"
-
-        },
-        {
+            },
+            {
             "name": "InShot Pro",
             "developerName": "اینشات بهترین برنامه ویرایش ویدیو و ابزار ادمین پیج ها",
             "bundleIdentifier": "com.camerasideas.InstaShot",
@@ -1082,8 +1069,8 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/03/at-17102512941739-100x100.jpg",
             "appstore": "com.camerasideas.InstaShot"
-        },
-        {
+            },
+            {
             "name": "Reelsapp Pro",
             "developerName": "ساخت ریلز و ادیتور استوری",
             "bundleIdentifier": "com.nextgen.reelsapp",
@@ -1093,19 +1080,19 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17332415401122-100x100.jpg",
             "appstore": "com.nextgen.reelsapp"
-        },
-        {
-           "name": "YouCam Perfect Pro",
-           "developerName": "دوربین حرفه ی با افکت های گذاری بر روی فیلم و عکس به صورت زنده",
-           "bundleIdentifier": "com.cyberlink.youperfect",
-           "version": "6.1.1",
-           "downloadURL": "https://dl3.apptrackr.ir/ios/2024/YouCamPerfect6.1.1.ipa",
-           "category": "Tweaked Apps",
-           "developerName": "",
-           "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17333069051987-100x100.jpg",
-           "appstore": "com.cyberlink.youperfect"
-        },
-        {
+            },
+            {
+            "name": "YouCam Perfect Pro",
+            "developerName": "دوربین حرفه ی با افکت های گذاری بر روی فیلم و عکس به صورت زنده",
+            "bundleIdentifier": "com.cyberlink.youperfect",
+            "version": "6.1.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/YouCamPerfect6.1.1.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17333069051987-100x100.jpg",
+            "appstore": "com.cyberlink.youperfect"
+            },
+            {
             "name": "Captions Pro",
             "developerName": "زیرنویس خودکار و ویرایش ویدیو",
             "bundleIdentifier": "boomer.Smart-Video",
@@ -1115,8 +1102,8 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17364371781078-100x100.jpg",
             "appstore": "boomer.Smart-Video"
-        },
-        {
+            },
+            {
             "name": "Persona Pro",
             "developerName": "فیلتر روتوش و آرایش صورت",
             "bundleIdentifier": "com.tickettothemoon.video.persona",
@@ -1126,8 +1113,8 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17345092751834-100x100.jpg",
             "appstore": "com.tickettothemoon.video.persona"
-        },
-        {
+            },
+            {
             "name": "Instagram Rocket Cracked",
             "developerName": "اینستاگرام پیشرفته راکت - آنلاک شده",
             "bundleIdentifier": "com.burbn.instagram",
@@ -1137,8 +1124,8 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2020/06/at-16930276561236-100x100.png",
             "appstore": "com.burbn.instagram"
-        },
-         {
+            },
+            {
             "name": "Instagram Rocket Cracked Duplicate",
             "developerName": "اینستاگرام پیشرفته مود شده ( نسخه مجزا ، داپلیکیت )",
             "bundleIdentifier": "com.burbn.instagram",
@@ -1148,8 +1135,8 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2020/06/at-16930276561236-100x100.png",
             "appstore": "com.burbn.instagram"
-        },
-        {
+            },
+            {
             "name": "InstagramBH",
             "developerName": "اینستاگرام پیشرفنه",
             "bundleIdentifier": "com.burbn.instagram",
@@ -1160,20 +1147,19 @@
             "localizedDescription": "",
             "iconURL": "https://app.appleapps.ir/storage/2020/06/at-16930276561236-100x100.png",
             "appstore": "com.burbn.instagram"
-
-         },         
-         {
-             "name": "CamScanner Pro",
-             "developerName": "نسخه آنلاک شده قدرتمند ترین برنامه اسکنر",
-             "bundleIdentifier": "com.intsig.CamScannerLite",
-             "version": "6.67.1",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/CamScanner6.67.1.ipa",
-             "category": "Tweaked Apps",
-             "developerName": "",
-             "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17025517311588-100x100.jpg",
-             "appstore": "com.intsig.CamScannerLite"
-         },
-         {
+            },         
+            {
+            "name": "CamScanner Pro",
+            "developerName": "نسخه آنلاک شده قدرتمند ترین برنامه اسکنر",
+            "bundleIdentifier": "com.intsig.CamScannerLite",
+            "version": "6.67.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/CamScanner6.67.1.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17025517311588-100x100.jpg",
+            "appstore": "com.intsig.CamScannerLite"
+            },
+            {
             "name": "Documents Pro",
             "developerName": "بهترین فایل منیجر و دانلودر آی او اس",
             "bundleIdentifier": "com.readdle.ReaddleDocsIPad",
@@ -1184,53 +1170,52 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17309229531979-100x100.jpg",
             "appstore": "com.readdle.ReaddleDocsIPad"
-         },
-         {
-             "name": "Facetune 2 Pro",
-             "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
-             "bundleIdentifier": "com.lightricks.Facetune2",
-             "version": "3.77",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Facetunev3.77MoePro.ipa",
-             "category": "Tweaked Apps",
-             "developerName": "",
-             "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17326492481926-100x100.jpg",
-             "appstore": "com.lightricks.Facetune2"
-         },
-         {
-             "name": "Infuse 8 Pro",
-             "developerName": "نسخه پریمیوم نسل هشتم",
-             "bundleIdentifier": "com.firecore.infuse",
-             "appstore": "com.firecore.infuse",
-             "version": "8.0.9",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Infusev8.0.9InfusePlusv2.0.ipa",
-             "category": "Tweaked Apps",
-             "developerName": "",
-             "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17293473171467-100x100.jpg"
-         },
-         {
-             "name": "Eevee Spotify",
-             "developerName": "توییک فوق العاده اسپاتیفای بدون محدودیت!",
-             "bundleIdentifier": "com.spotify.client",
-             "version": "9.0.10",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2025/EeveeSpotify9.0.10.ipa",
-             "category": "Tweaked Apps",
-             "developerName": "",
-             "iconURL": "https://app.appleapps.ir/storage/2022/04/at-17193242911594-100x100.png",
-             "appstore": "com.spotify.client"
-
-         },
-         {
-             "name": "BeautyPlus Pro",
-             "developerName": "دوربین سلفی، اپلیکیشن چهره و استودیو تصاویر",
-             "bundleIdentifier": "com.commsource.BeautyPlus",
-             "version": "7.8.010",
-             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/BeautyPlus7.8.010.ipa",
-             "category": "Tweaked Apps",
-             "developerName": "",
-             "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17342517531397-100x100.jpg",
-             "appstore": "com.commsource.BeautyPlus"
-         },
-         {
+            },
+            {
+            "name": "Facetune 2 Pro",
+            "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
+            "bundleIdentifier": "com.lightricks.Facetune2",
+            "version": "3.77",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Facetunev3.77MoePro.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17326492481926-100x100.jpg",
+            "appstore": "com.lightricks.Facetune2"
+            },
+            {
+            "name": "Infuse 8 Pro",
+            "developerName": "نسخه پریمیوم نسل هشتم",
+            "bundleIdentifier": "com.firecore.infuse",
+            "version": "8.0.9",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Infusev8.0.9InfusePlusv2.0.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17293473171467-100x100.jpg",
+            "appstore": "com.firecore.infuse"
+            },
+            {
+            "name": "Eevee Spotify",
+            "developerName": "توییک فوق العاده اسپاتیفای بدون محدودیت!",
+            "bundleIdentifier": "com.spotify.client",
+            "version": "9.0.10",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/EeveeSpotify9.0.10.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2022/04/at-17193242911594-100x100.png",
+            "appstore": "com.spotify.client"
+            },
+            {
+            "name": "BeautyPlus Pro",
+            "developerName": "دوربین سلفی، اپلیکیشن چهره و استودیو تصاویر",
+            "bundleIdentifier": "com.commsource.BeautyPlus",
+            "version": "7.8.010",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/BeautyPlus7.8.010.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17342517531397-100x100.jpg",
+            "appstore": "com.commsource.BeautyPlus"
+            },
+            {
             "name": "Picsart++",
             "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
             "bundleIdentifier": "com.picsart.studio",
@@ -1240,9 +1225,8 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17286067231368-100x100.jpg",
             "appstore": "com.picsart.studio"
-
-        },
-        {
+            },
+            {
             "name": "Nicegram Premium",
             "developerName": "تلگرام با امکانات پیشرفته",
             "bundleIdentifier": "app.nicegram",
@@ -1252,8 +1236,8 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/09/at-17254689561269-100x100.jpg",
             "appstore": "app.nicegram"
-        },
-        {
+            },
+            {
             "name": "Aloha Browser Premium",
             "developerName": "مرورگر، فایل منیجر، دانلودر",
             "bundleIdentifier": "com.alohabrowser.alohabrowser",
@@ -1263,30 +1247,30 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17337627081670-100x100.jpg",
             "appstore": "com.alohabrowser.alohabrowser"
-        },
-        {
-          "name": "Remini++ Fast Ads",
-          "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
-          "bundleIdentifier": "com.bigwinepot.nwdn.international",
-          "version": "2.10.72",
-          "downloadURL": "https://dl3.apptrackr.ir/ios/2024/app-v2.10.72.ipa",
-          "category": "Tweaked Apps",
-          "developerName": "",
-          "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17284953361371-100x100.jpg",
-          "appstore": "com.bigwinepot.nwdn.international"
-        },
-        {
-          "name": "PDF Expert Pro",
-          "developerName": "ویرایش، امضا، حاشیه نویسی اسناد",
-          "bundleIdentifier": "com.readdle.PDFExpert5",
-          "version": "77.22.14",
-          "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PDFExpertv7.22.14.ipa<",
-          "category": "Tweaked Apps",
-          "developerName": "",
-          "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16969184101898-100x100.jpg",
-          "appstore": "com.readdle.PDFExpert5"
-        },
-        {
+            },
+            {
+            "name": "Remini++ Fast Ads",
+            "developerName": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
+            "bundleIdentifier": "com.bigwinepot.nwdn.international",
+            "version": "2.10.72",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/app-v2.10.72.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17284953361371-100x100.jpg",
+            "appstore": "com.bigwinepot.nwdn.international"
+            },
+            {
+            "name": "PDF Expert Pro",
+            "developerName": "ویرایش، امضا، حاشیه نویسی اسناد",
+            "bundleIdentifier": "com.readdle.PDFExpert5",
+            "version": "77.22.14",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PDFExpertv7.22.14.ipa<",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16969184101898-100x100.jpg",
+            "appstore": "com.readdle.PDFExpert5"
+            },
+            {
           "name": "Logo Maker ++",
           "developerName": "ساخت و طراحی لوگو",
           "bundleIdentifier": "com.mkapps.logoMakerApp",
@@ -1305,9 +1289,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/jbU3yeLtujQsvZO2B8dw83.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/07/at-17219119371834-100x100.jpg",
-            "appstore": "com.lemon.lvoverseas"
-        },
+            "iconURL": "https://app.appleapps.ir/storage/2024/07/at-17219119371834-100x100.jpg"
+            },
         {
             "name": "YouTube Music Premium",
             "developerName": "نسخه توییک شده بدون محدودیت پخش یوتیوب موزیک",
