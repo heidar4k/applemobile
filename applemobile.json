@@ -22,6 +22,20 @@
             "Jailbreaks": [
 
             {
+            "name": "جیم شو | Gymshow",
+            "developerName": "کالری شمار، رژیم، ورزش در خانه",
+            "version": "2.7.2",
+            "icon": "https://app.appleapps.ir/storage/2024/03/at-17097519461472-100x100.png",
+            "down": "https://dl3.apptrackr.ir/ios/2025/gymshow2.7.2.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2024/03/at-17097519041395-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/03/at-17097519031520-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/03/at-17097519021261-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2024/03/at-17097519011591-250x450.jpeg"
+            ],
+            },
+            {
             "name": "دولت من",
             "developerName": "پنجره ملی خدمات دولت هوشمند",
             "version": "2.3.3",
@@ -356,9 +370,9 @@
             {
             "name": "Zaban",
             "developerName": " در اپلیکیشن زبان‌ تماشا کن و زبان یاد بگیر!",
-            "version": "1.1.11",
+            "version": "1.1.12",
             "icon": "https://app.appleapps.ir/storage/2024/05/at-17157742791606-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2025/zaban1.1.11.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2025/zaban1.1.12.ipa",
             "category": "Jailbreaks",
             "screenshots": [
             "https://app.appleapps.ir/storage/2024/05/at-17157743301972-250x450.jpeg",
@@ -475,9 +489,9 @@
             {
             "name": "ماکسیم",
             "developerName": "درخواست آنلاین تاكسی ماکسیم",
-            "version": "3.175",
+            "version": "3.183",
             "icon": "https://cdn.appleapps.ir/2020/05/at-16061555041620-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2023/taximapp3.175.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2025/Taxim3.183.ipa",
             "category": "Jailbreaks",
             "description": "",
             "screenshots": [
@@ -901,7 +915,19 @@
             ],
     
             "Tweaked Apps": [
-
+            
+            {
+            "name": "Twitch ++",
+            "developerName": "نسخه ای پیشرفته بدون تبلیغات مزاحم",
+            "bundleIdentifier": "tv.twitch",
+            "version": "22.8",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Twitch22.8AdFreeMoePro.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17126788181544-100x100.jpg",
+            "appstore": "tv.twitch"
+            }, 
             {
             "name": "Duolingo ++",
             "developerName": "آموزش زبان های خارجی ، نسخه بدون نیاز به خرید درونی",
@@ -1014,8 +1040,8 @@
             "name": "SnapEdit++",
             "developerName": "برنامه ویرایش عکس و ویدئو با هوش مصنوعی",
             "bundleIdentifier": "com.sfun.snapedit",
-            "version": "5.5.8",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/SnapEditv5.5.9Pro.ipa",
+            "version": "5.6.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/SnapEditv5.6.0Pro.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
@@ -1218,8 +1244,8 @@
             "name": "Picsart++",
             "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
             "bundleIdentifier": "com.picsart.studio",
-            "version": "26.6.2",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/PicsArt26.6.2.ipa",
+            "version": "26.6.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/PicsArt26.6.3.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17286067231368-100x100.jpg",
@@ -1440,8 +1466,8 @@
             "name": "Perfect365 (Unlocked)",
             "developerName": "ویرایشگر و آرایش عکس",
             "bundleIdentifier": "com.arcsoft.Perfect365",
-            "version": "9.72.34",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Perfect3659.72.34.ipa",
+            "version": "9.76.15",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Perfect365.9.76.15.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17339109791723-100x100.jpg",
@@ -1473,8 +1499,8 @@
             "name": "Mojo Pro",
             "developerName": "ویرایش حرفه ای استوری های اینستاگرام",
             "bundleIdentifier": "archery.storify",
-            "version": "1.210.0",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Mojov1.210.0.ipa",
+            "version": "1.212.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Mojov1.212.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17363203831418-100x100.jpg",
@@ -1523,8 +1549,8 @@
             "name": "Photoshop Express Pro",
             "developerName": "برنامه شماره یک عکاسان و ادیتورهای حرفه ای",
             "bundleIdentifier": "com.adobe.PSMobile",
-            "version": "25.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PSExpressv25.1.ipa",
+            "version": "25.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/PSExpressv25.3.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17051651081292-100x100.jpg",
@@ -1567,9 +1593,9 @@
             "name": "موبایلت",
             "developerName": "همراه بانک سامان",
             "bundleIdentifier": "com.mobillet.application",
-            "version": "5.4.1",
+            "version": "5.4.2",
             "icon": "https://app.appleapps.ir/storage/2020/05/at-17005028251255-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2025/mobillet5.4.1.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2025/mobillet5.4.2.ipa",
             "category": "Hacked Games",
             "screenshots": [
             "https://s3.anardoni.com/applications/2022/12/08/photos/Wg-hvWd6e/screenshot1_Wg-hvWd6e_2022_12_08_13_48_19.jpeg",
@@ -1696,9 +1722,9 @@
             {
             "name": "همراه بام ملی",
             "developerName": "همراه بام ملی ( همراه بانک ملی )",
-            "version": "4.4.7",
+            "version": "4.4.8",
             "icon": "https://app.appleapps.ir/storage/2020/05/at-17011157511255-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/hamrhbaam4.4.7.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2025/hamrahbaam4.4.8.ipa",
             "category": "Hacked Games",
             "screenshots": [
             "https://cdn.appleapps.ir/2020/05/at-16030995271444-250x450.jpeg",
@@ -1964,7 +1990,19 @@
             ],
     
             "Emulators": [
-        
+
+            {
+            "name": "Torque Burnout Hack",
+            "developerName": "قدرت، سرعت و هیجان در هر چرخش",
+            "bundleIdentifier": "leagueofmonkeys.torqueburnout",
+            "version": "3.2.7",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/leagueofmonkeys.torqueburnout3.2.7.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17374504841016-100x100.jpg",
+            "appstore": "leagueofmonkeys.torqueburnout"
+            },         
             {
             "name": "Forgotten Memories: Remastered",
             "developerName": "وحشتی که هرگز فراموش نخواهید کرد!",
@@ -1974,7 +2012,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2025/ForgottenMemoriesRE1.9.95.ipa",
             "category": "Emulators",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17370431611309-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17370431611309-100x100.jpg",
+            "appstore": "com.PsychoseInteractive.ForgottenMemories.Remaster"
             }, 
             {
             "name": "Gangstar Vegas - Mafia action Hack",
