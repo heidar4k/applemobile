@@ -20,7 +20,22 @@
             ],
         
             "Jailbreaks": [
-
+            
+            {
+            "name": "ملی گلد | Melli Gold",
+            "developerName": "سامانه خرید، فروش، پس انداز و تحویل آسان طلای آب‌شده",
+            "version": "1.0",
+            "icon": "https://app.appleapps.ir/storage/2025/02/at-17391191681451-100x100.jpeg",
+            "down": "https://dl3.apptrackr.ir/ios/2025/meligold.ipa",
+            "category": "Jailbreaks",
+            "screenshots": [
+            "https://app.appleapps.ir/storage/2025/02/at-17391192391677-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2025/02/at-17391192361155-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2025/02/at-17391192371958-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2025/02/at-17391192371840-250x450.jpeg",
+            "https://app.appleapps.ir/storage/2025/02/at-17391192351321-250x450.jpeg"
+            ],
+            },
             {
             "name": "جیم شو | Gymshow",
             "developerName": "کالری شمار، رژیم، ورزش در خانه",
@@ -1488,8 +1503,8 @@
             "name": "Bazaart Premium",
             "developerName": "صدها قالب آماده استوری و پست اینستاگرام + ویرایشگر قدرتمند",
             "bundleIdentifier": "co.bazaart.app",
-            "version": "10.5.1",
-            "downloadURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Bazaart-v10.5.1.ipa",
+            "version": "10.5.4",
+            "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/q3u45rmvxsu0EYhSZ3OeVU.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Bazaart.jpg",
