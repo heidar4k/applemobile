@@ -930,33 +930,7 @@
             ],
     
             "Tweaked Apps": [
-
-            {
-            "name": "VivaCut ++",
-            "developerName": "ساخت کلیپ های جذاب VFX با قالب های آماده",
-            "bundleIdentifier": "com.vivacut.videoeditor",
-            "version": "4.1.1",
-            "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/deBv8mV7sw6bmbhg5LGLjC.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17357190041006-100x100.jpg",
-            "appstore": "com.vivacut.videoeditor"
-            }, 
-            {
-            {
-            "name": "Alight Motion ++",
-            "developerName": "طراحی حرکت و جلوه های ویدئویی",
-            "bundleIdentifier": "com.alightcreative.motion",
-            "version": "6.2.13",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/com.alightcreative.motion6.2.13.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17164098241679-100x100.jpg",
-            "appstore": "com.alightcreative.motion"
-            }, 
-            {            
+            
             {
             "name": "Twitch ++",
             "developerName": "نسخه ای پیشرفته بدون تبلیغات مزاحم",
@@ -1081,8 +1055,8 @@
             "name": "SnapEdit++",
             "developerName": "برنامه ویرایش عکس و ویدئو با هوش مصنوعی",
             "bundleIdentifier": "com.sfun.snapedit",
-            "version": "5.6.3",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/SnapEditv5.6.3Pro.ipa",
+            "version": "5.6.2",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/SnapEditv5.6.2Pro.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
@@ -1112,26 +1086,13 @@
             "localizedDescription": "",
             "iconURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Mondly.jpg",
             "appstore": "com.atistudios.MondlyLanguages"
-            "appstore": "com.google.ios.youtube"
-            },
-            {
-            "name": "YouTube Plus",
-            "developerName": "یوتیوب پیشرفته با قابلیت دانلود و...",
-            "bundleIdentifier": "com.google.ios.youtube",
-            "version": "20.07.06",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/YTLitePlus20.07.6.ipa",
-            "category": "Tweaked Apps",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://app.appleapps.ir/storage/2020/10/at-17041843351386-100x100.png",
-            "appstore": "com.google.ios.youtube"
             },
             {
             "name": "YouTube YTLite",
-            "developerName": "نسخه پیشرفته سبک مود و توییک شده یوتیوب",
+            "developerName": "یوتیوب پیشرفته با قابلیت دانلود",
             "bundleIdentifier": "com.google.ios.youtube",
-            "version": "20.07.06",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Youtube20.07.06YTLite5.1FullFeb17thMoe.ipa",
+            "version": "20.05.4",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/YTLitePlus20.05.4.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "localizedDescription": "",
@@ -1254,8 +1215,8 @@
             "name": "Facetune 2 Pro",
             "developerName": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر",
             "bundleIdentifier": "com.lightricks.Facetune2",
-            "version": "3.80",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Facetune3.80MoePro.ipa",
+            "version": "3.77",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Facetunev3.77MoePro.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17326492481926-100x100.jpg",
@@ -1603,8 +1564,8 @@
             "name": "Photoshop Express Pro",
             "developerName": "برنامه شماره یک عکاسان و ادیتورهای حرفه ای",
             "bundleIdentifier": "com.adobe.PSMobile",
-            "version": "25.6",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/PSExpressv25.6.ipa",
+            "version": "25.5",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/PSExpressv25.5.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17051651081292-100x100.jpg",
@@ -2134,9 +2095,9 @@
             "name": "Subway Surfers Hack",
             "developerName": "تا بی نهایت بدوید ! نسخه هک شده",
             "bundleIdentifier": "com.kiloo.subwaysurfers",
-            "version": "3.42.2",
+            "version": "3.41.3",
             "versionDate": "",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/SubwaySurf3.42.2.ipa",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/SubwaySurf3.41.3.ipa",
             "category": "Emulators",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17362322891956-100x100.jpg",
