@@ -931,7 +931,114 @@
     
             "Tweaked Apps": [
             
-
+            {
+            "name": "Twitch ++",
+            "developerName": "نسخه ای پیشرفته بدون تبلیغات مزاحم",
+            "bundleIdentifier": "tv.twitch",
+            "version": "22.9",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Twitch22.9.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17126788181544-100x100.jpg",
+            "appstore": "tv.twitch"
+            }, 
+            {
+            "name": "Duolingo ++",
+            "developerName": "آموزش زبان های خارجی ، نسخه بدون نیاز به خرید درونی",
+            "bundleIdentifier": "com.duolingo.DuolingoMobile",
+            "version": "7.37.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/xDuolingo7.35.0.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2020/06/at-17343745581451-100x100.jpg",
+            "appstore": "com.duolingo.DuolingoMobile"
+            },  
+            {
+            "name": "Loora++",
+            "developerName": "تمرین گفتاری و شنیداری انگلیسی",
+            "bundleIdentifier": "ai.loora.Loora-iOS",
+            "version": "1.65.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Loora1.65.1.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17334085341945-100x100.jpg",
+            "appstore": "ai.loora.Loora-iOS"
+            },     
+            {
+            "name": "MAGIC AI ⋆ Avatar Generator++",
+            "developerName": "سازنده آواتار جادویی هوش مصنوعی Ai",
+            "bundleIdentifier": "ai.notmagic.magic-avatar",
+            "version": "1.2.4",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/MAGICAI1.2.4.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17334092401276-100x100.jpg",
+            "appstore": "ai.notmagic.magic-avatar"
+            }, 
+            {
+            "name": "AI Photo Generator: MagicShot++",
+            "developerName": "قدرت جادویی هوش مصنوعی در دستان شما Ai",
+            "bundleIdentifier": "com.magicshotai",
+            "version": "2.4.8",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/MagicShot2.4.8.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17361686851060-100x100.jpg",
+            "appstore": "com.magicshotai"
+            }, 
+            {
+            "name": "AirBrush ++",
+            "developerName": "یکی از بهترین های روتوش صورت و زیبا سازی عکس های سلفی",
+            "bundleIdentifier": "com.magicv.AirBrush",
+            "version": "7.5.300",
+            "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/A0C3svFiJ1zdnDUinM6Iei.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17361717681917-100x100.jpg",
+            "appstore": "com.magicv.AirBrush"
+            }, 
+            {
+            "name": "AutoCAD Pro",
+            "developerName": "اتوکد نسخه کامل",
+            "bundleIdentifier": "com.autodesk.autocadws",
+            "version": "6.15.0",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/AutoCAD6.15.0.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17041970161156-100x100.jpg",
+            "appstore": "com.autodesk.autocadws"
+            },     
+            {
+            "name": "AI Chatbot - Nova++",
+            "developerName": "ChatGPT و GPT-4o",
+            "bundleIdentifier": "com.apporigins.Nova",
+            "version": "3.5.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Nova2.1.1.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17288093391039-100x100.jpg",
+            "appstore": "com.apporigins.Nova"
+            }, 
+            {
+            "name": "ID Photo++ - Passport Photo App",
+            "developerName": "اپلیکیشن عکس پاسپورت",
+            "bundleIdentifier": "com.maximaapps.passportphoto",
+            "version": "3.9.4",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/IDPhoto3.9.4.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16984038871805-100x100.jpg",
+            "appstore": "com.maximaapps.passportphoto"
+            }, 
             {
             "name": "Story Font++ | استوری فونت آنلاک شده",
             "developerName": "فونت های فارسی خفن استوری اینستاگرام",
@@ -1378,7 +1485,8 @@
             "category": "Tweaked Apps",
             "changelog": "نسخه توییک شده با اشتراک پریمیوم پیش فعال شده است",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17150571171090-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17150571171090-100x100.jpg",
+            "appstore": "one4studio.wallpaper.one4wall"
             },
             {
             "name": "Perfect365 (Unlocked)",
@@ -1390,18 +1498,6 @@
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17339109791723-100x100.jpg",
             "appstore": "com.arcsoft.Perfect365"
-            },
-            {
-            "name": "Speedtest Premium",
-            "developerName": "پیداکردن سرعت واقعی اینترنت و دانلود",
-            "bundleIdentifier": "com.ookla.speedtest",
-            "appstore": "com.ookla.speedtest",
-            "version": "5.5.0.0.1",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Speedtestv5.5.0.ipa",
-             "category": "Tweaked Apps",
-            "developerName": "",
-            "localizedDescription": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17333033601825-100x100.jpg"
             },
             ],
     
@@ -1826,7 +1922,246 @@
     
             "Emulators": [
 
-
+            {
+            "name": "Torque Burnout Hack",
+            "developerName": "قدرت، سرعت و هیجان در هر چرخش",
+            "bundleIdentifier": "leagueofmonkeys.torqueburnout",
+            "version": "3.2.7",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/leagueofmonkeys.torqueburnout3.2.7.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17374504841016-100x100.jpg",
+            "appstore": "leagueofmonkeys.torqueburnout"
+            },         
+            {
+            "name": "Forgotten Memories: Remastered",
+            "developerName": "وحشتی که هرگز فراموش نخواهید کرد!",
+            "bundleIdentifier": "com.PsychoseInteractive.ForgottenMemories.Remaster",
+            "version": "1.0.7",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/ForgottenMemoriesRE1.9.95.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17370431611309-100x100.jpg",
+            "appstore": "com.PsychoseInteractive.ForgottenMemories.Remaster"
+            }, 
+            {
+            "name": "Gangstar Vegas - Mafia action Hack",
+            "developerName": "گنگستر وگاس داستان مافیا",
+            "bundleIdentifier": "com.gameloft.gangstar4",
+            "version": "7.9.1",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/GangstarVegasHack7.9.1.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16961585801379-100x100.jpg",
+            "appstore": "com.gameloft.gangstar4"
+            },       
+            {
+            "name": "Streets of Rage 4",
+            "developerName": "قسمت چهارم بازی شورش در شهر",
+            "bundleIdentifier": "com.playdigious.streetsofrage4",
+            "version": "1.09",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/StreetsofRage4v1.4.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/04/at-16826819931532-100x100.jpg",
+            "appstore": "com.playdigious.streetsofrage4"
+            },
+            {
+            "name": "Playdeads Inside Full Game",
+            "developerName": "نسخه کامل و هک شده این بازی معمایی",
+            "bundleIdentifier": "com.playdeadgames.inside.ios",
+            "version": "1.1.8",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/PlaydeadsINSIDEHack1.1.8.ipa",
+            "category": "Emulators",
+            "description": "آموزش باز کردن این نسخه هک شده :\nبرای اجرای بازی نیاز به ساخت اکانت رایگان در سایت\n https://iosgods.com/forum/ دارید\nپس از اجرای بازی روی Thank you کلیک کرده و سپس با اکانتی که در iOSGODS ساختین وارد بشید تا هک فعال شود",
+            "developerName": "",
+            "iconURL": "https://cdn.appleapps.ir/2020/05/at-15896323131062-100x100.png",
+            "appstore": "com.playdeadgames.inside.ios"
+            },
+            {
+            "name": "Need for Speed No Limits VIP Hack",
+            "developerName": "نسخه هک شده",
+            "bundleIdentifier": "com.ea.nfs2014.bv",
+            "version": "8.2.11",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/nfs8.2.11.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17335664261518-100x100.jpg",
+            "appstore": "com.ea.nfs2014.bv"
+            },
+            {
+            "name": "Asphalt 8: Airborne VIP Hack",
+            "developerName": "مسابقات رانندگی اتومبیل و موتور سواری",
+            "bundleIdentifier": "com.gameloft.asphalt8",
+            "version": "8.1.1",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Asphalt8AirborneViPHack7.7.0.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/03/at-17099313241407-100x100.jpg",
+            "appstore": "com.gameloft.asphalt8"
+            },
+            {
+            "name": "Subway Surfers Hack",
+            "developerName": "تا بی نهایت بدوید ! نسخه هک شده",
+            "bundleIdentifier": "com.kiloo.subwaysurfers",
+            "version": "3.42.2",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/SubwaySurf3.42.2.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17362322891956-100x100.jpg",
+            "appstore": "com.kiloo.subwaysurfers"
+            },
+            {
+            "name": "Hitman Sniper",
+            "developerName": "بازی محبوب هیتمن",
+            "bundleIdentifier": "com.squareenixmontreal.hitmansniper",
+            "version": "1.13",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/HitmanSniperv1.13.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17194214601256-100x100.jpg",
+            "appstore": "com.squareenixmontreal.hitmansniper"
+            },
+            {
+            "name": "Hitman: Blood Money — Reprisal",
+            "developerName": "بازی هیتمن: خون‌بها",
+            "bundleIdentifier": "com.feralinteractive.hitmanbloodmoney-ios",
+            "version": "1.273.0",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/HitmanBloodMoneyReprisalv1.2.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17135930571505-100x100.jpg",
+            "appstore": "com.feralinteractive.hitmanbloodmoney-ios"
+            },
+            {
+            "name": "GTA: San Andreas",
+            "developerName": "Definitive Edition",
+            "bundleIdentifier": "com.netflix.NGP.GTASanAndreasDefinitiveEdition",
+            "version": "1.86",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/GTASanAndreasDefinitivev1.86.44544238.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17135926591396-100x100.jpg",
+            "appstore": "com.netflix.NGP.GTASanAndreasDefinitiveEdition"
+            },
+            {
+            "name": "GTA: Vice City",
+            "developerName": "Definitive Edition",
+            "bundleIdentifier": "com.rockstargames.gtavc.de",
+            "version": "1.83",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/GTAViceCityDefinitivev1.83.44255649.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17135924991346-100x100.jpg",
+            "appstore": "com.rockstargames.gtavc.de"
+            },
+            {
+            "name": "GTA III",
+            "developerName": "Definitive Edition",
+            "bundleIdentifier": "com.rockstargames.gta3.de",
+            "version": "1.83",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/GTAIIIDefinitivev1.83.44255649.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17135921711370-100x100.jpg",
+            "appstore": "com.rockstargames.gta3.de"
+            },
+            {
+            "name": "Candy Crush Saga",
+            "developerName": "نسخه هک شده",
+            "bundleIdentifier": "com.midasplayer.apps.candycrushsaga",
+            "version": "1.273.0",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/CandyCrushSaga1.273.0.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16972905831748-100x100.jpg",
+            "appstore": "com.midasplayer.apps.candycrushsaga"
+            },
+            {
+            "name": "Shadow Fight 3",
+            "developerName": "نسخه هک شده",
+            "bundleIdentifier": "com.nekki.shadowfight3",
+            "version": "1.40.2",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/ShadowFight3Hack1.40.2.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17335590191213-100x100.jpg",
+            "appstore": "com.nekki.shadowfight3"
+            },
+            {
+            "name": "Need for Speed™ Most Wanted",
+            "developerName": "نسخه هک شده",
+            "bundleIdentifier": "com.ea.nfs13.bv",
+            "version": "1.1.0",
+            "versionDate": "",
+            "downloadURL": "https://dl2.apptrackr.ir/user1/ios/2021/NeedforSpeedMostWanted_1.1.0.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://cdn.appleapps.ir/2020/05/at-15896325101461-100x100.jpg"
+            },
+            {
+            "name": "Minecraft",
+            "developerName": "بسازید، کشف کنید و زنده بمانید!",
+            "bundleIdentifier": "com.mojang.minecraftpe",
+            "version": "1.21.60",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Minecraft1.21.60.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17335782581055-100x100.jpg",
+            "appstore": "com.mojang.minecraftpe"
+            },
+            {
+            "name": "Leo's Fortune",
+            "developerName": "ماجراجویی سیبیلو زیبا",
+            "bundleIdentifier": "com.leosfortune",
+            "version": "1.0.14",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2022/LeosFortune-v1.0.14-appleapps.ir.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://cdn.appleapps.ir/2022/10/at-16663765551561-100x100.jpg",
+            "appstore": "com.leosfortune"
+            },
+            {
+            "name": "Streets of Rage 2",
+            "developerName": "Full Game",
+            "bundleIdentifier": "com.sega.streetsofrage2",
+            "version": "6.4.0",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/streetsofrage2v6.4.0.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010461221529-100x100.jpg",
+            "appstore": "com.sega.streetsofrage2"
+            },
+            {
+            "name": "Streets of Rage",
+            "developerName": "Full Game",
+            "bundleIdentifier": "com.sega.StreetsOfRage",
+            "version": "6.4.0",
+            "versionDate": "",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/StreetsOfRage6.4.0.ipa",
+            "category": "Emulators",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010464761545-100x100.jpg",
+            "appstore": "com.sega.StreetsOfRage"
+            },
             {
             "name": "Happy Chick",
             "developerName": "شبیه سازی بازی های کنسول های قدیمی + دانلود بازی ها",
