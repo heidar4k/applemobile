@@ -1533,6 +1533,39 @@
             "appstore": "archery.storify"
             },
             {
+            "name": "VN Video Editor Pro",
+            "developerName": "ویرایش ویدیو برای حرفه ای ها آماتور ها",
+            "bundleIdentifier": "com.frontrow.vlog",
+            "version": "1.87.2",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/VNv1.87.2.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17301681771252-100x100.jpg",
+            "appstore": "com.frontrow.vlog"
+            },
+            {
+            "name": "Funimate Pro",
+            "developerName": "نسخه پرو ابزار ساخت موزیک ویدیو با افکت",
+            "bundleIdentifier": "com.avcr.Funimate",
+            "version": "15.12.3",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2023/Funimate15.12.3.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2023/11/at-17010325791779-100x100.jpg",
+            "appstore": "com.avcr.Funimate"
+            },
+            {
+            "name": "Photoshop Express Pro",
+            "developerName": "برنامه شماره یک عکاسان و ادیتورهای حرفه ای",
+            "bundleIdentifier": "com.adobe.PSMobile",
+            "version": "25.5",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/PSExpressv25.5.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/01/at-17051651081292-100x100.jpg",
+            "appstore": "com.adobe.PSMobile"
+            },
+            {
             "name": "Facetune Pro",
             "developerName": "ویرایشگر عکس های سلفی قدرتمند",
             "bundleIdentifier": "com.lightricks.Facetune",
