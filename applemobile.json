@@ -1507,7 +1507,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2024/InCollage2.0.43.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17339112761023-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2024/12/at-17339112761023-100x100.jpg",
+            "appstore": "PhotoEditor.PhotoCollage.inCollage"
             },
             {
             "name": "Bazaart Premium",
@@ -1517,7 +1518,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/W2DdqeqElngiehM7g1Euiz.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Bazaart.jpg"
+            "iconURL": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/tweaked/Bazaart.jpg",
+            "appstore": "co.bazaart.app"
             },
             {
             "name": "Mojo Pro",
@@ -1527,7 +1529,8 @@
             "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Mojo1.214.0.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
-            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17363203831418-100x100.jpg"
+            "iconURL": "https://app.appleapps.ir/storage/2025/01/at-17363203831418-100x100.jpg",
+            "appstore": "archery.storify"
             },
             {
             "name": "Facetune Pro",
