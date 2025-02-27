@@ -930,7 +930,19 @@
             ],
     
             "Tweaked Apps": [
-            
+
+            {
+            "name": "MP3 Converter -Audio Extractor++",
+            "developerName": "تبدیل ویدیو به MP3 🎵",
+            "bundleIdentifier": "com.hemin.mp42mp3",
+            "version": "5.15",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Video2Mp3c5.15.ipa",
+            "category": "Tweaked Apps",
+            "developerName": "",
+            "localizedDescription": "",
+            "iconURL": "https://app.appleapps.ir/storage/2024/11/at-17314938181512-100x100.jpg",
+            "appstore": "com.hemin.mp42mp3"
+            },             
             {
             "name": "Twitch ++",
             "developerName": "نسخه ای پیشرفته بدون تبلیغات مزاحم",
@@ -1271,8 +1283,8 @@
             "name": "Picsart++",
             "developerName": "پردانلود ترین ابزار طراحی کاور اینستاگرام",
             "bundleIdentifier": "com.picsart.studio",
-            "version": "26.8.3",
-            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/PicsArt26.8.3.ipa",
+            "version": "26.9.1",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2025/PicsArt26.9.1.ipa",
             "category": "Tweaked Apps",
             "developerName": "",
             "iconURL": "https://app.appleapps.ir/storage/2025/02/at-17396150041996-100x100.jpg",
@@ -1770,9 +1782,9 @@
             {
             "name": "همراه بانک رسالت",
             "developerName": "همراه بانک رسالت",
-            "version": "11.0.1",
+            "version": "14.0.6",
             "icon": "https://cdn.appleapps.ir/2020/05/at-15896278071396-100x100.jpg",
-            "down": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/mobilebanking/Resalat-v11.0.1.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2024/resalat14.0.6.ipa",
             "category": "Hacked Games",
             "screenshots": [
             "https://s3.anardoni.com/applications/2022/11/16/photos/PT2tHc4D7/screenshot3_PT2tHc4D7_2022_11_16_06_24_42.jpeg",
@@ -1783,9 +1795,9 @@
             {
             "name": "سکه، به پرداخت ملت",
             "developerName": "نرم‌افزار پرداختی سکه",
-            "version": "4.17",
+            "version": "6.1.1",
             "icon": "https://cdn.appleapps.ir/2020/05/at-1589626597-100x100.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/sekeh4.17.ipa",
+            "down": "https://dl3.apptrackr.ir/ios/2025/sekeh6.1.1.ipa",
             "category": "Hacked Games",
             "screenshots": [
             "https://cdn.appleapps.ir/2020/05/at-1589626582-250x450.png",
