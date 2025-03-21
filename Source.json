@@ -9,7 +9,7 @@
     "sourceLinkUrl": "http://t.me/heidarebrahimi",
     "sourceImage": "https://i.postimg.cc/Z5kTTkjG/temp-Image35-CBu-R.jpg",
     "sourceUpdateTime": "2024-04-14T15:00:00+0800",
-    "sourceDescription": "نصب نرم افزارهای ایرانی، بانکی و برنامه های تویک شده، گردآوری توسط حیدر ابراهیمی",
+    "sourceDescription": "نصب نرم افزارهای ایرانی، بانکی و برنامه های تویک شده”\n “گردآوری توسط: حیدر ابراهیمی"
     "appCategories": [
         "Iranian Apps",
         "Mobile Banking",
@@ -17,23 +17,161 @@
     ],
     "appRepositories": [
 
-           {
+            {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2023-09-09T15:00:00+0800",
-            "appName": "ماکسیم",
-            "appVersion": "3.175",
-            "appImage": "https://cdn.appleapps.ir/2020/05/at-16061555041620-100x100.png",
-            "appPackage": "https://dl3.apptrackr.ir/ios/2023/taximapp3.175.ipa",
-            "appDescription": "درخواست آنلاین تاكسی ماکسیم"
-           },
+            "appUpdateTime": "2025-02-09T15:00:00+0800",
+            "appName": "ملی گلد | Melli Gold",
+            "appDescription": "سامانه خرید، فروش، پس انداز و تحویل آسان طلای آب‌شده",
+            "appVersion": "1.0",
+            "appImage": "https://app.appleapps.ir/storage/2025/02/at-17391191681451-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/meligold.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-01-21T15:00:00+0800",
+            "appName": "جیم شو | Gymshow",
+            "appDescription": "کالری شمار، رژیم، ورزش در خانه",
+            "appVersion": "2.7.2",
+            "appImage": "https://app.appleapps.ir/storage/2024/03/at-17097519461472-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/gymshow2.7.2.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-01-01T15:00:00+0800",
+            "appName": "دولت من",
+            "appDescription": "پنجره ملی خدمات دولت هوشمند",
+            "appVersion": "2.3.3",
+            "appImage": "https://app.appleapps.ir/storage/2023/06/at-16862403911060-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/mygov2.3.3.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-06T15:00:00+0800",
+            "appName": "کپ | Capp",
+            "appDescription": "کپ اپلیکیشن حمل و نقل برون شهری مخصوص پایانه های بار",
+            "appVersion": "0.2.1",
+            "appImage": "https://app.appleapps.ir/storage/2024/10/at-17281107021181-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/capp0.2.1.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-01-06T15:00:00+0800",
+            "appName": "زرین پال من",
+            "appDescription": "درگاه پرداخت اینترنتی",
+            "appVersion": "5.6.06",
+            "appImage": "https://app.appleapps.ir/storage/2020/06/at-17233772771780-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/zarinpal5.6.06.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-09T15:00:00+0800",
+            "appName": "آپ - آسان پرداخت",
+            "appDescription": "انجام اکثر امور مالی و شهروندی برای زندگی آسان",
+            "appVersion": "7.5.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/asanpardakht7.5.0.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-10T15:00:00+0800",
+            "appName": "فوربیکس",
+            "appDescription": "دستیار کسب و کار فوربیکس",
+            "appVersion": "2.2.0",
+            "appImage": "https://app.appleapps.ir/storage/2024/08/at-17239862861892-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/fwrbyks2.2.0.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2020-07-02T15:00:00+0800",
+            "appName": "چک یار اوراش",
+            "appDescription": "ابزاری برای کنترل و مدیریت چک",
+            "appVersion": "1.43",
+            "appImage": "https://cdn.appleapps.ir/2020/07/at-15937117881411-100x100.png",
+            "appPackage": "https://dl2.apptrackr.ir/user1/ios/2020/OrashChequeAssistant_1.43.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2024-11-12T15:00:00+0800",
+            "appName": "Gap Messenger",
+            "appDescription": "پیام رسانی مطابق با بروزترین فناوری‌های جهان",
+            "appVersion": "10.5",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16849022931341-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/gap10.5.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2024-11-10T15:00:00+0800",
+            "appName": "همیاب24 | hamyab24",
+            "appDescription": "استعلام رجیستری/سرقتی گوشی",
+            "appVersion": "1.0",
+            "appImage": "https://cdn.appleapps.ir/2021/04/at-16193946601072-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/hamyab24v1.0.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-10T15:00:00+0800",
+            "appName": "کاست | Cassett",
+            "appDescription": " دانلود و پخش به صورت آنلاین موزیک‌های ایرانی و خارجی",
+            "appVersion": "2.1.4",
+            "appImage": "https://app.appleapps.ir/storage/2024/10/at-17291606861850-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/cassett2.1.4.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-01-19T15:00:00+0800",
+            "appName": "Bama | باما",
+            "appDescription": "بازار خودرو",
+            "appVersion": "4.0.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-17302269921221-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/bama4.2.0.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2024-10-15T15:00:00+0800",
+            "appName": "Asa Trader | کارگزاری آگاه",
+            "appDescription": "معاملات آنلاین کارگزاری آگاه",
+            "appVersion": "3.42.3",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-15896283281386-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/9nc6cAoTvVmWCIC7T7BF0R.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-08T15:00:00+0800",
+            "appName": "فیلیمو",
+            "appDescription": "فیلم و سریال ایرانی و خارجی با دوبله",
+            "appVersion": "5.15.12",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-15896268521401-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/filimo5.15.12.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-08T15:00:00+0800",
+            "appName": "جاباما",
+            "appDescription": "به راحت ترین شکل ویلا،هتل و اقامتگاه رزرو کنید !",
+            "appVersion": "3.4.3",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16894482531019-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/jabama3.4.3.ipa"
+            },
         
         
         
         
-        
-        
-           {
+            {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
             "appUpdateTime": "2025-03-17T15:00:00+0800",
@@ -43,7 +181,7 @@
             "appImage": "https://app.appleapps.ir/storage/2025/03/at-17422395811996-100x100.jpg",
             "appPackage": "https://dl3.apptrackr.ir/ios/2025/baran3.0.1.ipa"
             },    
-                       {
+            {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
             "appUpdateTime": "2025-03-17T15:00:00+0800",
@@ -320,14 +458,14 @@
            
             {
             "appType": "SELF_SIGN",
-            "appCateIndex": 2,
-            "appUpdateTime": "2024-04-02T15:00:00+0800",
-            "appName": "Spotify Premium",
-            "appVersion": "8.9.26",
-            "appImage": "https://raw.githubusercontent.com/swaggyP36000/TrollStore-IPAs/main/icons/com.spotify.client.png",
-            "appPackage": "https://github.com/swaggyP36000/TrollStore-IPAs/releases/download/04-02-2024/Spotilife-8.9.26.ipa",
-            "appDescription": "اسپاتیفای پریمیوم با قابلیت پخش بدون محدودیت"
-        },
+            "appCateIndex": 1,
+            "appUpdateTime": "2025-03-04T15:00:00+0800",
+            "appName": "Instagram Rocket Cracked",
+            "appDescription": "اینستاگرام پیشرفته راکت - آنلاک شده",
+            "appVersion": "370.0.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/06/at-16930276561236-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/Instagram370.0.0Rocket3.8.32Cracked.ipa"
+            },
         
     ]
 }
