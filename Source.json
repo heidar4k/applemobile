@@ -9,7 +9,7 @@
     "sourceLinkUrl": "http://t.me/heidarebrahimi",
     "sourceImage": "https://i.postimg.cc/Z5kTTkjG/temp-Image35-CBu-R.jpg",
     "sourceUpdateTime": "2025-03-21T15:00:00+0800",
-    "sourceDescription": "نصب نرم افزارهای ایرانی، بانکی و برنامه های تویک شده”\n “گردآوری توسط: حیدر ابراهیمی",
+    "sourceDescription": "نصب نرم افزارهای ایرانی، بانکی و برنامه های تویک شده \n گردآوری توسط: حیدر ابراهیمی",
     "appCategories": [
         "Iranian Apps",
         "Mobile Banking",
@@ -20,7 +20,7 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2025-02-09T15:00:00+0800",
+            "appUpdateTime": "2025-02-09",
             "appName": "ملی گلد | Melli Gold",
             "appDescription": "سامانه خرید، فروش، پس انداز و تحویل آسان طلای آب‌شده",
             "appVersion": "1.0",
@@ -30,7 +30,7 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2025-01-21T15:00:00+0800",
+            "appUpdateTime": "2025-01-21",
             "appName": "جیم شو | Gymshow",
             "appDescription": "کالری شمار، رژیم، ورزش در خانه",
             "appVersion": "2.7.2",
@@ -40,7 +40,7 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2025-01-01T15:00:00+0800",
+            "appUpdateTime": "2025-01-01",
             "appName": "دولت من",
             "appDescription": "پنجره ملی خدمات دولت هوشمند",
             "appVersion": "2.3.3",
@@ -50,7 +50,7 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2025-03-06T15:00:00+0800",
+            "appUpdateTime": "2025-03-06",
             "appName": "کپ | Capp",
             "appDescription": "کپ اپلیکیشن حمل و نقل برون شهری مخصوص پایانه های بار",
             "appVersion": "0.2.1",
@@ -167,6 +167,421 @@
             "appImage": "https://app.appleapps.ir/storage/2020/05/at-16894482531019-100x100.png",
             "appPackage": "https://dl3.apptrackr.ir/ios/2025/jabama3.4.3.ipa"
             },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2024-09-07T15:00:00+0800",
+            "appName": "مدیریت فروشگاه",
+            "appDescription": "اشخاص، انبار، امور مالی و گزارش‌ها",
+            "appVersion": "1.6.3",
+            "appImage": "https://app.appleapps.ir/storage/2023/07/at-16903569431355-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/shopmanger1.6.3.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-18T15:00:00+0800",
+            "appName": "دیوار",
+            "appDescription": "محل انتشار رایگان انواع آگهی",
+            "appVersion": "12.10.2",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/divar12.10.2.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2023-00-07T15:00:00+0800",
+            "appName": "Search4",
+            "appDescription": "آموزش زبان با فیلم!",
+            "appVersion": "3.5.2",
+            "appImage": "https://app.appleapps.ir/storage/2024/01/at-17054775471606-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/search4v3.5.2.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-14T15:00:00+0800",
+            "appName": "شمار",
+            "appDescription": "دفتر حساب، انبار، فاکتور، حسابداری",
+            "appVersion": "2.0.37",
+            "appImage": "https://app.appleapps.ir/storage/2024/05/at-17151085241053-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/shomar2.0.37.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2024-12-22T15:00:00+0800",
+            "appName": "هامون | Hamoon",
+            "appDescription": "هویت الکترونیکی موبایلی نوین",
+            "appVersion": "3.9.0",
+            "appImage": "https://app.appleapps.ir/storage/2024/03/at-17107676931138-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/hamoon3.9.0.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-01-16T15:00:00+0800",
+            "appName": "ایرانیکارت",
+            "appDescription": "پلتفرم تبادلات مالی بین‌المللی",
+            "appVersion": "2.12.0",
+            "appImage": "https://app.appleapps.ir/storage/2024/04/at-17126630491097-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/iranicard2.12.0.ipa"
+            }, 
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2024-10-04T15:00:00+0800",
+            "appName": "اسپارس | ‌Sparse",
+            "appDescription": "سرویس دانلود و استریم موزیک",
+            "appVersion": "10.8.3",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-15896269041389-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/Sparse-v10.8.3.ipa"
+            },   
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "نشان |‌ Neshan",
+            "appDescription": "نقشه و مسیریاب سخن‌گوی فارسی",
+            "appVersion": "8.1.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16873926291816-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/neshan8.1.0.ipa"
+            },     
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "پولکی",
+            "appDescription": "اپلیکیشن حسابداری شخصی",
+            "appVersion": "8.1.0",
+            "appImage": "https://app.appleapps.ir/storage/2022/03/at-16888318791710-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/poolaki3.6.0.ipa"
+            }, 
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "Zaban",
+            "appDescription": " در اپلیکیشن زبان‌ تماشا کن و زبان یاد بگیر!",
+            "appVersion": "1.2.1",
+            "appImage": "https://app.appleapps.ir/storage/2024/05/at-17157742791606-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/zaban1.2.1.ipa"
+            }, 
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "آبان تتر",
+            "appDescription": "صرافی ارز دیجیتال",
+            "appVersion": "5.0.4",
+            "appImage": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/abantether5.0.4.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "رمزینکس تریدر",
+            "appDescription": "سرویس خرید و فروش ارز دیجیتال",
+            "appVersion": "4.0.1",
+            "appImage": "https://cdn.appleapps.ir/2021/02/at-16124456291926-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2022/ramzinex-v4.0.1-appleapps.ir.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "بیت 24 | Bit24",
+            "appDescription": "خرید و فروش بیت کوین و ارزدیجیتال",
+            "appVersion": "8.5.3",
+            "appImage": "https://app.appleapps.ir/storage/2023/06/at-16879659361982-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/bit24v8.5.3.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "Nobitex | نوبیتکس",
+            "appDescription": "صرافی آنلاین - خرید فروش ارز دیجیتال",
+            "appVersion": "3.6.2",
+            "appImage": "https://app.appleapps.ir/storage/2022/02/at-16839460771868-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/nobitex3.6.2.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "زیتونیکس",
+            "appDescription": "دزدگیر و ردیاب هوشمند خودرو",
+            "appVersion": "5.5",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-16225608081794-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2023/xitonix5.5.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "پیام رسان ایتا",
+            "appDescription": "برنامه‌ای برای همه نیازهای کاربران ایرانی",
+            "appVersion": "4.1.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16871008981717-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/eitaa4.1.0.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "آپارات",
+            "appDescription": "آپارات - سرویس اشتراک ویدیو",
+            "appVersion": "5.8.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16888353121853-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/aparat5.8.0.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "AppAhang Pro",
+            "appDescription": "اپآهنگ دنیای موسیقی",
+            "appVersion": "42.0.0",
+            "appImage": "https://app.appleapps.ir/storage/2023/06/at-17124835251504-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/AppAhangProV39.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "ساد24",
+            "appDescription": "خدمات مدیریت چک و امور مالی",
+            "appVersion": "1.0",
+            "appImage": "https://app.appleapps.ir/storage/2024/04/at-17138576531268-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/sad24v1.0.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "ماکسیم",
+            "appDescription": "درخواست آنلاین تاكسی ماکسیم",
+            "appVersion": "3.183",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-16061555041620-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/Taxim3.183.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "we | پیامرسان we",
+            "appDescription": "پیامرسانی متمرکز بر سرعت و امنیت",
+            "appVersion": "8.0.0",
+            "appImage": "https://cdn.appleapps.ir/2022/04/at-16511379441471-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/we8.0.0.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "دیجیکالا",
+            "appDescription": "فروشگاهی بزرگ در جیب شما",
+            "appVersion": "3.1.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-17000171301610-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/digikala3.1.0.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "قبضینو | Ghabzino",
+            "appDescription": "استعلام و پرداخت انواع قبض",
+            "appVersion": "1.3.1",
+            "appImage": "https://app.appleapps.ir/storage/2020/06/at-17059252451964-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/ghabzino1.3.1.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "هفـ‌هشتاد (#780*)",
+            "appDescription": "خرید شارژ ، بسته اینترنتی ، کارت به کارت",
+            "appVersion": "4.1.6",
+            "appImage": "https://app.appleapps.ir/storage/2022/05/at-16966877041964-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/hafhashtaf4.1.6.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "زست | Zest",
+            "appDescription": "فروش، فاکتور و حسابداری",
+            "appVersion": "1.1.4",
+            "appImage": "https://app.appleapps.ir/storage/2023/10/at-16985665811573-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/zestapp1.1.4.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "یادآور چک ۲ ",
+            "appDescription": "مدیریت و یادآوری چک ها به همراه اسکن چک صیاد",
+            "appVersion": "3.0",
+            "appImage": "https://cdn.appleapps.ir/2020/09/at-16012869691799-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/yadavarcheck3.0.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "دخل و خرج",
+            "appDescription": "مدیریت مالی ساده برای همه",
+            "appVersion": "3.0.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16862278401084-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/dakhlokharj3.0.0.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "فروشا",
+            "appDescription": "مدیریت آسان فاکتور و مشتری",
+            "appVersion": "3.1",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16840621451800-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/froosha3.1.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "سامانه همتا",
+            "appDescription": "سامانه رجیستری دستگاه های ارتباطی",
+            "appVersion": "1.3",
+            "appImage": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/Iranian/hamta.jpg",
+            "appPackage": "https://applemobile.s3.ir-thr-at1.arvanstorage.ir/ios/ipa/Iranian/hamta-v1.5.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "iGap",
+            "appDescription": "پیام رسان آیگپ",
+            "appVersion": "2.3.4.1",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-15896287131966-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2023/igap2.3.4v2.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "Rubika",
+            "appDescription": "اپلیکیشن پیام‌رسان روبیکا",
+            "appVersion": "2.5.2",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16941271481992-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2023/rubika2.5.2.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "علی بابا | Alibaba.ir",
+            "appDescription":  "مرجع خرید بلیط هواپیما ، قطار و رزرو هتل و ...",
+            "appVersion": "8.0.4",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16871073301589-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/alibaba8.0.3.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "شیپور",
+            "appDescription":  "نیازمندیهای رایگان",
+            "appVersion": "4.3.2",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-15896270841898-100x100.png",
+            "appPackage": "https://dl2.apptrackr.ir/user1/ios/2021/sheypoor-v4.3.2.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "آنتن",
+            "appDescription":  "تلوزیون اینترنتی آنتن : پخش زنده مسابقات ورزشی",
+            "appVersion": "4.1.0",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-15896270931361-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2023/anten4.1.0.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "تلوبیون | Telewebion",
+            "appDescription":  "پخش زنده و آرشیو کامل برنامه های تلوزیون",
+            "appVersion": "1.6",
+            "appImage": "https://cdn.appleapps.ir/2020/07/at-15960448311464-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2022/televebion-v1-appleapps.ir.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "نماوا - تماشای فیلم",
+            "appDescription":  "تماشای آنلاین فیلم و سریال",
+            "appVersion": "3.2.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16980695301860-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/namava3.2.0.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "فیلم نت",
+            "appDescription": "تماشای آنلاین و دانلود فیلم سریال های روز دنیا",
+            "appVersion": "4.5.2",
+            "appImage": "https://cdn.appleapps.ir/2021/04/at-16172206961556-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2022/filmnt-v4.5.2-appleapps.ir.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "بلد | Balad",
+            "appDescription": "نقشه و مسیریاب قدرتمند ایرانی",
+            "appVersion": "3.1.1.1",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-15896276731074-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2023/balad3.1.1x.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "همراه من | MyMCI",
+            "appDescription": "همراه من، همراه اول زندگی دیجیتال",
+            "appVersion": "7.01",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-15898094781939-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/mymci-v7.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "ایرانسل من |‌ My Irancell",
+            "appDescription": "ایرانسل من برای مدیریت سیم کارت های ایرانسل",
+            "appVersion": "3.0.1",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16888342911176-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2023/myirancell3.0.1.ipa"
+            }
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-03-17T15:00:00+0800",
+            "appName": "رایتل من | MyRightel",
+            "appDescription":  "مدیریت امور سیم کارت رایتل",
+            "appVersion": "14.3.11",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-15900852021696-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2023/rightel14.3.11.ipa"
+            }
+        
+        
+        
+        
+        
         
         
         
