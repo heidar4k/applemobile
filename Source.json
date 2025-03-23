@@ -947,7 +947,7 @@
             
             {
             "appType": "SELF_SIGN",
-            "appCateIndex": 2,
+            "appCateIndex": 3,
             "appUpdateTime": "2025-03-23T15:00:00+0800",
             "appName": "Minecraft",
             "appDescription": "⚠️نسخه های خارج از اپ استور امکان وارد شدن به حساب ماکروسافت را ندارند.",
@@ -957,15 +957,24 @@
             },
             {
             "appType": "SELF_SIGN",
-            "appCateIndex": 2,
+            "appCateIndex": 3,
             "appUpdateTime": "2025-03-23T15:00:00+0800",
             "appName": "Subway Surfers",
             "appDescription": "ویژگیهای هک:\n سکه های نامحدود -> به تنظیمات بروید و دکمه موسیقی را تغییر دهید. دکمه را چند بار تغییر دهید تا مقدار مثبت دریافت کنید.\n تقویت کننده های نامحدود -> به تنظیمات بروید و دکمه صدا را تغییر دهید، دکمه را چند بار تغییر دهید تا مقدار مثبت دریافت کنید.\n حرکات نامحدود",
             "appVersion": "3.43.3",
-            "appImage": "https://app.appleapps.ir/storage/2024/12/at-17335782581055-100x100.jpg",
+            "appImage": "https://app.appleapps.ir/storage/2025/03/at-17408084611536-100x100.jpg",
             "appPackage": "https://dl3.apptrackr.ir/ios/2025/SubwaySurf3.43.3.ipa"
             },
-        
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 3,
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
+            "appName": "GTA: San Andreas (Definitive Edition)",
+            "appDescription": "نسخه ریمستر بازی جی تی ای سن اندرس.\nامکان وارد کردن چیت کد در منو Accessibility و Enter Cheat Code وجود دارد\n📲پشتیبانی از دستگاه های دارای چیپست A12 به بالا (iPhone XS)\nℹ️بازی دارای 6.22GB دیتای نیاز به دانلود است.",
+            "appVersion": "1.86",
+            "appImage": "https://app.appleapps.ir/storage/2024/04/at-17135926591396-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2024/GTASanAndreasDefinitivev1.86.44544238.ipa"
+            },
         
     ]
 }
