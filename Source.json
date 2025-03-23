@@ -1,6 +1,6 @@
 
 
- {
+    {
     "version": "1.0",
     "sourceName": "Apple Mobile",
     "sourceAuthor": "heidar4k",
@@ -13,9 +13,11 @@
     "appCategories": [
         "Iranian Apps",
         "Mobile Banking",
-        "Tweaked Apps"
+        "Tweaked Apps",
+        "Hacked Games"
     ],
-    "appRepositories": [
+    
+            "appRepositories": [
 
             {
             "appType": "SELF_SIGN",
@@ -130,12 +132,12 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2025-01-19T15:00:00+0800",
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
             "appName": "Bama | باما",
             "appDescription": "بازار خودرو",
-            "appVersion": "4.0.0",
+            "appVersion": "4.2.1",
             "appImage": "https://app.appleapps.ir/storage/2020/05/at-17302269921221-100x100.jpeg",
-            "appPackage": "https://dl3.apptrackr.ir/ios/2025/bama4.2.0.ipa"
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/bama4.2.1.ipa"
             },
             {
             "appType": "SELF_SIGN",
@@ -250,12 +252,12 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2025-03-19T15:00:00+0800",
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
             "appName": "پولکی",
             "appDescription": "اپلیکیشن حسابداری شخصی",
-            "appVersion": "8.1.0",
+            "appVersion": "3.7.1",
             "appImage": "https://app.appleapps.ir/storage/2022/03/at-16888318791710-100x100.png",
-            "appPackage": "https://dl3.apptrackr.ir/ios/2025/poolaki3.6.0.ipa"
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/poolaki3.7.1.ipa"
             }, 
             {
             "appType": "SELF_SIGN",
@@ -400,12 +402,12 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2025-03-19T15:00:00+0800",
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
             "appName": "هفـ‌هشتاد (#780*)",
             "appDescription": "خرید شارژ ، بسته اینترنتی ، کارت به کارت",
-            "appVersion": "4.1.6",
+            "appVersion": "5.0.1",
             "appImage": "https://app.appleapps.ir/storage/2022/05/at-16966877041964-100x100.jpeg",
-            "appPackage": "https://dl3.apptrackr.ir/ios/2024/hafhashtaf4.1.6.ipa"
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/hafhashtad5.0.1.ipa"
             },
             {
             "appType": "SELF_SIGN",
@@ -873,7 +875,7 @@
            
             {
             "appType": "SELF_SIGN",
-            "appCateIndex": 1,
+            "appCateIndex": 2,
             "appUpdateTime": "2025-03-04T15:00:00+0800",
             "appName": "Instagram Rocket Cracked",
             "appDescription": "اینستاگرام پیشرفته راکت - آنلاک شده",
@@ -881,6 +883,89 @@
             "appImage": "https://app.appleapps.ir/storage/2020/06/at-16930276561236-100x100.png",
             "appPackage": "https://dl3.apptrackr.ir/ios/2025/Instagram370.0.0Rocket3.8.32Cracked.ipa"
             },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
+            "appName": "Captions++",
+            "appDescription": "زیرنویس خودکار و ویرایش ویدیو | نسخه آنلاک شده\n نکته بسیار مهم Caption Pro : اپلیکیشن Caption به شدت روی IP شما حساس هست و فقط باید VP N شما روشن و از نوعی باشه که سرور و پ ان درست کامل کانفیگ شده باشه که همه اپلیکیشن هارو قابلیت لاگین داشته باشه ! اگر موقع وارد شدن به اکانت  اررور opps network connection میگیرید فقط مربوط به نوع رفع تحریم شماست .",
+            "appVersion": "12.10.0",
+            "appImage": "https://app.appleapps.ir/storage/2025/03/at-17418025371147-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/Captions_For_Talking_Videos_v12_10_0.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
+            "appName": "Lightroom Photo & Video Editor ++",
+            "appDescription": "ویرایش قدرتمند تصاویر و عکاسی حرفه ای \n نحوه فعال سازی پریمیوم: \nقبل از اجرای برنامه حتما و پ ان روشن باشه ! دقت کنید نوع V P N به شدت مهم و حساس هست روی این اپلیکیشن ( آیپی بلاک نباشه ) \nپس از اجرا فقط باید با اکانت گوگل وارد اپ بشید ( ترجیحا با یک گوگل اکانت مجزا وارد بشید ) \nاین نسخه بصورت پیش فرض آنلاک شده است \nخرید درون برنامه ای را انجام دهید ( یعنی روی قسمت خرید Premium شما خرید بزنید Purchase بزنید ) و پس از درخواست اپل ایدی کنسل کنید. تا نسخه پریمیوم رایگان فعال شود",
+            "appVersion": "10.2.3",
+            "appImage": "https://app.appleapps.ir/storage/2024/06/at-17192459891518-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/Lightroomv10.2.3ProMoe.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
+            "appName": "EeveeSpotify",
+            "appDescription": "توییک فوق العاده اسپاتیفای بدون محدودیت! \n♟️پیش از نصب این اپلیکیشن باید نسخه اصلی اسپاتیفای رو حذف کنید !\n📜پس از ورود به برنامه , برنامه را بسته و مجدد باز کنید تا پریمیوم برنامه فعال شود.\nاسپاتیفای به شدت روی آیپی و نوع VP N شما حساس هست و نوع و پ ان شما باید از اسپاتیفای پشتیبانی کند  و اگر اررور های متفاوتی در لاگین دریافت کردین یعنی مشکل از سمت V P N A شماست .",
+            "appVersion": "9.0.28",
+            "appImage": "https://app.appleapps.ir/storage/2022/04/at-17193242911594-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/Spotifyeevee9.0.28.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
+            "appName": "Facetune++",
+            "appDescription": "نسخه پریمیوم - یکی از بهترین ویراشگرهای تصاویر.\n💲✅:نسخه پریمیوم اپلیکیشن Facetune  بدون نیاز به  60 دلار پرداخت درون برنامه ای از تمامی قابلیت های پولی و VIP این برنامه به صورت آنلاک شده و کاملا رایگان استفاده نمایید.\nاین نسخه بصورت پیش فرض آنلاک شده است./ درصورت نیاز وارد حساب کاربری برنامه شوید.\n❕: بخش AI Avatar بدلیل سرور ساید بودن قابل آنلاک نیست.",
+            "appVersion": "3.83.3",
+            "appImage": "https://app.appleapps.ir/storage/2024/11/at-17326492481926-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/Facetune3.83.3ProMoe.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
+            "appName": "PDF Expert++",
+            "appDescription": "ویرایش، امضا، حاشیه نویسی اسناد\n✅💲نسخه کامل پریمیوم برنامه را بدون نیاز به پرداخت 50$ استفاده کنید👑",
+            "appVersion": "7.22.18",
+            "appImage": "https://app.appleapps.ir/storage/2023/10/at-16969184101898-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/PDFExpert7.22.18ProMoe.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
+            "appName": "SnapEdit++",
+            "appDescription": "برنامه ویرایش عکس و ویدئو با هوش مصنوعی\n✅💲نسخه توییک شده پریمیوم همراه اشتراک PRO برنامه, بصورت رایگان بدون نیاز پرداخت 25$ سالانه استفاده کنید.",
+            "appVersion": "5.6.6",
+            "appImage": "https://app.appleapps.ir/storage/2025/01/at-17364176531260-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/SnapEditv5.6.6.ipa"
+            },
+            
+            
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
+            "appName": "Minecraft",
+            "appDescription": "⚠️نسخه های خارج از اپ استور امکان وارد شدن به حساب ماکروسافت را ندارند.",
+            "appVersion": "1.21.62",
+            "appImage": "https://app.appleapps.ir/storage/2024/12/at-17335782581055-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/Minecraftv1.21.62.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-03-23T15:00:00+0800",
+            "appName": "Subway Surfers",
+            "appDescription": "ویژگیهای هک:\n سکه های نامحدود -> به تنظیمات بروید و دکمه موسیقی را تغییر دهید. دکمه را چند بار تغییر دهید تا مقدار مثبت دریافت کنید.\n تقویت کننده های نامحدود -> به تنظیمات بروید و دکمه صدا را تغییر دهید، دکمه را چند بار تغییر دهید تا مقدار مثبت دریافت کنید.\n حرکات نامحدود",
+            "appVersion": "3.43.3",
+            "appImage": "https://app.appleapps.ir/storage/2024/12/at-17335782581055-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/SubwaySurf3.43.3.ipa"
+            },
+        
         
     ]
 }
