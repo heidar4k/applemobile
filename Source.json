@@ -966,15 +966,17 @@
             "appPackage": "https://dl3.apptrackr.ir/ios/2025/SubwaySurf3.43.3.ipa"
             },
             {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 3,
-            "appUpdateTime": "2025-03-23T15:00:00+0800",
-            "appName": "GTA: San Andreas (Definitive Edition)",
-            "appSize": 2645136406,
-            "appDescription": "نسخه ریمستر بازی جی تی ای سن اندرس.\nامکان وارد کردن چیت کد در منو Accessibility و Enter Cheat Code وجود دارد\n📲پشتیبانی از دستگاه های دارای چیپست A12 به بالا (iPhone XS)\nℹ️بازی دارای 6.22GB دیتای نیاز به دانلود است.",
-            "appVersion": "1.86",
-            "appImage": "https://app.appleapps.ir/storage/2024/04/at-17135926591396-100x100.jpg",
-            "appPackage": "https://dl3.apptrackr.ir/ios/2024/GTASanAndreasDefinitivev1.86.44544238.ipa"
+            "Type": "SELF_SIGN",
+            "CateIndex": 3,
+            "UpdateTime": "2025-03-23T15:00:00+0800",
+            "Name": "GTA: San Andreas (Definitive Edition)",
+            "bundleID": "com.netflix.NGP.GTASanAndreasDefinitiveEdition",
+            "bundleIdentifier": "com.netflix.NGP.GTASanAndreasDefinitiveEdition",
+            "Size": 2645136406,
+            "Description": "نسخه ریمستر بازی جی تی ای سن اندرس.\nامکان وارد کردن چیت کد در منو Accessibility و Enter Cheat Code وجود دارد\n📲پشتیبانی از دستگاه های دارای چیپست A12 به بالا (iPhone XS)\nℹ️بازی دارای 6.22GB دیتای نیاز به دانلود است.",
+            "Version": "1.86",
+            "Image": "https://app.appleapps.ir/storage/2024/04/at-17135926591396-100x100.jpg",
+            "Package": "https://dl3.apptrackr.ir/ios/2024/GTASanAndreasDefinitivev1.86.44544238.ipa"
             },
         
     ]
