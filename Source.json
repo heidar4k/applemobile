@@ -886,6 +886,26 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 2,
+            "appUpdateTime": "2025-03-04T15:00:00+0800",
+            "appName": "Instagram Rocket Cracked Duplicate",
+            "appDescription": "اینستاگرام پیشرفته مود شده ( نسخه مجزا ، داپلیکیت )",
+            "appVersion": "370.0.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/06/at-16930276561236-100x100.png",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/Rocket370.0.0.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
+            "appUpdateTime": "2025-03-04T15:00:00+0800",
+            "appName": "Remini++",
+            "appDescription": "بهبود کیفیت عکس‌ کهنه‌ی قدیمی!",
+            "appVersion": "2.10.92",
+            "appImage": "https://app.appleapps.ir/storage/2024/10/at-17284953361371-100x100.jpg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/b97f97940aff37b6a65fec1aaf0414c4.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 2,
             "appUpdateTime": "2025-03-23T15:00:00+0800",
             "appName": "Captions++",
             "appDescription": "زیرنویس خودکار و ویرایش ویدیو | نسخه آنلاک شده\n نکته بسیار مهم Caption Pro : اپلیکیشن Caption به شدت روی IP شما حساس هست و فقط باید VP N شما روشن و از نوعی باشه که سرور و پ ان درست کامل کانفیگ شده باشه که همه اپلیکیشن هارو قابلیت لاگین داشته باشه ! اگر موقع وارد شدن به اکانت  اررور opps network connection میگیرید فقط مربوط به نوع رفع تحریم شماست .",
@@ -970,9 +990,7 @@
             "appCateIndex": 3,
             "appUpdateTime": "2025-03-23T15:00:00+0800",
             "appName": "GTA: San Andreas (Definitive Edition)",
-            "bundleID": "com.netflix.NGP.GTASanAndreasDefinitiveEdition",
-            "bundleIdentifier": "com.netflix.NGP.GTASanAndreasDefinitiveEdition",
-            "size": 2645136406,
+            "appsize": 2645136406,
             "appDescription": "نسخه ریمستر بازی جی تی ای سن اندرس.\nامکان وارد کردن چیت کد در منو Accessibility و Enter Cheat Code وجود دارد\n📲پشتیبانی از دستگاه های دارای چیپست A12 به بالا (iPhone XS)\nℹ️بازی دارای 6.22GB دیتای نیاز به دانلود است.",
             "appVersion": "1.86",
             "appImage": "https://app.appleapps.ir/storage/2024/04/at-17135926591396-100x100.jpg",
