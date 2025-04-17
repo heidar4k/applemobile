@@ -20,6 +20,26 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
+            "appUpdateTime": "2025-04-15T15:00:00+0800",
+            "appName": "Nobitex | نوبیتکس",
+            "appDescription": "صرافی آنلاین - خرید فروش ارز دیجیتال",
+            "appVersion": "3.7.1",
+            "appImage": "https://app.appleapps.ir/storage/2022/02/at-16839460771868-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/nobitex3.7.1.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
+            "appUpdateTime": "2025-04-15T15:00:00+0800",
+            "appName": "آپارات",
+            "appDescription": "آپارات - سرویس اشتراک ویدیو",
+            "appVersion": "6.0.0",
+            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16888353121853-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/ios/2025/aparat6.0.0.ipa"
+            },
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 0,
             "appUpdateTime": "2025-02-09T15:00:00+0800",
             "appName": "ملی گلد | Melli Gold",
             "appDescription": "سامانه خرید، فروش، پس انداز و تحویل آسان طلای آب‌شده",
@@ -300,16 +320,6 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 0,
-            "appUpdateTime": "2025-03-12T15:00:00+0800",
-            "appName": "Nobitex | نوبیتکس",
-            "appDescription": "صرافی آنلاین - خرید فروش ارز دیجیتال",
-            "appVersion": "3.6.2",
-            "appImage": "https://app.appleapps.ir/storage/2022/02/at-16839460771868-100x100.jpeg",
-            "appPackage": "https://dl3.apptrackr.ir/ios/2025/nobitex3.6.2.ipa"
-            },
-            {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
             "appUpdateTime": "2023-06-26T15:00:00+0800",
             "appName": "زیتونیکس",
             "appDescription": "دزدگیر و ردیاب هوشمند خودرو",
@@ -326,16 +336,6 @@
             "appVersion": "4.1.0",
             "appImage": "https://app.appleapps.ir/storage/2020/05/at-16871008981717-100x100.jpg",
             "appPackage": "https://dl3.apptrackr.ir/ios/2024/eitaa4.1.0.ipa"
-            },
-            {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 0,
-            "appUpdateTime": "2024-06-11T15:00:00+0800",
-            "appName": "آپارات",
-            "appDescription": "آپارات - سرویس اشتراک ویدیو",
-            "appVersion": "5.8.0",
-            "appImage": "https://app.appleapps.ir/storage/2020/05/at-16888353121853-100x100.jpeg",
-            "appPackage": "https://dl3.apptrackr.ir/ios/2024/aparat5.8.0.ipa"
             },
             {
             "appType": "SELF_SIGN",
@@ -598,6 +598,16 @@
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
+            "appUpdateTime": "2025-04-15T15:00:00+0800",
+            "appName": "دی جت",
+            "appDescription": "همراه بانک جدید بانک دی",
+            "appVersion": "2.15.33",
+            "appImage": "https://cdn.appleapps.ir/2020/05/at-15899405721730-100x100.jpeg",
+            "appPackage": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/ObINLDjDgpev3gnKa0EklC.ipa"
+            },  
+            {
+            "appType": "SELF_SIGN",
+            "appCateIndex": 1,
             "appUpdateTime": "2025-03-17T15:00:00+0800",
             "appName": "باران",
             "appDescription": "شعبه غیر حضوری بانک کشاورزی",
@@ -665,16 +675,6 @@
             "appImage": "https://app.appleapps.ir/storage/2024/12/at-17341676751448-100x100.jpeg",
             "appPackage": "https://dl3.apptrackr.ir/ios/2025/hamrahbanksina2.15.25.ipa"
             },    
-            {
-            "appType": "SELF_SIGN",
-            "appCateIndex": 1,
-            "appUpdateTime": "2025-02-02T15:00:00+0800",
-            "appName": "دی جت",
-            "appDescription": "همراه بانک جدید بانک دی",
-            "appVersion": "2.14.56",
-            "appImage": "https://cdn.appleapps.ir/2020/05/at-15899405721730-100x100.jpeg",
-            "appPackage": "https://dl3.apptrackr.ir/9d3c9675a64fd9f489ed161fa7310e58/zaCQjPRqDVRGaYES5KqZAd.ipa"
-            },  
             {
             "appType": "SELF_SIGN",
             "appCateIndex": 1,
