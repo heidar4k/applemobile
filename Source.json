@@ -9,7 +9,40 @@
 
     "apps": [
   
-    {
+      {
+      "appCateIndex": 0,
+      "name": "شیپور",
+      "localizedDescription": "نیازمندیهای رایگان",
+      "bundleIdentifier": "com.sheypoor.mobile",
+      "version": "5.0.0",
+      "versionDate": "2025-05-25",
+      "size": 3748650,
+      "iconURL": "https://cdn.appleapps.ir/2020/05/at-15896270841898-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/sheypoor5.0.0.ipa"
+      }, 
+      {
+      "appCateIndex": 0,
+      "name": "آبان تتر",
+      "localizedDescription": "صرافی ارز دیجیتال",
+      "bundleIdentifier": "ir.aban.th",
+      "version": "6.0.0",
+      "versionDate": "2025-05-25",
+      "size": 20615199,
+      "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
+      "downloadURL": "hhttps://dl3.apptrackr.ir/ios/2025/abantether6.0.0.ipa"
+      },
+      {
+      "appCateIndex": 0,
+      "name": "فوربیکس",
+      "localizedDescription": "دستیار کسب و کار فوربیکس",
+      "bundleIdentifier": "ir.forbix.app",
+      "version": "2.2.12",
+      "versionDate": "2025-05-25",
+      "size": 31418435,
+      "iconURL": "https://app.appleapps.ir/storage/2024/08/at-17239862861892-100x100.jpg",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/fwrbyks2.2.12.ipa"
+      },    
+      {
       "appCateIndex": 0,
       "name": "Nobitex | نوبیتکس",
       "localizedDescription": "صرافی آنلاین - خرید فروش ارز دیجیتال",
@@ -19,8 +52,8 @@
       "size": 27062888,
       "iconURL": "https://app.appleapps.ir/storage/2022/02/at-16839460771868-100x100.jpeg",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/nobitex3.7.1.ipa"
-     },
-     {
+      },
+      {
       "appCateIndex": 0,
       "name": "آپارات",
       "localizedDescription": "آپارات - سرویس اشتراک ویدیو",
@@ -30,8 +63,8 @@
       "size": 22287599,
       "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16888353121853-100x100.jpeg",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/aparat6.0.0.ipa"
-     },
-     {
+      },
+      {
       "appCateIndex": 0,
       "name": "ملی گلد | Melli Gold",
       "localizedDescription": "سامانه خرید، فروش، پس انداز و تحویل آسان طلای آب‌شده",
@@ -41,8 +74,8 @@
       "size": 3854644,
       "iconURL": "https://app.appleapps.ir/storage/2025/02/at-17391191681451-100x100.jpeg",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/meligold.ipa"
-     },
-     {
+      },
+      {
       "appCateIndex": 0,
       "name": "جیم شو | Gymshow",
       "localizedDescription": "کالری شمار، رژیم، ورزش در خانه",
@@ -52,8 +85,8 @@
       "size": 29396037,
       "iconURL": "https://app.appleapps.ir/storage/2024/03/at-17097519461472-100x100.png",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/gymshow2.7.2.ipa"
-     },  
-     {
+      },  
+      {
       "appCateIndex": 0,
       "name": "دولت من",
       "localizedDescription": "پنجره ملی خدمات دولت هوشمند",
@@ -74,8 +107,8 @@
       "size": 12408624,
       "iconURL": "https://app.appleapps.ir/storage/2024/10/at-17281107021181-100x100.png",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/capp0.2.1.ipa"
-     }, 
-     {
+      }, 
+      {
       "appCateIndex": 0,
       "name": "زرین پال من",
       "localizedDescription": "درگاه پرداخت اینترنتی",
@@ -96,17 +129,6 @@
       "size": 37568723,
       "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/asanpardakht7.5.0.ipa"
-      }, 
-      {
-      "appCateIndex": 0,
-      "name": "فوربیکس",
-      "localizedDescription": "دستیار کسب و کار فوربیکس",
-      "bundleIdentifier": "",
-      "version": "2.2.0",
-      "versionDate": "2025-03-10",
-      "size": 31024326,
-      "iconURL": "https://app.appleapps.ir/storage/2024/08/at-17239862861892-100x100.jpg",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/fwrbyks2.2.0.ipa"
       }, 
       {
       "appCateIndex": 0,
@@ -272,18 +294,7 @@
       "size": 26478400,
       "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17157742791606-100x100.png",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/zaban1.2.1.ipa"
-      }, 
-      {
-      "appCateIndex": 0,
-      "name": "آبان تتر",
-      "localizedDescription": "صرافی ارز دیجیتال",
-      "bundleIdentifier": "",
-      "version": "5.0.4",
-      "versionDate": "2025-03-06",
-      "size": 20592762,
-      "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/abantether5.0.4.ipa"
-      }, 
+      },  
       {
       "appCateIndex": 0,
       "name": "رمزینکس تریدر",
@@ -484,17 +495,6 @@
       },  
       {
       "appCateIndex": 0,
-      "name": "شیپور",
-      "localizedDescription": "نیازمندیهای رایگان",
-      "bundleIdentifier": "",
-      "version": "4.3.2",
-      "versionDate": "2021-10-12",
-      "size": 32805726,
-      "iconURL": "https://cdn.appleapps.ir/2020/05/at-15896270841898-100x100.png",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/sheypoor4.3.2.ipa"
-      },  
-      {
-      "appCateIndex": 0,
       "name": "آنتن",
       "localizedDescription": "تلوزیون اینترنتی آنتن : پخش زنده مسابقات ورزشی",
       "bundleIdentifier": "",
@@ -584,7 +584,17 @@
     
     
     
-      
+      {
+      "appCateIndex": 0,
+      "name": "موبایل بانک خاورمیانه",
+      "localizedDescription": "نسخه رسمی همراه بانک خاورمیانه",
+      "bundleIdentifier": "ir.meb.MEBApp",
+      "version": "2.0.20",
+      "versionDate": "2025-05-25",
+      "size": 12301962,
+      "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16872788201271-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/khavarmiane2.0.20.ipa"
+      }, 
       {
       "appCateIndex": 0,
       "name": "همراه بانک صادرات",
