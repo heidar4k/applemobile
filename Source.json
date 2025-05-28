@@ -16,7 +16,7 @@
       "localizedDescription": "درخواست آنلاین تاكسی ماکسیم\nنکته بسیار مهم : وقتی برای اولین بار وارد اپ ماکسیم میشید حتما دقت کنید و پ ان شما خاموش باشه و آیپی ایران باشید تا اپ تبدیل به ماکسیم شود",
       "bundleIdentifier": "",
       "version": "3.203",
-      "versionDate": "2025-05-11",
+      "versionDate": "2025-05-12",
       "size": 107285223,
       "iconURL": "https://cdn.appleapps.ir/2020/05/at-16061555041620-100x100.png",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/maximp3.203.ipa"
@@ -27,7 +27,7 @@
       "localizedDescription": "هویت الکترونیکی موبایلی نوین",
       "bundleIdentifier": "",
       "version": "3.11.0",
-      "versionDate": "2025-05-11",
+      "versionDate": "2025-05-12",
       "size": 52097589,
       "iconURL": "https://app.appleapps.ir/storage/2024/03/at-17107676931138-100x100.png",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/hamoon3.11.0.ipa"
@@ -38,7 +38,7 @@
       "localizedDescription": "صرافی ارز دیجیتال",
       "bundleIdentifier": "ir.aban.th",
       "version": "6.1.0",
-      "versionDate": "2025-05-11",
+      "versionDate": "2025-05-12",
       "size": 20615199,
       "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/abantether6.1.0.ipa"
@@ -48,11 +48,11 @@
       "name": "دیوار",
       "localizedDescription": "محل انتشار رایگان انواع آگهی",
       "bundleIdentifier": "",
-      "version": "12.12.1",
-      "versionDate": "2025-05-11",
+      "version": "12.13.2",
+      "versionDate": "2025-05-28",
       "size": 54659464,
       "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/divar12.12.1.ipa"
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Divar12.13.2.ipa"
       }, 
       {
       "appCateIndex": 0,
@@ -60,7 +60,7 @@
       "localizedDescription": "تماشای آنلاین فیلم و سریال",
       "bundleIdentifier": "",
       "version": "3.3.0",
-      "versionDate": "2025-05-11",
+      "versionDate": "2025-05-12",
       "size": 22291884,
       "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16980695301860-100x100.jpeg",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/namava3.3.0.ipa"
@@ -584,8 +584,18 @@
       },  
     
     
-    
-       {
+      {
+      "appCateIndex": 0,
+      "name": "پارسیان من (همراه بانک پارسیان)",
+      "localizedDescription": "اپلیکیشن رسمی بانک پارسیان",
+      "bundleIdentifier": "",
+      "version": "9.5.2",
+      "versionDate": "2025-05-28",
+      "size": 88952008,
+      "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16852131461426-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/myparsian9.5.2.ipa"
+      },   
+      {
       "appCateIndex": 0,
       "name": "Blu Junior | بلو جونیور",
       "localizedDescription": "یک بانک تمام دیجیتال برای کودکان",
@@ -623,11 +633,11 @@
       "name": "بانکت",
       "localizedDescription": "افتتاح حساب رایگان بانک مهر",
       "bundleIdentifier": "",
-      "version": "5.0.3",
-      "versionDate": "2025-05-25",
+      "version": "5.1.2",
+      "versionDate": "2025-05-28",
       "size": 36236696,
       "iconURL": "https://app.appleapps.ir/storage/2024/09/at-17263974881894-100x100.png",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/banket5.0.3.ipa"
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/banket5.1.2.ipa"
       },   
       {
       "appCateIndex": 0,
@@ -667,11 +677,11 @@
       "name": "باران",
       "localizedDescription": "شعبه غیر حضوری بانک کشاورزی",
       "bundleIdentifier": "",
-      "version": "3.0.1",
-      "versionDate": "2025-03-17",
+      "version": "3.2.1",
+      "versionDate": "2025-05-28",
       "size": 26119653,
       "iconURL": "https://app.appleapps.ir/storage/2025/03/at-17422395811996-100x100.jpg",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/baran3.0.1.ipa"
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/baran3.2.1.ipa"
       },
       {
       "appCateIndex": 0,
@@ -689,11 +699,11 @@
       "name": "همراه بانک ملت",
       "localizedDescription": "اپلیکیشن رسمی همراه بانک ملت",
       "bundleIdentifier": "",
-      "version": "1.2.5",
-      "versionDate": "2025-03-11",
+      "version": "1.2.6",
+      "versionDate": "2025-05-28",
       "size": 78439465,
       "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16865736401056-100x100.jpeg",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/bankmelat1.2.5.ipa"
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/HamrahBank1.2.6.ipa"
       },
       {
       "appCateIndex": 0,
@@ -799,11 +809,11 @@
       "name": "کیوبانک",
       "localizedDescription": "بانک تمام دیجیتال مهرایران",
       "bundleIdentifier": "",
-      "version": "6.8.10",
-      "versionDate": "2025-05-25",
+      "version": "6.8.11",
+      "versionDate": "2025-05-28",
       "size": 38112808,
       "iconURL": "https://app.appleapps.ir/storage/2023/07/at-16882337221906-100x100.jpg",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/qbank6.8.10.ipa"
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/qbank6.8.11.ipa"
       }, 
       {
       "appCateIndex": 0,
