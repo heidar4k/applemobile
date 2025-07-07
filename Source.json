@@ -9,7 +9,18 @@
 
     "apps": [
   
-  
+ 
+       {
+      "appCateIndex": 0,
+      "name": "SpotPlayer",
+      "localizedDescription": "پخش کننده اسپات پلیر",
+      "bundleIdentifier": "",
+      "version": "5.3",
+      "versionDate": "2023-07-26",
+      "size": 9038164,
+      "iconURL": "https://app.appleapps.ir/storage/2023/07/at-16903561161324-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2023/spotplayer5.3.ipa"
+      }, 
       {
       "appCateIndex": 0,
       "name": "ماکسیم",
