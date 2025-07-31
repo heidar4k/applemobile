@@ -11,6 +11,117 @@
 
 
 
+
+      {
+      "appCateIndex": 0,
+      "name": "دیوار",
+      "localizedDescription": "محل انتشار رایگان انواع آگهی",
+      "bundleIdentifier": "cloud.vitrin.ios",
+      "version": "12.17.0",
+      "versionDate": "2025-07-31",
+      "size": 155402270,
+      "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Divar12.17.0.ipa"
+      }, 
+      {
+      "appCateIndex": 0,
+      "name": "ایرانیکارت",
+      "localizedDescription": "پلتفرم تبادلات مالی بین‌المللی",
+      "bundleIdentifier": "com.iranicard.app",
+      "version": "3.0.4",
+      "versionDate": "2025-07-31",
+      "size": 87339509,
+      "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17126630491097-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/IraniCard3.0.4.ipa"
+      }, 
+      {
+      "appCateIndex": 0,
+      "name": "رایتل من | MyRightel",
+      "localizedDescription": "مدیریت امور سیم کارت رایتل",
+      "bundleIdentifier": "ir.rightel.myrightel",
+      "version": "1.01",
+      "versionDate": "2025-07-31",
+      "size": 313997764,
+      "iconURL": "https://app.appleapps.ir/storage/2020/05/at-17532119191004-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/MyRightel1.0.ipa"
+      }, 
+      {
+      "appCateIndex": 0,
+      "name": "همراه من | MyMCI",
+      "localizedDescription": "همراه من، همراه اول زندگی دیجیتال",
+      "bundleIdentifier": "com.ebcom.my",
+      "version": "7.01.1",
+      "versionDate": "2025-07-31",
+      "size": 13166527,
+      "iconURL": "https://cdn.appleapps.ir/2020/05/at-15898094781939-100x100.jpeg",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/com.ebcom.my6.0.8.ipa"
+      },
+      {
+      "appCateIndex": 0,
+      "name": "آپارات اسپرت | Aparat Sport",
+      "localizedDescription": "سرویس پخش رایگان مسابقات ورزشی",
+      "bundleIdentifier": "com.aparat.sport.Mobile",
+      "version": "1.6.0",
+      "versionDate": "2025-07-31",
+      "size": 12671456,
+      "iconURL": "https://app.appleapps.ir/storage/2025/05/at-17486846341088-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/AparatSport1.6.0.ipa"
+      }, 
+      {
+      "appCateIndex": 0,
+      "name": "پیام‌رسان بله (نسخه آزمایشی)",
+      "localizedDescription": "گفتگو و پرداخت در یک اپلیکیشن",
+      "bundleIdentifier": "ai.ios.bale2",
+      "version": "1.0.0.1",
+      "versionDate": "2025-07-31",
+      "size": 64070528,
+      "iconURL": "https://app.appleapps.ir/storage/2022/11/at-17532113161859-100x100.jpeg",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Bale1.0.1.ipa"
+      }, 
+      {
+      "appCateIndex": 0,
+      "name": "پیام‌رسان سروش پلاس",
+      "localizedDescription": "پیام‌رسان رایگان و همیشه در دسترس",
+      "bundleIdentifier": "com.soroush.plus",
+      "version": "1.0.0.1",
+      "versionDate": "2025-07-31",
+      "size": 55598284,
+      "iconURL": "https://app.appleapps.ir/storage/2025/07/at-17531197251849-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Sourosh1.0.0.ipa"
+      }, 
+      {
+      "appCateIndex": 0,
+      "name": "AppAhang Pro",
+      "localizedDescription": "اپآهنگ دنیای موسیقی",
+      "bundleIdentifier": "",
+      "version": "67.0",
+      "versionDate": "2025-07-31",
+      "size": 41889885,
+      "iconURL": "https://app.appleapps.ir/storage/2023/06/at-17124835251504-100x100.jpg",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/AppAhangV67.ipa"
+      }, 
+      {
+      "appCateIndex": 0,
+      "name": "جاباما | Jabama",
+      "localizedDescription": "به راحت ترین شکل ویلا،هتل و اقامتگاه رزرو کنید !",
+      "bundleIdentifier": "ir.jabama.app",
+      "version": "3.5.3",
+      "versionDate": "2025-07-31",
+      "size": 157132774,
+      "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16894482531019-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Jabama3.5.3.ipa"
+      },
+      {
+      "appCateIndex": 0,
+      "name": "آبان تتر",
+      "localizedDescription": "صرافی ارز دیجیتال",
+      "bundleIdentifier": "ir.aban.th",
+      "version": "6.12.1",
+      "versionDate": "2025-07-31",
+      "size": 61693444,
+      "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/AbanTether6.12.1.ipa"
+      },
       {
       "appCateIndex": 0,
       "name": "Bama | باما",
@@ -65,51 +176,18 @@
       "size": 37568723,
       "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16924604631486-100x100.png",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/asanpardakht7.6.0.ipa"
-      },    
-      {
-      "appCateIndex": 0,
-      "name": "دیوار",
-      "localizedDescription": "محل انتشار رایگان انواع آگهی",
-      "bundleIdentifier": "",
-      "version": "12.15.2",
-      "versionDate": "2025-07-10",
-      "size": 54659464,
-      "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16910764461505-100x100.png",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Divar12.15.2.ipa"
-      },     
-      {
-      "appCateIndex": 0,
-      "name": "آبان تتر",
-      "localizedDescription": "صرافی ارز دیجیتال",
-      "bundleIdentifier": "ir.aban.th",
-      "version": "6.2.0",
-      "versionDate": "2025-07-10",
-      "size": 20615199,
-      "iconURL": "https://app.appleapps.ir/storage/2024/06/at-17172674881524-100x100.png",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/AbanTether6.2.0.ipa"
-      },    
+      },            
       {
       "appCateIndex": 0,
       "name": "Zaban",
       "localizedDescription": " در اپلیکیشن زبان‌ تماشا کن و زبان یاد بگیر!",
-      "bundleIdentifier": "",
-      "version": "1.3.3",
+      "bundleIdentifier": "edu.xaban.xaban",
+      "version": "1.3.4",
       "versionDate": "2025-07-10",
-      "size": 26478400,
+      "size": 56808766,
       "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17157742791606-100x100.png",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Zaban.com1.3.3.ipa"
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Zaban.com1.3.4.ipa"
       },   
-      {
-      "appCateIndex": 0,
-      "name": "ایرانیکارت",
-      "localizedDescription": "پلتفرم تبادلات مالی بین‌المللی",
-      "bundleIdentifier": "",
-      "version": "3.0.3",
-      "versionDate": "2025-07-10",
-      "size": 19292436,
-      "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17126630491097-100x100.png",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/IraniCard3.0.3.ipa"
-      }, 
       {
       "appCateIndex": 0,
       "name": "SpotPlayer",
@@ -387,17 +465,6 @@
       }, 
       {
       "appCateIndex": 0,
-      "name": "AppAhang Pro",
-      "localizedDescription": "اپآهنگ دنیای موسیقی",
-      "bundleIdentifier": "",
-      "version": "42.0.0",
-      "versionDate": "2024-06-16",
-      "size": 15230695,
-      "iconURL": "https://app.appleapps.ir/storage/2023/06/at-17124835251504-100x100.jpg",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2024/AppAhangProV39.ipa"
-      }, 
-      {
-      "appCateIndex": 0,
       "name": "ساد24",
       "localizedDescription": "خدمات مدیریت چک و امور مالی",
       "bundleIdentifier": "",
@@ -571,18 +638,7 @@
       "size": 48106743,
       "iconURL": "https://cdn.appleapps.ir/2020/05/at-15896276731074-100x100.jpg",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2023/balad3.1.1x.ipa"
-      },  
-      {
-      "appCateIndex": 0,
-      "name": "همراه من | MyMCI",
-      "localizedDescription": "همراه من، همراه اول زندگی دیجیتال",
-      "bundleIdentifier": "",
-      "version": "7.01",
-      "versionDate": "2023-12-11",
-      "size": 319210,
-      "iconURL": "https://cdn.appleapps.ir/2020/05/at-15898094781939-100x100.jpeg",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/mymci-v7.ipa"
-      },  
+      },    
       {
       "appCateIndex": 0,
       "name": "ایرانسل من |‌ My Irancell",
@@ -593,19 +649,10 @@
       "size": 1336302,
       "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16888342911176-100x100.jpeg",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2023/myirancell3.0.1.ipa"
-      },  
-      {
-      "appCateIndex": 0,
-      "name": "رایتل من | MyRightel",
-      "localizedDescription": "مدیریت امور سیم کارت رایتل",
-      "bundleIdentifier": "",
-      "version": "14.3.11",
-      "versionDate": "2023-09-04",
-      "size": 34495147,
-      "iconURL": "https://cdn.appleapps.ir/2020/05/at-15900852021696-100x100.jpeg",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2023/rightel14.3.11.ipa"
-      },  
+      },   
     
+
+
 
 
 
@@ -613,13 +660,35 @@
       "appCateIndex": 0,
       "name": "سپینو",
       "localizedDescription": "نئوبانک صادرات ایران",
-      "bundleIdentifier": "",
-      "version": "1.47.14",
-      "versionDate": "2025-07-10",
-      "size": 28687382,
+      "bundleIdentifier": "app.sepino9",
+      "version": "1.47.14.1",
+      "versionDate": "2025-07-31",
+      "size": 117006259,
       "iconURL": "https://app.appleapps.ir/storage/2024/07/at-17221753071621-100x100.jpeg",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/SepinoCmp1.47.14.ipa"
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/SepinoCmp1.47.14x.ipa"
       },
+      {
+      "appCateIndex": 0,
+      "name": "آبانک | Abank",
+      "localizedDescription": "آبانک ، بانک دیجیتال آینده",
+      "bundleIdentifier": "ir.efarda.abankproduction",
+      "version": "1.9.2.1",
+      "versionDate": "2025-07-31",
+      "size": 50040977,
+      "iconURL": "https://app.appleapps.ir/storage/2022/05/at-16847851311517-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/ir.efarda.abankproduction1.9.2.ipa"
+      }, 
+      {
+      "appCateIndex": 0,
+      "name": "Blu Junior | بلو جونیور",
+      "localizedDescription": "یک بانک تمام دیجیتال برای کودکان",
+      "bundleIdentifier": "com.blubank.jrapp",
+      "version": "2.6.3",
+      "versionDate": "2025-07-31",
+      "size": 48681398,
+      "iconURL": "https://app.appleapps.ir/storage/2023/05/at-17011215861902-100x100.png",
+      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/blujr2.6.3.ipa"
+      }, 
       {
       "appCateIndex": 0,
       "name": "بانکت",
@@ -729,18 +798,7 @@
       "size": 88952008,
       "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16852131461426-100x100.png",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/myparsian9.5.2.ipa"
-      },   
-      {
-      "appCateIndex": 0,
-      "name": "Blu Junior | بلو جونیور",
-      "localizedDescription": "یک بانک تمام دیجیتال برای کودکان",
-      "bundleIdentifier": "",
-      "version": "2.6.1",
-      "versionDate": "2025-05-25",
-      "size": 26078500,
-      "iconURL": "https://app.appleapps.ir/storage/2023/05/at-17011215861902-100x100.png",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/blujr2.6.1.ipa"
-      },    
+      },      
       {
       "appCateIndex": 0,
       "name": "امضای ملت",
@@ -872,17 +930,6 @@
       "size": 126321487,
       "iconURL": "https://app.appleapps.ir/storage/2021/04/at-16841450241269-100x100.jpg",
       "downloadURL": "https://dl3.apptrackr.ir/ios/2025/bluv3.5.0.ipa"
-      }, 
-      {
-      "appCateIndex": 0,
-      "name": "آبانک | Abank",
-      "localizedDescription": "آبانک ، بانک دیجیتال آینده",
-      "bundleIdentifier": "",
-      "version": "1.9.1",
-      "versionDate": "2025-03-13",
-      "size": 23307564,
-      "iconURL": "https://app.appleapps.ir/storage/2022/05/at-16847851311517-100x100.png",
-      "downloadURL": "https://dl3.apptrackr.ir/ios/2025/abank1.9.1.ipa"
       }, 
       {
       "appCateIndex": 0,
