@@ -17,7 +17,7 @@
       {
       "appCateIndex": 0,
       "name": "نشان |‌ Neshan",
-      "localizedDescription": "نقشه و مسیریاب سخن‌گوی فارسی",
+      "localizedDescription": "🗺️ نقشه و مسیریاب فارسی با ترافیک لحظه‌ای، راهنمای صوتی و رادار جاده‌ای.",
       "bundleIdentifier": "com.nmap.ios",
       "version": "8.5.0",
       "versionDate": "2025-08-07",
@@ -28,7 +28,7 @@
       {
       "appCateIndex": 0,
       "name": "قبضینو | Ghabzino",
-      "localizedDescription": "استعلام و پرداخت انواع قبض",
+      "localizedDescription": "💳 اپ پرداخت قبوض، خلافی، خرید شارژ و استعلامات مختلف.",
       "bundleIdentifier": "ios.ayantech.ghabzino",
       "version": ">1.4.0",
       "versionDate": "2025-08-07",
@@ -39,7 +39,7 @@
       {
       "appCateIndex": 0,
       "name": "ماکسیم",
-      "localizedDescription": "درخواست آنلاین تاكسی ماکسیم\nنکته بسیار مهم : وقتی برای اولین بار وارد اپ ماکسیم میشید حتما دقت کنید و پ ان شما خاموش باشه و آیپی ایران باشید تا اپ تبدیل به ماکسیم شود",
+      "localizedDescription": "🚗 تاکسی اینترنتی با خدمات حمل‌ونقل، ارسال پیک و رزرو سریع.",
       "bundleIdentifier": "com.taxsee.Taxsee",
       "version": "3.206",
       "versionDate": "2025-08-07",
@@ -50,7 +50,7 @@
       {
       "appCateIndex": 0,
       "name": "شمار",
-      "localizedDescription": "دفتر حساب، انبار، فاکتور، حسابداری",
+      "localizedDescription": "📒 اپ حسابداری شخصی برای ثبت درآمد و هزینه با گزارش‌های کاربردی.",
       "bundleIdentifier": "com.milad.accounting_book",
       "version": "2.0.55",
       "versionDate": "2025-08-07",
@@ -61,7 +61,7 @@
       {
       "appCateIndex": 0,
       "name": "پولکی",
-      "localizedDescription": "اپلیکیشن حسابداری شخصی",
+      "localizedDescription": "📈 برنامه مدیریت مالی و بودجه‌بندی روزانه و ماهانه.",
       "bundleIdentifier": "poolaki.app",
       "version": "3.9.0",
       "versionDate": "2025-08-07",
@@ -72,7 +72,7 @@
       {
       "appCateIndex": 0,
       "name": "Nobitex | نوبیتکس",
-      "localizedDescription": "صرافی آنلاین - خرید فروش ارز دیجیتال",
+      "localizedDescription": "💱 صرافی دیجیتال برای خرید و فروش ارزهای دیجیتال ایرانی و جهانی.",
       "bundleIdentifier": "app.nobitex.market",
       "version": "3.8.3",
       "versionDate": "2025-08-07",
@@ -83,7 +83,7 @@
       {
       "appCateIndex": 0,
       "name": "دولت من",
-      "localizedDescription": "پنجره ملی خدمات دولت هوشمند",
+      "localizedDescription": "🖥️ دسترسی به خدمات دولتی مانند مالیات، یارانه، بیمه و پیگیری امور.",
       "bundleIdentifier": "ir.gov.mygov",
       "version": "2.6.8",
       "versionDate": "2025-08-07",
@@ -94,7 +94,7 @@
       {
       "appCateIndex": 0,
       "name": "فیلیمو",
-      "localizedDescription": "فیلم و سریال ایرانی و خارجی با دوبله",
+      "localizedDescription": "📺 پلتفرم تماشای فیلم و سریال با امکان دانلود و پخش آفلاین.",
       "bundleIdentifier": "com.aparat.iFilimo",
       "version": "5.16.14",
       "versionDate": "2025-08-07",
@@ -105,7 +105,7 @@
       {
       "appCateIndex": 0,
       "name": "AppAhang Pro",
-      "localizedDescription": "اپآهنگ دنیای موسیقی",
+      "localizedDescription": "🎧 اپ پخش و دانلود موسیقی با امکانات حرفه‌ای برای علاقه‌مندان به موزیک.",
       "bundleIdentifier": "com.ahangimoplus.app",
       "version": "68.0",
       "versionDate": "2025-08-07",
@@ -116,7 +116,7 @@
       {
       "appCateIndex": 0,
       "name": "دیوار",
-      "localizedDescription": "محل انتشار رایگان انواع آگهی",
+      "localizedDescription": "📦 بازار آنلاین خرید و فروش کالا، املاک، خودرو و خدمات متنوع.",
       "bundleIdentifier": "cloud.vitrin.ios",
       "version": "12.18.1",
       "versionDate": "2025-08-07",
